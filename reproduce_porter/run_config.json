@@ -1,0 +1,28 @@
+{
+  "normalized_events_path": "inputs/normalized_author_events.csv",
+  "normalized_events_sha256": "1db96456448f3d789ba703013c3df9368263c63632bdfe8efa9b2b3e9b05433e",
+  "category_order": [
+    "multi-breakpoint",
+    "dup-like",
+    "del-like",
+    "unmatched",
+    "translocation",
+    "repeat"
+  ],
+  "expected_event_patient_record_counts": [
+    129,
+    69,
+    438
+  ],
+  "include_published_fusion_secondary": true,
+  "seed": 20260909,
+  "bootstrap_replicates": 20000,
+  "bootstrap_unit": "Patient label in sourceS1, with all eligible author events together",
+  "patient_estimator": "equal patient weight and equal event weight within patient",
+  "joint_resample": "multinomial patient multiplicities shared by all estimators and contrasts",
+  "interval": "pointwise percentile 2.5/97.5%, numpy linear quantiles",
+  "primary_null_hypothesis_tests": false,
+  "record_weight_meaning": "published S2 breakpoint-record count, not read-support molecules",
+  "structural_scope": "author labels, including unmatched; ecDNA is not an exclusive structural category",
+  "fusion_scope": "published author yes/no fusion-transcript detection labels; no assay sensitivity claim"
+}

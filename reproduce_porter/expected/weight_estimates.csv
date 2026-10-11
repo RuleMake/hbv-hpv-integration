@@ -1,0 +1,22 @@
+measure,weighting,estimate,ci_low,ci_high,patients,events,breakpoint_records,interval
+structure:multi-breakpoint,breakpoint_record,0.6004566210045662,0.44256659676918297,0.70204100634667266,69,129,438,pointwise patient-bootstrap percentile
+structure:dup-like,breakpoint_record,0.16894977168949771,0.10924330184051022,0.26613048271060558,69,129,438,pointwise patient-bootstrap percentile
+structure:del-like,breakpoint_record,0.13242009132420091,0.091702500722859417,0.19259259259259259,69,129,438,pointwise patient-bootstrap percentile
+structure:unmatched,breakpoint_record,0.036529680365296802,0.019107900217381391,0.056307099352873931,69,129,438,pointwise patient-bootstrap percentile
+structure:translocation,breakpoint_record,0.013698630136986301,0,0.034782608695652174,69,129,438,pointwise patient-bootstrap percentile
+structure:repeat,breakpoint_record,0.047945205479452052,0,0.12883478544792146,69,129,438,pointwise patient-bootstrap percentile
+published_fusion_transcript_detected,breakpoint_record,0.62328767123287676,0.51990505499708317,0.75802687643395583,69,129,438,pointwise patient-bootstrap percentile
+structure:multi-breakpoint,author_event,0.31782945736434109,0.21649484536082475,0.39901477832512317,69,129,438,pointwise patient-bootstrap percentile
+structure:dup-like,author_event,0.2868217054263566,0.20529801324503311,0.39090909090909093,69,129,438,pointwise patient-bootstrap percentile
+structure:del-like,author_event,0.22480620155038761,0.16129032258064516,0.29702970297029702,69,129,438,pointwise patient-bootstrap percentile
+structure:unmatched,author_event,0.12403100775193798,0.064220183486238536,0.18110236220472442,69,129,438,pointwise patient-bootstrap percentile
+structure:translocation,author_event,0.023255813953488372,0,0.054421768707482991,69,129,438,pointwise patient-bootstrap percentile
+structure:repeat,author_event,0.023255813953488372,0,0.052173913043478258,69,129,438,pointwise patient-bootstrap percentile
+published_fusion_transcript_detected,author_event,0.52713178294573648,0.39869281045751637,0.68571428571428572,69,129,438,pointwise patient-bootstrap percentile
+structure:multi-breakpoint,patient_equal,0.27393672444823342,0.17954769347352467,0.37351247987117542,69,129,438,pointwise patient-bootstrap percentile
+structure:dup-like,patient_equal,0.38064317514445384,0.2764895330112721,0.48874289570900814,69,129,438,pointwise patient-bootstrap percentile
+structure:del-like,patient_equal,0.20271857535284646,0.12286634460547505,0.28985507246376807,69,129,438,pointwise patient-bootstrap percentile
+structure:unmatched,patient_equal,0.10163872312209908,0.04627261532632377,0.16846642038457896,69,129,438,pointwise patient-bootstrap percentile
+structure:translocation,patient_equal,0.026570048309178744,0,0.062801932367149774,69,129,438,pointwise patient-bootstrap percentile
+structure:repeat,patient_equal,0.014492753623188406,0,0.033816425120772944,69,129,438,pointwise patient-bootstrap percentile
+published_fusion_transcript_detected,patient_equal,0.73764800606232828,0.64236525528085631,0.82613514729563309,69,129,438,pointwise patient-bootstrap percentile

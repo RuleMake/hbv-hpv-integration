@@ -1,0 +1,4 @@
+contrast,total_variation,interpretation
+event_minus_record,0.30731655516618883,descriptive redistribution across author structure labels; no null test
+patient_minus_record,0.35997234841259645,descriptive redistribution across author structure labels; no null test
+patient_minus_event,0.09713570407378766,descriptive redistribution across author structure labels; no null test

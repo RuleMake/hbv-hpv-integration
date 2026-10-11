@@ -1,0 +1,3 @@
+virus,records_in_pairs,distinct_positions,exact_duplicate_pct,spacing_median_bp,spacing_q10_bp,spacing_q90_bp,n_spacings,reference_median_bp,reference_q10_bp,n_reference,spacing_reference_matches
+HBV,789,784,0.63,276,16,22168,418,25924,4143,83600,True
+HPV,1617,1617,0,3174,32,29755,1158,11085,1283,231600,True

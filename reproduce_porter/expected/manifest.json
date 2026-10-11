@@ -1,0 +1,42 @@
+[
+  {
+    "file": "composition_redistribution.csv",
+    "sha256": "d84d93d048dc80a16587fa99be74823b6c8b2af73d522ffa391e5d7e34f8ba4b",
+    "bytes": 380
+  },
+  {
+    "file": "event_weights.csv",
+    "sha256": "a9a05a612a759f59dd21a0ecb3d1fdfcc573de260bf4aad615764bcd65e77aef",
+    "bytes": 88650
+  },
+  {
+    "file": "joint_bootstrap_estimates.npz",
+    "sha256": "d10abb4f8c3eebcf5238dcfa0e480eef588b0ff433a36c704ac27bf0f593435a",
+    "bytes": 2013223
+  },
+  {
+    "file": "leave_one_patient_out.csv",
+    "sha256": "2149c98c5449dbfd46917dd4c62806a33498b8e621e566606ddc659cf6dbe3a2",
+    "bytes": 120965
+  },
+  {
+    "file": "patient_bootstrap_counts.npy",
+    "sha256": "910d6094fbefdc9da3bc44cdf37207a896d9b50a2b25ae8e5fdbff960438692b",
+    "bytes": 2760128
+  },
+  {
+    "file": "patient_contributions.csv",
+    "sha256": "fb0ac84a423e24b3f3a1d02850bf9868b3c95007ab77a6a08d219f6d93f300e7",
+    "bytes": 8478
+  },
+  {
+    "file": "weight_differences.csv",
+    "sha256": "53d3ad63c2d1b4fd771c9796910a9128b559bd9dfe59faba0d95477298428b01",
+    "bytes": 4123
+  },
+  {
+    "file": "weight_estimates.csv",
+    "sha256": "d609a2672b861963e2078b06bd7975f12e5c447976e792a6e421661325d466b3",
+    "bytes": 3127
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "source": "source_data/S8_source_data.csv",
+    "plotted": "plotted_data/S8_source_data.csv",
+    "sha256": "dfda77b712f8e0cc2209ef585893a02957ebc6c7f05fdeef078b3b332c67ac7c"
+  }
+]

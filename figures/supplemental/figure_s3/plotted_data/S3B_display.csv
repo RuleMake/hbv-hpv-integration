@@ -1,0 +1,6 @@
+panel,svclass,virus,estimator,n_coords,n_events,observed,expected,fold,ci_lo,ci_hi,z,emp_p,mde,clears_mde,survives_bonferroni,mde_constant,log_ratio,mde_half_width,effect_half_width,top10_share_pct,fold_full,p_full,note
+a2,DEL,HPV-vs-HBV,bc,,,,,1.1341,,,2.71,0.0087995600219989,0.12998,False,,2.8,0.12582,,,,,,
+a2,DUP,HPV-vs-HBV,bc,,,,,1.0599,,,2.67,0.0061996900154992,0.06106,False,,2.8,0.05815,,,,,,
+a2,INV,HPV-vs-HBV,bc,,,,,0.9707,,,-1.01,0.3165841707914604,0.08279,False,,2.8,-0.02975,,,,,,
+a2,TRA,HPV-vs-HBV,bc,,,,,0.9874,,,-0.6,0.5568721563921804,0.0596,False,,2.8,-0.01269,,,,,,
+a2,(DEL+DUP)-(TRA+INV),HPV-vs-HBV,bc,,,,,1.2541,,,4.13,9.99950002499875e-05,0.15366,True,,2.8,0.2264,,,,,,

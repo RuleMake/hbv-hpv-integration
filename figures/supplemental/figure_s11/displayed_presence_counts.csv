@@ -1,0 +1,5 @@
+scope,nearby_sv,n_subclonal,n_junctions,pct_subclonal,n_tumours
+All 10 tumours,True,25,99,25.252525252525253,9
+All 10 tumours,False,12,19,63.1578947368421,5
+4 tumours contributing to both groups,True,24,61,39.34426229508197,4
+4 tumours contributing to both groups,False,10,17,58.8235294117647,4

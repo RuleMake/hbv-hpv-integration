@@ -1,0 +1,6 @@
+stage_id,stage_label,unit,HPV,HBV,EBV,total
+1,Published records,records,4390,4010,174,8574
+2,GRCh37-mapped records,records,4266,3895,165,8326
+3,Unique coordinates,coordinates,4087,3645,115,7847
+4,Null-eligible coordinates,coordinates,4086,3645,115,7846
+5,After peak masking,coordinates,3712,3138,107,6957

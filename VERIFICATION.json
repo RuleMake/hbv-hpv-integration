@@ -1,0 +1,63 @@
+{
+  "release": "2026.10.10",
+  "status": "PASS",
+  "environment": {
+    "os": "Windows 11, 64-bit",
+    "python": "3.12.10",
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "matplotlib": "3.11.0",
+    "scipy": "1.17.1",
+    "PyMuPDF": "1.27.2.3",
+    "Pillow": "12.2.0",
+    "figure_font": "Arial"
+  },
+  "integrity_and_saved_results": {
+    "supplemental_tables": 7,
+    "mapped_claim_values": 91,
+    "registered_result_rows": 213,
+    "method": "File hashes, CSV field comparisons and saved-source hashes. These checks do not rerun upstream statistical analyses."
+  },
+  "figure_reproduction": {
+    "main_figures": 6,
+    "supplemental_figures": 11,
+    "svg_full_page_pixel_matches": 17,
+    "pdf_full_page_pixel_matches": 16,
+    "s11_pdf_reference": "Not supplied; S11 is checked against its SVG reference.",
+    "generated_csv_files": 34,
+    "generated_csv_rows": 2347,
+    "copies_of_saved_tables_within_generated_files": 3,
+    "retained_precomputed_csv_files": 18,
+    "retained_precomputed_csv_rows": 792,
+    "csv_numerical_matches": 52,
+    "cold_start": "All 34 declared CSV outputs were removed from isolated copies before execution. The 18 retained CSV files were checked for unchanged content.",
+    "scope": "Preparation and rendering from bundled saved numerical inputs, not raw-data-to-result reanalysis."
+  },
+  "porter_weighting_example": {
+    "status": "PASS",
+    "events": 129,
+    "patients_with_events": 69,
+    "breakpoint_records": 438,
+    "bootstrap_replicates": 20000,
+    "seed": 20260909,
+    "numerical_output_files_byte_identical": 8,
+    "unrelated_working_directory": "PASS",
+    "protected_input_and_expected_directories": "PASS"
+  },
+  "analysis_reference": {
+    "python_files_syntax_checked": 79,
+    "source_mapping_checked": true,
+    "raw_pipeline_executed": false,
+    "scope": "Implementation and provenance inspection. External inputs and original-layout dependencies are documented in analysis_reference/README.md."
+  },
+  "repeat_checks": [
+    "python verify_release.py",
+    "python verify_release.py --rebuild",
+    "python reproduce_porter/run.py --verify --output-dir verification_output/porter"
+  ],
+  "editorial_update": {
+    "scope": "Citation title, explanatory comments, command usage, a diagnostic sample count and a preparation-script audit label.",
+    "verification": "Archive integrity, Python syntax and calculation equivalence were checked after the update. Numerical data, figure programs and Porter programs are unchanged from the full reproduction run recorded above.",
+    "upstream_analyses_rerun": false
+  }
+}

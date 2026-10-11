@@ -1,0 +1,4 @@
+set_label,HPV,HBV,EBV,total,unit,shown_in_panel_B,use
+After peak masking,3712,3138,107,6957,coordinates,True,Class atlas and peak-masked corrected-enrichment analyses
+Null-eligible coordinates,4086,3645,115,7846,coordinates,True,Counting and spatial-reference comparisons before peak masking
+GRCh37-mapped records,4266,3895,165,8326,records,False,Mapped catalogue stage retained for provenance; already displayed in panel A

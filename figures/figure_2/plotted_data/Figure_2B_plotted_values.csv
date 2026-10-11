@@ -1,0 +1,9 @@
+figure,panel,generator,counting_unit,spatial_reference,virus,window_bp,n_simulations,rejection_rate_pct,interval_type
+Figure 2,B,Block translation,Records,Independent,all,pooled,600,29.330000000000002,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Block translation,Loci,Independent,all,pooled,600,2.0,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Block translation,Records,Cluster-preserving,all,pooled,600,4.66999999999999,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Block translation,Loci,Cluster-preserving,all,pooled,600,2.67,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Track rotation,Records,Independent,all,pooled,600,14.999999999999991,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Track rotation,Loci,Independent,all,pooled,600,2.17,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Track rotation,Records,Cluster-preserving,all,pooled,600,3.16999999999999,None; descriptive pooled rate with reused seeds across settings
+Figure 2,B,Track rotation,Loci,Cluster-preserving,all,pooled,600,2.17,None; descriptive pooled rate with reused seeds across settings

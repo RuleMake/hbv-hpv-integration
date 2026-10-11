@@ -1,0 +1,13 @@
+rule,band,n,n_donors,n_subclonal,pct_subclonal,median_ccf,chi2_omnibus,p_omnibus,min_expected_cell,odds_ratio_presence,odds_ratio_presence_donors_in_both_arms,n_donors_single_arm_only
+published_outermost_shell,JUNCTION,9,3,1,11.1,1.0,25.2301,1.38209e-05,2.822,0.1971,0.4541,6
+published_outermost_shell,SEAM,62,8,9,14.5,0.91,25.2301,1.38209e-05,2.822,0.1971,0.4541,6
+published_outermost_shell,FAR,28,5,15,53.6,0.39,25.2301,1.38209e-05,2.822,0.1971,0.4541,6
+published_outermost_shell,NONE,19,5,12,63.2,0.39,25.2301,1.38209e-05,2.822,0.1971,0.4541,6
+sensitivity_nearest_rearrangement,JUNCTION,78,7,23,29.5,0.9296,14.6264,0.00216538,0.941,0.1971,0.4541,6
+sensitivity_nearest_rearrangement,SEAM,18,5,1,5.6,0.91,14.6264,0.00216538,0.941,0.1971,0.4541,6
+sensitivity_nearest_rearrangement,FAR,3,2,1,33.3,0.8484,14.6264,0.00216538,0.941,0.1971,0.4541,6
+sensitivity_nearest_rearrangement,NONE,19,5,12,63.2,0.39,14.6264,0.00216538,0.941,0.1971,0.4541,6
+rule_invariant_presence_contrast,any_SV_within_100kb,99,9,25,25.3,,,0.00225021,,0.1971,0.4541,6
+rule_invariant_presence_contrast,no_SV_within_100kb,19,5,12,63.2,,,0.00225021,,0.1971,0.4541,6
+presence_contrast_within_donor_permutation,any_vs_no_SV_within_100kb,118,4,25,-37.9,,,0.137543,,0.1971,0.4541,6
+presence_contrast_donors_in_both_arms,any_vs_no_SV_within_100kb,78,4,24,39.3,,,0.175779,,0.1971,0.4541,6

@@ -1,0 +1,24 @@
+{
+  "variant": "paired_sample",
+  "window_bp": 1000000,
+  "bin_size": 50000,
+  "grid_window_bins": 41,
+  "shrink": 30.0,
+  "seed": 7,
+  "n_perm": 20000,
+  "n_background_breakpoints": 300408,
+  "n_background_donors": 1849,
+  "n_background_aliquots": 1919,
+  "aliquot_count_definition": "atomic union of pipe-delimited contributor aliquots",
+  "endpoint_multiset_sha256": "19148ab3d54b2af95d8984ae7e6e30ff3469315fa88efbd7ace0efb4a1db653c",
+  "protocol_sha256": "3467f13832a4e60000a8b52ac53b8d10f0cb85279b1aa056dc6161eb2ed8246d",
+  "script_sha256": "2ead8bdeb28afe399e84b39fe102f38dbb25e4140e593018c55055fb7adca0f2",
+  "shared_adapter_sha256": "156ac6f028f38d8e09bd3f6f595481062fbf360a2b6db1246ab768c7275a4858",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1"
+  },
+  "protocol_sha256_at_execution": "d46f73cd4b9b4ef7300be7317cafe962fae870db154a8f7c07ac0ff672e345c7",
+  "protocol_documentation_amendment": "The execution and reference protocol hashes identify documentation versions with unchanged statistical definitions."
+}

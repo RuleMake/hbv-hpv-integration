@@ -1,0 +1,12 @@
+summary,group,entries,median,p10,p90,minimum,maximum,percent
+Absolute detectable fold change,HPV,273,0.0656,0.0131,0.1776,,,
+Absolute detectable fold change,HBV,273,0.064,0.0131,0.2358,,,
+Absolute detectable fold change,EBV,223,0.2972,0.0657,0.9745,,,
+Absolute detectable fold change,External comparator catalogues,254,0.0247,0.0076,0.0516,,,
+Absolute detectable fold change,No catalogue label,310,2.392,0.3602,8.9226,,,
+Recomputed power constant,Eligible entries,899,2.8,2.78816216,2.80905806,2.64,2.8747907,
+Field coverage,Catalogue label,1342,,,,,,76.6
+Field coverage,MDE comparison flag,698,,,,,,39.8
+Field coverage,Effect size,1650,,,,,,94.2
+Field coverage,z statistic,1658,,,,,,94.6
+Field coverage,Recomputable power constant,899,,,,,,51.3

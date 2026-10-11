@@ -1,0 +1,19 @@
+{
+  "matching_definition": "donor + unordered paired chrom/start0/strand; canonical has no endpoint end fields",
+  "all_raw_breakend_intervals_one_bp": true,
+  "canonical_events": 31201,
+  "canonical_unique_point_pair_keys": 31201,
+  "raw_large_DUP_sample_calls": 32625,
+  "raw_unique_donor_point_pairs": 31201,
+  "canonical_without_raw_pair": 0,
+  "raw_pair_without_canonical": 0,
+  "all_chromosome_pair_sets_identical": true,
+  "strict_chr1_22_X_donor_point_pairs": 31193,
+  "canonical_excluded_from_strict_set": 8,
+  "strict_set_not_in_canonical": 0,
+  "excluded_chromosomes": [
+    "chrY"
+  ],
+  "raw_signature_ambiguities": 0,
+  "metadata_ID_order_used_to_infer_pairing": false
+}

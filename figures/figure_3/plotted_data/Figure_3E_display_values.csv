@@ -1,0 +1,5 @@
+virus,excl_kb,edge_fold,interior_fold,n_edge,n_interior,z,emp_p,n_perm,interior_is_constant_by_definition,boundary_baseline_fold,boundary_relative_change_pct,interior_baseline_fold,interior_relative_change_pct,display_unit
+HPV,0,1.3188,1.0683,10136,45487,7.5899999999999999,5.0000000000000002e-05,20000,True,1.3188,0,1.0683,0,percent change in fold relative to the same region at 0 kb
+HPV,1,1.3212999999999999,1.0683,10049,45487,7.6500000000000004,5.0000000000000002e-05,20000,True,1.3188,0.18956627236881296,1.0683,0,percent change in fold relative to the same region at 0 kb
+HPV,10,1.319,1.0683,9059,45487,7.4699999999999998,5.0000000000000002e-05,20000,True,1.3188,0.015165301789510366,1.0683,0,percent change in fold relative to the same region at 0 kb
+HPV,50,1.3242,1.0683,4768,45487,6.6500000000000004,5.0000000000000002e-05,20000,True,1.3188,0.40946314831664665,1.0683,0,percent change in fold relative to the same region at 0 kb

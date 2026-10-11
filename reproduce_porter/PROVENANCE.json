@@ -1,0 +1,19 @@
+{
+  "source": "Porter et al. (2025), Genome Research 35:653-670; DOI 10.1101/gr.279041.124",
+  "source_supplement": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12047271/supplementaryFiles",
+  "derived_input_sha256": "1db96456448f3d789ba703013c3df9368263c63632bdfe8efa9b2b3e9b05433e",
+  "original_normalizer_sha256": "e3559fef070ba46bb102cd676f9300bb11bf7b2696f07771532f0280ee346393",
+  "original_estimator_sha256": "702b32361a2df9a2b2f5096988145c7624be962c74b24f3eb27932722895558e",
+  "released_estimator_sha256": "c69d5b3bbc0bdd062f44fd783131c5069a6866ea4d604e2bf077e56cdb4b4029",
+  "changes": [
+    "Added command-line options for input, configuration and output paths.",
+    "Kept source inputs and reference outputs read-only.",
+    "Added comparisons with the supplied numerical reference files.",
+    "Recorded input checksums, software versions and run parameters."
+  ],
+  "original_result_runtime": {
+    "numpy": "2.3.5",
+    "pandas": "3.0.1"
+  },
+  "included_data": "A derived event-level analytical table and numerical results; no article text or original supplementary workbooks."
+}

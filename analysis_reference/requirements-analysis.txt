@@ -1,0 +1,9 @@
+# Direct third-party imports; versions are not claimed as a tested analysis lock.
+numpy
+pandas
+scipy
+statsmodels
+pyarrow
+pyliftover
+# pandas.read_excel requires an Excel reader for the .xlsx source tables.
+openpyxl

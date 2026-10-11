@@ -1,0 +1,8 @@
+label,count,total,type,percent
+Annotated calls,6075,33436,annotation,18.169039358774974
+Affected cases,163,482,cases,33.81742738589212
+DEL,1741,2927,events removed,59.48069695934404
+DUP,2575,3613,events removed,71.27041239966786
+INV,953,1879,events removed,50.71846726982437
+TRA,3538,5995,events removed,59.01584653878232
+All classes,8807,14414,events removed,61.10031913417511

@@ -1,0 +1,11 @@
+rule,virus,window_bp,fold_median,fold_p05,fold_p95,fold_min,fold_max
+published,HBV,100000,0.9972,0.9421,1.0641,0.9236,1.1332
+corrected,HBV,100000,0.9997,0.9715,1.0205,0.9558,1.0307
+"observed, published rule",HBV,100000,1.1602,,,,
+published,HPV,100000,1.0026,0.9489,1.0517,0.925,1.1141
+corrected,HPV,100000,1.0026,0.9764,1.0257,0.9614,1.0326
+"observed, published rule",HPV,100000,1.4099,,,,
+published,HBV,1000000,1.002,0.9607,1.0486,0.9468,1.0664
+corrected,HBV,1000000,1.0003,0.9821,1.021,0.9692,1.037
+published,HPV,1000000,1.0036,0.9661,1.0518,0.9403,1.076
+corrected,HPV,1000000,1.0036,0.9834,1.0231,0.9689,1.0355

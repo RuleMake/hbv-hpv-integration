@@ -1,0 +1,6 @@
+catalogue,n_coordinates,n_clusters,mean_coordinates_per_cluster,eligible_set,cluster_definition,figure,panel,catalogue_group,virus,catalogue_label
+Primary HBV,3645,2642,1.3796366389099168,Primary stratum-eligible before amplification masking,100-kb leader clustering,Figure 2,D,Primary,HBV,HBV
+Primary HPV,4086,2550,1.6023529411764703,Primary stratum-eligible before amplification masking,100-kb leader clustering,Figure 2,D,Primary,HPV,HPV
+Primary EBV,115,99,1.1616161616161615,Primary stratum-eligible before amplification masking,100-kb leader clustering,Figure 2,D,Primary,EBV,EBV
+Sasa HPV,237,103,2.300970873786408,Sasa external catalogue analysis-eligible set,100-kb leader clustering,Figure 2,D,External HPV,HPV,HPV (Sasa)
+Fan HPV,656,308,2.1298701298701297,Fan external catalogue jointly eligible set after amplification masking,100-kb leader clustering,Figure 2,D,External HPV,HPV,HPV (Fan)

@@ -1,0 +1,3 @@
+arm,statistic,n_coords,n_clusters,n_samples,n_perm,observed,expected,fold,fold_ci_lo,fold_ci_hi,z,emp_p,mde_fold,clears_mde,plot_label,amp_class,emp_p_two_sided
+all,clusters_in_amplicon,899,625,193,20000,41,15.5,2.645,1.8640000000000001,4.556,7.6100000000000003,4.9997500124993749e-05,1.60595,True,All amplicons,,
+,,,625,,20000,9,1.6200000000000001,5.5510000000000002,2.25,,6.3300000000000001,,3.0127100000000002,True,Circular class,Circular,9.9995000249987497e-05

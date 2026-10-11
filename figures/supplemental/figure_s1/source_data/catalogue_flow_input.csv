@@ -1,0 +1,14 @@
+panel,stage,HPV,HBV,EBV,total,exclusion_reason
+a,"Tian 2022 catalogue, as ingested",4390,4010,174.0,8574,
+a,lifted to GRCh37 with a position,4266,3895,165.0,8326,248 liftover failures
+a,"deduplicated, chr1−22 and X,
+inside the 50 kb grid",4087,3645,115.0,7847,479 removed
+a,a matched null pool exists,4086,3645,115.0,7846,"1 HPV, no alternative pool"
+a,"amplification peaks masked,
+joint correction applied",3712,3138,107.0,6957,"374 HPV, 507 HBV, 8 EBV"
+b,"A  masked, joint-corrected",3712,3138,107.0,6957,the class atlas and every reported fold
+b,B  matched-null eligible,4086,3645,115.0,7846,"the estimand ladder, rungs i to iv"
+b,"C  lifted, with a position",4266,3895,165.0,8326,"virus_dependence_bounds.py, superseded"
+c,all-class ledger,1960,23,,216511,sv_class_ledger.parquet
+c,large tandem duplications,2093,24,,31201,input_pooled_canonical_events.tsv
+c,composition map,1907,53,,213671,53 integration-positive aliquots removed

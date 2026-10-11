@@ -1,0 +1,639 @@
+{
+  "schema_version": 2,
+  "figures": [
+    {
+      "id": "F1",
+      "dir": "figures/figure_1",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_fig1.py"
+        ]
+      ],
+      "reference": "reference/Yan_Fig1.svg",
+      "output": "rendered/Yan_Fig1.svg",
+      "reference_sha256": "2d67a57effbbf6077409e14b8c69f8bbb734ab0553696652e777ebff9ec5437d",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/Figure_1B_legend_values.csv",
+        "plotted_data/Figure_1B_plotted_values.csv",
+        "plotted_data/Figure_1C_plotted_values.csv",
+        "plotted_data/Figure_1D_plotted_values.csv",
+        "plotted_data/Figure_1D_query_exclusions.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Yan_Fig1.pdf",
+      "pdf_output": "rendered/Yan_Fig1.pdf",
+      "pdf_reference_sha256": "2c026eb7908554418f6f16ee2f092c230a1cd483c9e1fb9ed680816089a225b6",
+      "generated_tables": [
+        "plotted_data/Figure_1B_legend_values.csv",
+        "plotted_data/Figure_1C_plotted_values.csv",
+        "plotted_data/Figure_1D_plotted_values.csv",
+        "plotted_data/Figure_1D_query_exclusions.csv"
+      ],
+      "input_tables": [
+        "plotted_data/Figure_1B_plotted_values.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables.",
+      "supporting_only_tables": [
+        "plotted_data/Figure_1B_plotted_values.csv"
+      ]
+    },
+    {
+      "id": "F2",
+      "dir": "figures/figure_2",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_fig2.py"
+        ]
+      ],
+      "reference": "reference/Yan_Fig2.svg",
+      "output": "rendered/Yan_Fig2.svg",
+      "reference_sha256": "8c6a5b14132e2d60acd4752106582c1737d57f3b34491f814679826692d51d79",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/Figure_2A_plotted_values.csv",
+        "plotted_data/Figure_2B_plotted_values.csv",
+        "plotted_data/Figure_2C_plotted_values.csv",
+        "plotted_data/Figure_2D_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Yan_Fig2.pdf",
+      "pdf_output": "rendered/Yan_Fig2.pdf",
+      "pdf_reference_sha256": "26159d7691c16e0f74ca6cc7f09a60c68852bf5d23e242d85c7f59f1ce8d8eed",
+      "generated_tables": [
+        "plotted_data/Figure_2A_plotted_values.csv",
+        "plotted_data/Figure_2B_plotted_values.csv",
+        "plotted_data/Figure_2C_plotted_values.csv",
+        "plotted_data/Figure_2D_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "F3",
+      "dir": "figures/figure_3",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "prepare_display.py"
+        ],
+        [
+          "python",
+          "build_fig3.py"
+        ]
+      ],
+      "reference": "reference/Yan_Fig3.svg",
+      "output": "rendered/Yan_Fig3.svg",
+      "reference_sha256": "27c03b7ac8888a4f905a84bc1af153e454240f18b24a4bdd6480c51c391356ad",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/Figure_3A_plotted_values.csv",
+        "plotted_data/Figure_3B_plotted_values.csv",
+        "plotted_data/Figure_3C_plotted_values.csv",
+        "plotted_data/Figure_3E_display_values.csv",
+        "plotted_data/Figure_3_composition_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Yan_Fig3.pdf",
+      "pdf_output": "rendered/Yan_Fig3.pdf",
+      "pdf_reference_sha256": "aee44ca122d68954b0c18bd186d8c180616e1e60e1831fc9904a02ff1865ff35",
+      "generated_tables": [
+        "plotted_data/Figure_3A_plotted_values.csv",
+        "plotted_data/Figure_3B_plotted_values.csv",
+        "plotted_data/Figure_3C_plotted_values.csv",
+        "plotted_data/Figure_3E_display_values.csv",
+        "plotted_data/Figure_3_composition_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [
+        "plotted_data/Figure_3A_plotted_values.csv",
+        "plotted_data/Figure_3B_plotted_values.csv"
+      ],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "F4",
+      "dir": "figures/figure_4",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_fig4.py"
+        ]
+      ],
+      "reference": "reference/Yan_Fig4.svg",
+      "output": "rendered/Yan_Fig4.svg",
+      "reference_sha256": "cf6ece5b2bb4efaeeff79a106bf15be081c114290c9217a75a4e8b9afc5eda10",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/Figure_4A_plotted_values.csv",
+        "plotted_data/Figure_4B_detail_plotted_values.csv",
+        "plotted_data/Figure_4B_total_plotted_values.csv",
+        "plotted_data/Figure_4C_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Yan_Fig4.pdf",
+      "pdf_output": "rendered/Yan_Fig4.pdf",
+      "pdf_reference_sha256": "b847417413490e4f92f7d92acfecd84b639df05f646a02fa1d1c62b2e3186624",
+      "generated_tables": [
+        "plotted_data/Figure_4A_plotted_values.csv",
+        "plotted_data/Figure_4B_detail_plotted_values.csv",
+        "plotted_data/Figure_4B_total_plotted_values.csv",
+        "plotted_data/Figure_4C_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "F5",
+      "dir": "figures/figure_5",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_fig5.py"
+        ]
+      ],
+      "reference": "reference/Yan_Fig5.svg",
+      "output": "rendered/Yan_Fig5.svg",
+      "reference_sha256": "026452675165e3015151904245727062381c4a23f915ab49b640a1b9f05aff1f",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/Figure_5A_plotted_values.csv",
+        "plotted_data/Figure_5B_plotted_values.csv",
+        "plotted_data/Figure_5C_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Yan_Fig5.pdf",
+      "pdf_output": "rendered/Yan_Fig5.pdf",
+      "pdf_reference_sha256": "39a6a03d83b6f083aafc19b0f7ccdd09866b4bef42b2af7599e8078a7cac50f3",
+      "generated_tables": [
+        "plotted_data/Figure_5A_plotted_values.csv",
+        "plotted_data/Figure_5B_plotted_values.csv",
+        "plotted_data/Figure_5C_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "F6",
+      "dir": "figures/figure_6",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_fig6.py"
+        ]
+      ],
+      "reference": "reference/Yan_Fig6.svg",
+      "output": "rendered/Yan_Fig6.svg",
+      "reference_sha256": "c9791d261e5dfdbc3631e2b1794b90f9cf28020da68d7cc1157454875abd5b00",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/Figure_6A_plotted_values.csv",
+        "plotted_data/Figure_6B_plotted_values.csv",
+        "plotted_data/Figure_6C_fits_plotted_values.csv",
+        "plotted_data/Figure_6C_line_data.csv",
+        "plotted_data/Figure_6C_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Yan_Fig6.pdf",
+      "pdf_output": "rendered/Yan_Fig6.pdf",
+      "pdf_reference_sha256": "fe8d51e2c838e3fb5966b0f358dcdeecb95e1ef7f1133b47f0c6026b44675370",
+      "generated_tables": [
+        "plotted_data/Figure_6A_plotted_values.csv",
+        "plotted_data/Figure_6B_plotted_values.csv",
+        "plotted_data/Figure_6C_fits_plotted_values.csv",
+        "plotted_data/Figure_6C_line_data.csv",
+        "plotted_data/Figure_6C_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S1",
+      "dir": "figures/supplemental/figure_s1",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_figS1.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S1.svg",
+      "output": "rendered/Supplemental_Fig_S1.svg",
+      "reference_sha256": "3031293035e1361ec88faa0fa4bb9dcec81aa72a21f0675ffc85dfd18aa78662",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S1A_catalogue_flow.csv",
+        "plotted_data/S1B_analysis_inputs.csv",
+        "plotted_data/S1C_reference_units.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S1.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S1.pdf",
+      "pdf_reference_sha256": "751977188d7b800a7d58aacdc2223e43ddbaa31abf9755305a8af72629a9ae29",
+      "generated_tables": [
+        "plotted_data/S1A_catalogue_flow.csv",
+        "plotted_data/S1B_analysis_inputs.csv",
+        "plotted_data/S1C_reference_units.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S2",
+      "dir": "figures/supplemental/figure_s2",
+      "commands": [
+        [
+          "python",
+          "build_figS2.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S2.svg",
+      "output": "rendered/Supplemental_Fig_S2.svg",
+      "reference_sha256": "c1bd53930d427f39a9872537b96dcb84d0f0f991436ad7236a7a76e1b978a92a",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S2ABC_calibration.csv",
+        "plotted_data/S2D_rejection_intervals.csv",
+        "plotted_data/S2E_pool_diagnostics.csv",
+        "plotted_data/S2F_fold_summaries.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S2.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S2.pdf",
+      "pdf_reference_sha256": "a6c2bf2ea77245c0ac1a015d89ba8cb7d5db32e7d31281729e95aad6222a535f",
+      "generated_tables": [],
+      "input_tables": [
+        "plotted_data/S2ABC_calibration.csv",
+        "plotted_data/S2D_rejection_intervals.csv",
+        "plotted_data/S2E_pool_diagnostics.csv",
+        "plotted_data/S2F_fold_summaries.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S3",
+      "dir": "figures/supplemental/figure_s3",
+      "commands": [
+        [
+          "python",
+          "build_figS3.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S3.svg",
+      "output": "rendered/Supplemental_Fig_S3.svg",
+      "reference_sha256": "d8417a13a73645bd84dd18955ee5eb2bfe9f531ca88e19f3f6da14b129e267a8",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S3A_display.csv",
+        "plotted_data/S3B_display.csv",
+        "plotted_data/S3C_display.csv",
+        "plotted_data/S3D_display.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S3.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S3.pdf",
+      "pdf_reference_sha256": "76bcf8e3bf5131d8fee528f086c5b5eb3af7add1e209969291fa990384eab184",
+      "generated_tables": [],
+      "input_tables": [
+        "plotted_data/S3A_display.csv",
+        "plotted_data/S3B_display.csv",
+        "plotted_data/S3C_display.csv",
+        "plotted_data/S3D_display.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S4",
+      "dir": "figures/supplemental/figure_s4",
+      "commands": [
+        [
+          "python",
+          "build_figS4.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S4.svg",
+      "output": "rendered/Supplemental_Fig_S4.svg",
+      "reference_sha256": "b6ef73ebe0873538c557ad980ba8186672d63672f41de3436d084760d24400a1",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S4A_display.csv",
+        "plotted_data/S4B_display.csv",
+        "plotted_data/S4C_display.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S4.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S4.pdf",
+      "pdf_reference_sha256": "ad7b3cccfe76cee3f6a21f19e95049fec4f2c05ac55548ed18a94853335b158d",
+      "generated_tables": [],
+      "input_tables": [
+        "plotted_data/S4A_display.csv",
+        "plotted_data/S4B_display.csv",
+        "plotted_data/S4C_display.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S5",
+      "dir": "figures/supplemental/figure_s5",
+      "commands": [
+        [
+          "python",
+          "build_figS5.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S5.svg",
+      "output": "rendered/Supplemental_Fig_S5.svg",
+      "reference_sha256": "af1da9a1c02f5d653a86ac2fbff39a3d84f30b483ead4349a353e8bb09cb4218",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S5_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S5.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S5.pdf",
+      "pdf_reference_sha256": "ae7f4c0c1e5248ff8544cde448c6ec80e196ead7c9f98c8ab124fe5350d2cf2a",
+      "generated_tables": [],
+      "input_tables": [
+        "plotted_data/S5_plotted_values.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S6",
+      "dir": "figures/supplemental/figure_s6",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_figS6.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S6.svg",
+      "output": "rendered/Supplemental_Fig_S6.svg",
+      "reference_sha256": "de826afdd5f0c6a2cccdf8d2dadb4254fd92d07e24a1b26546b38753e2d56463",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S6_exclusion_accounting.csv",
+        "plotted_data/S6_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S6.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S6.pdf",
+      "pdf_reference_sha256": "89c4ed2dbf6b7471db0848da124132cb8b8b9b67c480046a04dda735172bba8e",
+      "generated_tables": [
+        "plotted_data/S6_exclusion_accounting.csv",
+        "plotted_data/S6_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S7",
+      "dir": "figures/supplemental/figure_s7",
+      "commands": [
+        [
+          "python",
+          "prepare_sources.py"
+        ],
+        [
+          "python",
+          "build_figS7.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S7.svg",
+      "output": "rendered/Supplemental_Fig_S7.svg",
+      "reference_sha256": "d0430e92f0e44ed269ef9b6ad827fb3e636e6ce3ed20e232e89f60059e15f6da",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S7_conditioning_ladder_saved_values.csv",
+        "plotted_data/S7_plotted_values.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S7.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S7.pdf",
+      "pdf_reference_sha256": "658f2f812a02412dd99ea18546f43d4e53bfb4e76d07a753ece7c85276d22036",
+      "generated_tables": [
+        "plotted_data/S7_conditioning_ladder_saved_values.csv",
+        "plotted_data/S7_plotted_values.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [
+        "plotted_data/S7_conditioning_ladder_saved_values.csv"
+      ],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S8",
+      "dir": "figures/supplemental/figure_s8",
+      "commands": [
+        [
+          "python",
+          "build_figS8.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S8.svg",
+      "output": "rendered/Supplemental_Fig_S8.svg",
+      "reference_sha256": "0ece7933a5f1cb7d82decffc802bb51e96782ad5a552986a71ec1e822fe20b43",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S8_source_data.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S8.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S8.pdf",
+      "pdf_reference_sha256": "f3912f1020233f09097a7204b4fe57c7259c29f84a18191c6193a24049f2c1cf",
+      "generated_tables": [],
+      "input_tables": [
+        "plotted_data/S8_source_data.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S9",
+      "dir": "figures/supplemental/figure_s9",
+      "commands": [
+        [
+          "python",
+          "build_figS9.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S9.svg",
+      "output": "rendered/Supplemental_Fig_S9.svg",
+      "reference_sha256": "8aec1c5c664083b43321817a97dfcd6711b4a058e83bf72ea4c80c04cabb05d5",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/S9_source_data.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S9.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S9.pdf",
+      "pdf_reference_sha256": "30ce62293dcac911f63873d63d43fc8ba6536373d643a51e3324bbbd56416969",
+      "generated_tables": [],
+      "input_tables": [
+        "plotted_data/S9_source_data.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S10",
+      "dir": "figures/supplemental/figure_s10",
+      "commands": [
+        [
+          "python",
+          "build_figS10.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S10.svg",
+      "output": "rendered/Supplemental_Fig_S10.svg",
+      "reference_sha256": "980214734bbf9f9150f1daf9f77b4fc7437bf5aeb81f0427b886719805997688",
+      "input_dirs": [
+        "source_data",
+        "supporting_data"
+      ],
+      "tables": [
+        "plotted_data/External_composition.csv",
+        "plotted_data/Figure_S10_plotted_values.csv",
+        "plotted_data/Tissue_exchange.csv",
+        "plotted_data/VISDB_composition.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": "reference/Supplemental_Fig_S10.pdf",
+      "pdf_output": "rendered/Supplemental_Fig_S10.pdf",
+      "pdf_reference_sha256": "ad1607f150952564c1ac6ec2e7415021d26a6a81f4ea240b8501ba951ddd21aa",
+      "generated_tables": [
+        "plotted_data/Figure_S10_plotted_values.csv"
+      ],
+      "input_tables": [
+        "plotted_data/External_composition.csv",
+        "plotted_data/Tissue_exchange.csv",
+        "plotted_data/VISDB_composition.csv"
+      ],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    },
+    {
+      "id": "S11",
+      "dir": "figures/supplemental/figure_s11",
+      "commands": [
+        [
+          "python",
+          "build_figure.py"
+        ]
+      ],
+      "reference": "reference/Supplemental_Fig_S11.svg",
+      "output": "Supplemental_Fig_S11.svg",
+      "reference_sha256": "53c2c3a20622613037620436a93efe753f1e795ba6a48bfe26cd61ff3328f6c0",
+      "input_dirs": [
+        "."
+      ],
+      "tables": [
+        "displayed_presence_counts.csv"
+      ],
+      "legend": "legend.md",
+      "pdf_reference": null,
+      "pdf_output": null,
+      "generated_tables": [
+        "displayed_presence_counts.csv"
+      ],
+      "input_tables": [],
+      "copied_saved_tables": [],
+      "table_role_note": "generated_tables are files written by the listed commands, not upstream analyses rerun. copied_saved_tables are the subset copied from bundled saved results. input_tables remain precomputed inputs or supporting saved tables."
+    }
+  ],
+  "table_totals": {
+    "generated": 34,
+    "precomputed": 18,
+    "copied_saved_subset": 3,
+    "total": 52
+  }
+}

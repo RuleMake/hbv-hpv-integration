@@ -1,0 +1,3 @@
+region,virus,n_coords,n_clusters,observed,expected,fold,fold_ci_lo,fold_ci_hi,z,emp_p,n_perm,interval_type
+Boundary,HPV,3712,2390,10136,7685.8,1.3188,1.2382,1.3981,10.32,4.999750012499375e-05,20000,95% spatial reference range; observed / reversed null percentiles
+Interior,HPV,3712,2390,45487,42578.1,1.0683,1.0221,1.1125,3.18,0.0024998750062496,20000,95% spatial reference range; observed / reversed null percentiles

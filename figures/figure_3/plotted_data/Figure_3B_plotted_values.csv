@@ -1,0 +1,5 @@
+virus,excl_kb,edge_fold,interior_fold,n_edge,n_interior,z,emp_p,n_perm,interior_is_constant_by_definition
+HPV,0,1.3188,1.0683,10136,45487,7.59,5e-05,20000,True
+HPV,1,1.3213,1.0683,10049,45487,7.65,5e-05,20000,True
+HPV,10,1.319,1.0683,9059,45487,7.47,5e-05,20000,True
+HPV,50,1.3242,1.0683,4768,45487,6.65,5e-05,20000,True

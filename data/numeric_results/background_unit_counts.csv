@@ -1,0 +1,9 @@
+variant,scope,n_units,n_endpoints,n_donors,n_atomic_aliquots,n_excluded_units,n_excluded_endpoints,unit_definition
+legacy_exact,all_roster,216511,302081,1901,1960,0,0,legacy endpoint-ledger rows for TRA; event rows for intra
+legacy_exact,negative_reference,213671,298025,1848,1907,2840,4056,legacy endpoint-ledger rows for TRA; event rows for intra
+legacy_expanded,all_roster,217775,303711,1902,1972,0,0,legacy endpoint-ledger rows for TRA; event rows for intra
+legacy_expanded,negative_reference,214935,299655,1849,1919,2840,4056,legacy endpoint-ledger rows for TRA; event rows for intra
+paired_sample,all_roster,152235,304470,1902,1972,0,0,paired SV event within sample
+paired_sample,negative_reference,150204,300408,1849,1919,2031,4062,paired SV event within sample
+donor_signature,all_roster,146145,292290,1902,1972,0,0,exact paired event signature within donor
+donor_signature,negative_reference,144114,288228,1849,1919,2031,4062,exact paired event signature within donor

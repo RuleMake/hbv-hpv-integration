@@ -1,0 +1,6 @@
+row_id,label,donors,aliquots,records,record_unit,source_file,source_selection
+paired_all,All paired SV calls,1902,1972,152235,Paired SV calls,cohort_units.csv,dataset=normalized_sample_events; exclusion_rule=all; svclass=ALL
+paired_excluded,Integration-excluded paired SV calls,1849,1919,150204,Paired SV calls,cohort_units.csv,dataset=normalized_sample_events; exclusion_rule=whole_positive_donor_exclusion; svclass=ALL
+support_all,All supporting SV records,1901,1960,216511,Interval and endpoint records,cohort_units.csv,dataset=legacy_exact; exclusion_rule=all; svclass=ALL
+support_excluded,Integration-excluded supporting SV records,1848,1907,213671,Interval and endpoint records,cohort_units.csv,dataset=legacy_exact; exclusion_rule=legacy_aliquot_exclusion; svclass=ALL
+large_duplication_catalogue,Large tandem duplications,1902,1972,31201,Large tandem-duplication records,Figure_1B_duplication_reference.csv,unit=large_tandem_duplication; complete saved catalogue including chromosome Y

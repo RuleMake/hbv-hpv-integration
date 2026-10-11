@@ -1,0 +1,25 @@
+panel,window,svclass,virus,estimator,n_coords,observed,expected,fold,ci_lo,ci_hi,z,emp_p,mde,clears_mde,n_clusters,note,excess_share_pct
+c,25 kb,DEL,HPV,bc_uniqSV_blockNull,2.0,68.0,3.45,1.3488,,,,,,,,"chr20:15,062,393",5.95
+c,25 kb,DEL,HPV,bc_uniqSV_blockNull,4.0,79.0,14.69,1.3502,,,,,,,,"chr3:60,555,190",5.93
+c,25 kb,DEL,HPV,bc_uniqSV_blockNull,3.0,66.0,3.84,1.3496,,,,,,,,"chr20:14,750,862",5.73
+c,25 kb,DEL,HPV,bc_uniqSV_blockNull,4.0,66.0,5.42,1.3504,,,,,,,,"chr20:14,712,875",5.59
+c,25 kb,DEL,HPV,bc_uniqSV_blockNull,1.0,68.0,11.5,1.3525,,,,,,,,"chr3:60,527,290",5.21
+c,25 kb,DEL,HPV,bc_uniqSV_blockNull,3.0,62.0,6.07,1.352,,,,,,,,"chr20:14,780,672",5.16
+c,25 kb,DUP,HPV,bc_uniqSV_blockNull,2.0,20.0,2.63,1.1249,,,,,,,,"chr8:128,348,346",4.12
+c,25 kb,DUP,HPV,bc_uniqSV_blockNull,1.0,19.0,2.12,1.1251,,,,,,,,"chr8:128,322,487",4.01
+c,25 kb,DUP,HPV,bc_uniqSV_blockNull,1.0,17.0,1.37,1.1254,,,,,,,,"chr8:128,414,896",3.71
+c,25 kb,DUP,HPV,bc_uniqSV_blockNull,5.0,15.0,1.58,1.1261,,,,,,,,"chr13:73,826,919",3.18
+c,25 kb,DUP,HPV,bc_uniqSV_blockNull,4.0,13.0,0.95,1.1265,,,,,,,,"chr13:73,596,893",2.86
+c,25 kb,DUP,HPV,bc_uniqSV_blockNull,1.0,14.0,2.28,1.1267,,,,,,,,"chr8:128,248,830",2.78
+c,25 kb,TRA,HBV,bc_uniqSV_blockNull,1.0,33.0,4.32,1.1011,,,,,,,,"chr17:7,553,701",4.42
+c,25 kb,TRA,HBV,bc_uniqSV_blockNull,1.0,30.0,2.4,1.1013,,,,,,,,"chr1:205,524,774",4.25
+c,25 kb,TRA,HBV,bc_uniqSV_blockNull,1.0,28.0,1.28,1.1014,,,,,,,,"chr4:23,971",4.12
+c,25 kb,TRA,HBV,bc_uniqSV_blockNull,1.0,26.0,1.24,1.1017,,,,,,,,"chr1:176,402,843",3.82
+c,25 kb,TRA,HBV,bc_uniqSV_blockNull,1.0,23.0,2.0,1.1023,,,,,,,,"chr1:181,142,165",3.24
+c,25 kb,TRA,HBV,bc_uniqSV_blockNull,1.0,20.0,1.71,1.1028,,,,,,,,"chr3:155,764,154",2.82
+c,25 kb,INV,HBV,bc_uniqSV_blockNull,1.0,20.0,1.82,1.0169,,,,,,,,"chr11:105,443,269; share undefined, p_full 0.212",
+c,25 kb,INV,HBV,bc_uniqSV_blockNull,2.0,15.0,1.26,1.0187,,,,,,,,"chr11:69,999,475; share undefined, p_full 0.212",
+c,25 kb,INV,HBV,bc_uniqSV_blockNull,2.0,14.0,0.55,1.0188,,,,,,,,"chrX:14,106,331; share undefined, p_full 0.212",
+c,25 kb,INV,HBV,bc_uniqSV_blockNull,1.0,14.0,1.01,1.019,,,,,,,,"chr8:40,514,544; share undefined, p_full 0.212",
+c,25 kb,INV,HBV,bc_uniqSV_blockNull,1.0,14.0,1.97,1.0194,,,,,,,,"chr17:7,553,701; share undefined, p_full 0.212",
+c,25 kb,INV,HBV,bc_uniqSV_blockNull,2.0,14.0,2.67,1.0197,,,,,,,,"chr17:39,919,460; share undefined, p_full 0.212",

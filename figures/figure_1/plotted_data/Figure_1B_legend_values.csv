@@ -1,0 +1,5 @@
+panel,measure,unit,total,without_detected_integration,percentage
+B,Donors,donor,1902,1849.0,97.21345951629863
+B,Aliquots,aliquot,1972,,
+B,Structural variants,paired call,152235,150204.0,98.66587841166617
+B,Large duplications,record,31201,,

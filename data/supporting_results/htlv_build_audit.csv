@@ -1,0 +1,7 @@
+step,n_records,detail
+0. VISDB records,51806,
+1. cell lines dropped,48166,"3,640 removed"
+"2. chr1-22,X only",47889,
+3. numeric + inside hg38 chrom length,47884,
+4. lifted hg38 -> hg19,47303,"unmapped 492, multi-mapping 0, chromosome-switch 89"
+5. exact duplicate coordinates collapsed,46068,"1,235 removed"

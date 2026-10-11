@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: Please cite this software and the accompanying manuscript when using these analyses.
+title: "Host rearrangement landscapes distinguish HBV and HPV integration sites"
+type: software
+version: "2026.10.10"
+date-released: 2026-10-10
+license: MIT
+authors:
+  - family-names: Yan
+    given-names: Yan
+  - family-names: Zhou
+    given-names: Yuhan
+  - family-names: Liu
+    given-names: Haonan
+  - family-names: Liu
+    given-names: Tianli
+  - family-names: Zheng
+    given-names: Xin
+    email: zhengxin@xjtufh.edu.cn
+keywords:
+  - viral integration
+  - structural variation
+  - HBV
+  - HPV
+  - spatial randomization
+repository-code: "https://github.com/RuleMake/hbv-hpv-integration"

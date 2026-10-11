@@ -1,0 +1,19 @@
+[
+  {
+    "test": "pooled Fisher",
+    "scope": "all 118 junction records from 10 tumours",
+    "p": 0.00225021
+  },
+  {
+    "test": "within-donor permutation",
+    "scope": "all 118 junction records; proximity labels shuffled within each of 10 donors; only 4 donors have both labels",
+    "n_permutations": 20000,
+    "seed": 7,
+    "p": 0.137543
+  },
+  {
+    "test": "pooled Fisher",
+    "scope": "78 junction records from the 4 tumours contributing to both groups",
+    "p": 0.175779
+  }
+]

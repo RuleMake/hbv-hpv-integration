@@ -1,0 +1,31 @@
+panel,rung,label,virus,fold,lo,hi,p,n_coords,source,plot_order
+a,0,"published
+counting rule",HPV,1.4094,1.3744000000000001,1.4455,4.9997500124993749e-05,4086,fig3_rt_gradient_stratum.csv,0
+a,0,"published
+counting rule",HBV,1.159,1.1293,1.1900999999999999,4.9997500124993749e-05,3645,fig3_rt_gradient_stratum.csv,0
+a,0,"published
+counting rule",EBV,1.0644,0.9103,1.2398,0.2052897355132243,115,fig3_rt_gradient_stratum.csv,0
+a,1,"block null only
+(same unit)",HPV,1.4095,1.3102,1.4936,4.9997500124993749e-05,4086,fig3_rt_gradient_stratum.csv,1
+a,1,"block null only
+(same unit)",HBV,1.1591,1.0719000000000001,1.2457,0.00029998500074989999,3645,fig3_rt_gradient_stratum.csv,1
+a,1,"block null only
+(same unit)",EBV,1.0651999999999999,0.89539999999999997,1.2715000000000001,0.22773861306934651,115,fig3_rt_gradient_stratum.csv,1
+a,2,"cluster unit only
+(same null)",HPV,1.1046,1.0692999999999999,1.1412,4.9997500124993749e-05,4086,fig3_rt_gradient_stratum.csv,2
+a,2,"cluster unit only
+(same null)",HBV,1.0498000000000001,1.0178,1.0831,0.0011499425028747999,3645,fig3_rt_gradient_stratum.csv,2
+a,2,"cluster unit only
+(same null)",EBV,1.0116000000000001,0.85199999999999998,1.1940999999999999,0.4243787810609469,115,fig3_rt_gradient_stratum.csv,2
+a,3,"cluster unit
++ block null",HPV,1.1156999999999999,1.0795999999999999,1.1518999999999999,4.9997500124993749e-05,4086,fig3_rt_gradient_stratum.csv,3
+a,3,"cluster unit
++ block null",HBV,1.0580000000000001,1.0254000000000001,1.0916999999999999,0.00039998000099990001,3645,fig3_rt_gradient_stratum.csv,3
+a,3,"cluster unit
++ block null",EBV,1.012,0.8569,1.1940999999999999,0.42467876606169691,115,fig3_rt_gradient_stratum.csv,3
+b,4,"all jointly
+(142 strata)",HPV,1.0835999999999999,1.0521,1.1166,4.9997500124993749e-05,3712,see script header,4
+b,4,"all jointly
+(142 strata)",HBV,1.0185999999999999,0.98929999999999996,1.0488,0.1095445227738613,3138,see script header,4
+b,4,"all jointly
+(142 strata)",EBV,1.0175000000000001,0.87839999999999996,1.1873,0.40282985850707459,107,see script header,4

@@ -1,0 +1,6 @@
+dataset,exclusion_rule,svclass,unit,n_units,n_breakend_observations,n_aliquots,n_donors
+normalized_sample_events,all,ALL,sample_event,152235,304470,1972,1902
+normalized_sample_events,all,DEL,sample_event,27604,55208,1805,1737
+normalized_sample_events,all,DUP,sample_event,32617,65234,1971,1901
+normalized_sample_events,all,INV,sample_event,25719,51438,1675,1609
+normalized_sample_events,all,TRA,sample_event,66295,132590,1795,1728

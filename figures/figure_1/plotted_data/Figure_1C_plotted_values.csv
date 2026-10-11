@@ -1,0 +1,5 @@
+panel,virus,placement,n_spacings,median_bp,p10_bp,p90_bp,displayed_median_bp,displayed_p10_bp,displayed_p90_bp,zeros_displayed_at_1bp,range_type
+C,HBV,Observed,418,276.0,16.0,22168.600000000002,276.0,16.0,22168.600000000002,0,10th-90th percentiles of adjacent spacing
+C,HBV,Independent,83600,25924.0,4143.9,65717.0,25924.0,4143.9,65717.0,0,10th-90th percentiles of adjacent spacing
+C,HPV,Observed,1158,3174.5,32.7,29755.699999999993,3174.5,32.7,29755.699999999993,0,10th-90th percentiles of adjacent spacing
+C,HPV,Independent,231600,11085.0,1283.0,46470.20000000001,11085.0,1283.0,46470.20000000001,7,10th-90th percentiles of adjacent spacing

@@ -1,0 +1,2 @@
+unit,n_records,n_aliquots,n_donors,definition,source
+large_tandem_duplication,31201,1972,1902,"tandem duplications longer than 100 kb, median span 486 kb, grouped by source donor call identifiers",Atomic aliquot identifiers after splitting composite metadata; verified unit audit

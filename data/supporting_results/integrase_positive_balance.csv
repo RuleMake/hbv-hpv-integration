@@ -1,0 +1,64 @@
+virus,covariate,label,matched_on,n_coords,n_clusters,n_draws,pct_pool_fallback,mean_observed,mean_unmatched,smd_unmatched,mean_matched,smd_matched,balanced_matched,improved_by_matching
+HBV,rt_consensus,replication timing (OK-seq consensus),True,3138,2421,627600,1.63,0.176335,-0.010927,0.2164,0.171938,0.0054,True,True
+HBV,gene_density,gene density (genes per 50-kb bin),True,3138,2421,627600,1.63,1.311345,0.966216,0.1061,1.164852,0.0437,True,True
+HBV,in_cfs,fragile-site status (in common fragile site),True,3138,2421,627600,1.63,0.022626,0.021895,0.005,0.022666,-0.0003,True,True
+HBV,mapab,mappability (CRG Align100),True,3138,2421,627600,1.63,0.946478,0.952647,-0.055,0.951539,-0.0442,True,True
+HBV,grad,replication-timing gradient,True,3138,2421,627600,1.63,0.055285,0.049664,0.0935,0.0522,0.0518,True,True
+HBV,cen_dist,centromere distance [NOT matched: negative control],False,3138,2421,627600,1.63,47560994.263862,44050121.156126,0.103,45832163.582421,0.0507,True,True
+HBV,telo_dist,telomere distance [NOT matched: negative control],False,3138,2421,627600,1.63,36667033.435946,39275432.494404,-0.0957,38476961.903848,-0.067,True,True
+HPV,rt_consensus,replication timing (OK-seq consensus),True,3712,2390,742400,1.56,0.213204,-0.010927,0.2615,0.199158,0.0176,True,True
+HPV,gene_density,gene density (genes per 50-kb bin),True,3712,2390,742400,1.56,1.181034,0.966216,0.0703,1.170214,0.0034,True,True
+HPV,in_cfs,fragile-site status (in common fragile site),True,3712,2390,742400,1.56,0.032866,0.021895,0.0673,0.032908,-0.0002,True,True
+HPV,mapab,mappability (CRG Align100),True,3712,2390,742400,1.56,0.947761,0.952647,-0.0446,0.950075,-0.021,True,True
+HPV,grad,replication-timing gradient,True,3712,2390,742400,1.56,0.05391,0.049664,0.0754,0.052857,0.0189,True,True
+HPV,cen_dist,centromere distance [NOT matched: negative control],False,3712,2390,742400,1.56,48437055.49569,44050121.156126,0.1352,46353119.532055,0.0647,True,True
+HPV,telo_dist,telomere distance [NOT matched: negative control],False,3712,2390,742400,1.56,37251136.382543,39275432.494404,-0.0744,38725546.592756,-0.0548,True,True
+EBV,rt_consensus,replication timing (OK-seq consensus),True,107,93,21400,0.93,0.284955,-0.010927,0.3456,0.271575,0.0166,True,True
+EBV,gene_density,gene density (genes per 50-kb bin),True,107,93,21400,0.93,1.261682,0.966216,0.1092,1.208037,0.0186,True,True
+EBV,in_cfs,fragile-site status (in common fragile site),True,107,93,21400,0.93,0.046729,0.021895,0.1363,0.046729,0.0,True,True
+EBV,mapab,mappability (CRG Align100),True,107,93,21400,0.93,0.967286,0.952647,0.1766,0.958275,0.1264,False,True
+EBV,grad,replication-timing gradient,True,107,93,21400,0.93,0.048457,0.049664,-0.0218,0.045707,0.0543,True,False
+EBV,cen_dist,centromere distance [NOT matched: negative control],False,107,93,21400,0.93,60175467.28972,44050121.156126,0.461,49300971.962617,0.3137,False,True
+EBV,telo_dist,telomere distance [NOT matched: negative control],False,107,93,21400,0.93,35402641.691589,39275432.494404,-0.1516,39594371.429112,-0.1698,False,False
+HTLV_all,rt_consensus,replication timing (OK-seq consensus),True,43284,15214,8656800,1.22,0.204133,-0.010927,0.25,0.196123,0.01,True,True
+HTLV_all,gene_density,gene density (genes per 50-kb bin),True,43284,15214,8656800,1.22,1.312356,0.966216,0.1077,1.186616,0.0373,True,True
+HTLV_all,in_cfs,fragile-site status (in common fragile site),True,43284,15214,8656800,1.22,0.019869,0.021895,-0.0142,0.019882,-0.0001,True,True
+HTLV_all,mapab,mappability (CRG Align100),True,43284,15214,8656800,1.22,0.960705,0.952647,0.0843,0.955464,0.0565,True,True
+HTLV_all,grad,replication-timing gradient,True,43284,15214,8656800,1.22,0.051571,0.049664,0.0352,0.051129,0.0084,True,True
+HTLV_all,cen_dist,centromere distance [NOT matched: negative control],False,43284,15214,8656800,1.22,42622354.680713,44050121.156126,-0.0442,45628910.262964,-0.0939,True,False
+HTLV_all,telo_dist,telomere distance [NOT matched: negative control],False,43284,15214,8656800,1.22,38940959.192265,39275432.494404,-0.0122,38141430.803548,0.0299,True,False
+HTLV_ATL,rt_consensus,replication timing (OK-seq consensus),True,19024,10177,3804800,1.31,0.225979,-0.010927,0.2755,0.216889,0.0113,True,True
+HTLV_ATL,gene_density,gene density (genes per 50-kb bin),True,19024,10177,3804800,1.31,1.351451,0.966216,0.1174,1.226374,0.0362,True,True
+HTLV_ATL,in_cfs,fragile-site status (in common fragile site),True,19024,10177,3804800,1.31,0.02029,0.021895,-0.0112,0.020277,0.0001,True,True
+HTLV_ATL,mapab,mappability (CRG Align100),True,19024,10177,3804800,1.31,0.963103,0.952647,0.1126,0.956505,0.0741,True,True
+HTLV_ATL,grad,replication-timing gradient,True,19024,10177,3804800,1.31,0.050173,0.049664,0.0096,0.050563,-0.0076,True,True
+HTLV_ATL,cen_dist,centromere distance [NOT matched: negative control],False,19024,10177,3804800,1.31,42788112.384357,44050121.156126,-0.0391,45819846.254996,-0.0947,True,False
+HTLV_ATL,telo_dist,telomere distance [NOT matched: negative control],False,19024,10177,3804800,1.31,39256345.797571,39275432.494404,-0.0007,38185713.776772,0.04,True,False
+HTLV_nonmalignant,rt_consensus,replication timing (OK-seq consensus),True,13560,7686,2712000,1.08,0.234785,-0.010927,0.2859,0.223851,0.0137,True,True
+HTLV_nonmalignant,gene_density,gene density (genes per 50-kb bin),True,13560,7686,2712000,1.08,1.323451,0.966216,0.1108,1.211321,0.0331,True,True
+HTLV_nonmalignant,in_cfs,fragile-site status (in common fragile site),True,13560,7686,2712000,1.08,0.020723,0.021895,-0.0081,0.020718,0.0,True,True
+HTLV_nonmalignant,mapab,mappability (CRG Align100),True,13560,7686,2712000,1.08,0.95919,0.952647,0.0673,0.954731,0.0468,True,True
+HTLV_nonmalignant,grad,replication-timing gradient,True,13560,7686,2712000,1.08,0.051552,0.049664,0.0352,0.051784,-0.0044,True,True
+HTLV_nonmalignant,cen_dist,centromere distance [NOT matched: negative control],False,13560,7686,2712000,1.08,43254118.731563,44050121.156126,-0.0246,45409086.735631,-0.0673,True,False
+HTLV_nonmalignant,telo_dist,telomere distance [NOT matched: negative control],False,13560,7686,2712000,1.08,37822538.227581,39275432.494404,-0.0532,37777669.71679,0.0017,True,True
+HTLV_unknown,rt_consensus,replication timing (OK-seq consensus),True,10700,7254,2140000,1.24,0.126446,-0.010927,0.1599,0.124996,0.0018,True,True
+HTLV_unknown,gene_density,gene density (genes per 50-kb bin),True,10700,7254,2140000,1.24,1.228785,0.966216,0.0852,1.131803,0.0302,True,True
+HTLV_unknown,in_cfs,fragile-site status (in common fragile site),True,10700,7254,2140000,1.24,0.018037,0.021895,-0.0276,0.018065,-0.0002,True,True
+HTLV_unknown,mapab,mappability (CRG Align100),True,10700,7254,2140000,1.24,0.958361,0.952647,0.0581,0.954887,0.0361,True,True
+HTLV_unknown,grad,replication-timing gradient,True,10700,7254,2140000,1.24,0.05408,0.049664,0.0777,0.051533,0.0458,True,True
+HTLV_unknown,cen_dist,centromere distance [NOT matched: negative control],False,10700,7254,2140000,1.24,41527018.691589,44050121.156126,-0.0781,45518570.321411,-0.1247,False,False
+HTLV_unknown,telo_dist,telomere distance [NOT matched: negative control],False,10700,7254,2140000,1.24,39797582.884019,39275432.494404,0.0191,38540705.844865,0.047,True,False
+HTLV_ATL_s35654946,rt_consensus,replication timing (OK-seq consensus),True,4602,2859,920400,0.78,0.478805,-0.010927,0.5775,0.441867,0.0476,True,True
+HTLV_ATL_s35654946,gene_density,gene density (genes per 50-kb bin),True,4602,2859,920400,0.78,1.562147,0.966216,0.1815,1.502578,0.0166,True,True
+HTLV_ATL_s35654946,in_cfs,fragile-site status (in common fragile site),True,4602,2859,920400,0.78,0.018036,0.021895,-0.0276,0.018022,0.0001,True,True
+HTLV_ATL_s35654946,mapab,mappability (CRG Align100),True,4602,2859,920400,0.78,0.957621,0.952647,0.0489,0.955402,0.0224,True,True
+HTLV_ATL_s35654946,grad,replication-timing gradient,True,4602,2859,920400,0.78,0.049538,0.049664,-0.0023,0.04968,-0.0026,True,False
+HTLV_ATL_s35654946,cen_dist,centromere distance [NOT matched: negative control],False,4602,2859,920400,0.78,47489830.508475,44050121.156126,0.1032,46661831.472003,0.0249,True,True
+HTLV_ATL_s35654946,telo_dist,telomere distance [NOT matched: negative control],False,4602,2859,920400,0.78,36207614.737288,39275432.494404,-0.1144,37620707.190316,-0.0536,True,True
+HTLV_nonmalig_s35654946,rt_consensus,replication timing (OK-seq consensus),True,5566,2860,1113200,0.72,0.275995,-0.010927,0.3335,0.260415,0.0194,True,True
+HTLV_nonmalig_s35654946,gene_density,gene density (genes per 50-kb bin),True,5566,2860,1113200,0.72,1.384837,0.966216,0.1242,1.239315,0.0412,True,True
+HTLV_nonmalig_s35654946,in_cfs,fragile-site status (in common fragile site),True,5566,2860,1113200,0.72,0.019583,0.021895,-0.0162,0.019568,0.0001,True,True
+HTLV_nonmalig_s35654946,mapab,mappability (CRG Align100),True,5566,2860,1113200,0.72,0.950999,0.952647,-0.0156,0.950165,0.0078,True,True
+HTLV_nonmalig_s35654946,grad,replication-timing gradient,True,5566,2860,1113200,0.72,0.052651,0.049664,0.0534,0.05211,0.0097,True,True
+HTLV_nonmalig_s35654946,cen_dist,centromere distance [NOT matched: negative control],False,5566,2860,1113200,0.72,42279222.062522,44050121.156126,-0.0547,45158492.786861,-0.0901,True,False
+HTLV_nonmalig_s35654946,telo_dist,telomere distance [NOT matched: negative control],False,5566,2860,1113200,0.72,37669380.051204,39275432.494404,-0.0594,37393318.977859,0.0105,True,True

@@ -1,0 +1,15 @@
+arm,step,n_records,detail
+VISDB_HBV,0. VISDB records,62761,
+VISDB_HBV,1. cell lines dropped,62211,550 removed
+VISDB_HBV,"2. chr1-22,X only",58124,
+VISDB_HBV,3. numeric + inside hg38 chrom length,57097,
+VISDB_HBV,4. lifted hg38 -> hg19,56783,"unmapped 169, multi-mapping 0, chromosome-switch 145"
+VISDB_HBV,5. exact duplicate coordinates collapsed,42112,"14,671 removed"
+VISDB_HBV,6. coordinates matching Tian dropped (independence),37412,"4,700 removed at +/-10 bp"
+VISDB_HPV,0. VISDB records,70165,
+VISDB_HPV,1. cell lines dropped,65329,"4,836 removed"
+VISDB_HPV,"2. chr1-22,X only",64910,
+VISDB_HPV,3. numeric + inside hg38 chrom length,63999,
+VISDB_HPV,4. lifted hg38 -> hg19,63655,"unmapped 215, multi-mapping 0, chromosome-switch 129"
+VISDB_HPV,5. exact duplicate coordinates collapsed,61328,"2,327 removed"
+VISDB_HPV,6. coordinates matching Tian dropped (independence),56920,"4,408 removed at +/-10 bp"

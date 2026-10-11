@@ -1,0 +1,13 @@
+panel,svclass,virus,estimator,n_coords,n_events,observed,expected,fold,ci_lo,ci_hi,z,emp_p,mde,clears_mde,survives_bonferroni,mde_constant,log_ratio,mde_half_width,effect_half_width,top10_share_pct,fold_full,p_full,note
+c,DEL,HPV,,,,,,,,,,,,,,,,,,83.1,1.1841,4.999750012499375e-05,defined
+c,DEL,HBV,,,,,,,,,,,,,,,,,,,1.0438,0.0777961101944902,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 
+c,DEL,EBV,,,,,,,,,,,,,,,,,,,0.9257,0.7591120443977801,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 
+c,DUP,HPV,,,,,,,,,,,,,,,,,,41.8,1.0798,4.999750012499375e-05,defined
+c,DUP,HBV,,,,,,,,,,,,,,,,,,,1.0188,0.1138943052847357,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 
+c,DUP,EBV,,,,,,,,,,,,,,,,,,,1.0462,0.2752862356882156,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 
+c,INV,HPV,,,,,,,,,,,,,,,,,,,1.029,0.087495625218739,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 
+c,INV,HBV,,,,,,,,,,,,,,,,,,53.4,1.0599,0.0025998700064996,defined
+c,INV,EBV,,,,,,,,,,,,,,,,,,,1.1163,0.151942402879856,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 
+c,TRA,HPV,,,,,,,,,,,,,,,,,,65.2,1.0433,0.0037498125093745,defined
+c,TRA,HBV,,,,,,,,,,,,,,,,,,41.2,1.0568,0.0001499925003749,defined
+c,TRA,EBV,,,,,,,,,,,,,,,,,,,0.9881,0.5566221688915555,full-cohort excess not significantly above zero (p_full >= 0.05); a share-of-excess ratio and a worst-case-above-1 flag 

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+verification_output/
+figures/**/rendered/
+figures/**/review/
+reproduce_porter/outputs/
+.DS_Store

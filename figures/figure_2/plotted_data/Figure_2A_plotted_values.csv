@@ -1,0 +1,16 @@
+figure,panel,scheme,counting_unit,spatial_reference,additional_adjustment,virus,observed_expected,lower,upper,range_type,n_coordinates,window_bp
+Figure 2,A,1,Records,Independent,None,HPV,1.4094,1.3744,1.4455,95% spatial reference range,4086,100000
+Figure 2,A,1,Records,Independent,None,HBV,1.159,1.1293,1.1901,95% spatial reference range,3645,100000
+Figure 2,A,1,Records,Independent,None,EBV,1.0644,0.9103,1.2398,95% spatial reference range,115,100000
+Figure 2,A,2,Records,Cluster-preserving,None,HPV,1.4095,1.3102,1.4936,95% spatial reference range,4086,100000
+Figure 2,A,2,Records,Cluster-preserving,None,HBV,1.1591,1.0719,1.2457,95% spatial reference range,3645,100000
+Figure 2,A,2,Records,Cluster-preserving,None,EBV,1.0652,0.8953999999999999,1.2715,95% spatial reference range,115,100000
+Figure 2,A,3,Loci,Independent,None,HPV,1.1046,1.0693,1.1412,95% spatial reference range,4086,100000
+Figure 2,A,3,Loci,Independent,None,HBV,1.0498,1.0178,1.0831,95% spatial reference range,3645,100000
+Figure 2,A,3,Loci,Independent,None,EBV,1.0116,0.8519999999999999,1.1941,95% spatial reference range,115,100000
+Figure 2,A,4,Loci,Cluster-preserving,None,HPV,1.1157,1.0796,1.1519,95% spatial reference range,4086,100000
+Figure 2,A,4,Loci,Cluster-preserving,None,HBV,1.058,1.0254,1.0917,95% spatial reference range,3645,100000
+Figure 2,A,4,Loci,Cluster-preserving,None,EBV,1.012,0.8569,1.1941,95% spatial reference range,115,100000
+Figure 2,A,5,Loci,Cluster-preserving,Joint matching; peak exclusion,HPV,1.0836,1.0521,1.1166,95% spatial reference range,3712,100000
+Figure 2,A,5,Loci,Cluster-preserving,Joint matching; peak exclusion,HBV,1.0186,0.9893,1.0488,95% spatial reference range,3138,100000
+Figure 2,A,5,Loci,Cluster-preserving,Joint matching; peak exclusion,EBV,1.0175,0.8783999999999998,1.1873,95% spatial reference range,107,100000

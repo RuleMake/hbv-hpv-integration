@@ -1,0 +1,25 @@
+panel,svclass,virus,subset,estimator,n_coords,n_clusters,observed,expected,fold,ci_lo,ci_hi,z,emp_p,source_row,estimate,lower,upper,interval_type,coordinate_share_pct,cluster_share_pct,total_coordinates,total_clusters
+a,DEL,HPV,ALL,bc_uniqSV_blockNull,3712,2390,11348.0,9583.5,1.1841,1.1039,1.2678,5.2,4.999750012499375e-05,2,1.1841,1.1039,1.2678,95% spatial-null reference range,,,,
+a,DEL,HPV,HOTSPOT,bc_uniqSV_blockNull,228,45,834.0,327.2,2.5486,1.3854,5.451,4.3,4.999750012499375e-05,3,2.5486,1.3854,5.451,95% spatial-null reference range,,,,
+a,DEL,HPV,NON-HOTSPOT,bc_uniqSV_blockNull,3484,2345,10514.0,9260.2,1.1354,1.0617,1.2127,3.96,0.0001999900004999,4,1.1354,1.0617,1.2127,95% spatial-null reference range,,,,
+a,DUP,HPV,ALL,bc_uniqSV_blockNull,3712,2390,11729.0,10862.0,1.0798,1.0474,1.1139,5.1,4.999750012499375e-05,5,1.0798,1.0474,1.1139,95% spatial-null reference range,,,,
+a,DUP,HPV,HOTSPOT,bc_uniqSV_blockNull,228,45,386.0,232.5,1.6605,1.3219,2.0978,5.58,4.999750012499375e-05,6,1.6605,1.3219,2.0978,95% spatial-null reference range,,,,
+a,DUP,HPV,NON-HOTSPOT,bc_uniqSV_blockNull,3484,2345,11343.0,10628.9,1.0672,1.0353,1.1005,4.3,0.0001499925003749,7,1.0672,1.0353,1.1005,95% spatial-null reference range,,,,
+a,INV,HBV,ALL,bc_uniqSV_blockNull,3138,2421,9284.0,8759.1,1.0599,1.0179,1.1042,2.91,0.0025998700064996,8,1.0599,1.0179,1.1042,95% spatial-null reference range,,,,
+a,INV,HBV,HOTSPOT,bc_uniqSV_blockNull,226,102,525.0,400.9,1.3097,1.096,1.5861,3.28,0.0019499025048747,9,1.3097,1.096,1.5861,95% spatial-null reference range,,,,
+a,INV,HBV,NON-HOTSPOT,bc_uniqSV_blockNull,2912,2319,8759.0,8358.9,1.0479,1.0056,1.0921,2.27,0.0127493625318734,10,1.0479,1.0056,1.0921,95% spatial-null reference range,,,,
+a,TRA,HBV,ALL,bc_uniqSV_blockNull,3138,2421,24037.0,22745.7,1.0568,1.027,1.0873,3.87,0.0001499925003749,11,1.0568,1.027,1.0873,95% spatial-null reference range,,,,
+a,TRA,HBV,HOTSPOT,bc_uniqSV_blockNull,226,102,1253.0,1020.5,1.2279,1.0765,1.4063,3.35,0.0012999350032498,12,1.2279,1.0765,1.4063,95% spatial-null reference range,,,,
+a,TRA,HBV,NON-HOTSPOT,bc_uniqSV_blockNull,2912,2319,22784.0,21724.3,1.0488,1.0184,1.0798,3.25,0.0008999550022498,13,1.0488,1.0184,1.0798,95% spatial-null reference range,,,,
+b,"(coordinates, any class)",HPV,split,,3712,2390,228.0,3484.0,93.9,,,,,14,93.9,,,not applicable,,,,
+b,"(coordinates, any class)",HBV,split,,3138,2421,226.0,2912.0,92.8,,,,,15,92.8,,,not applicable,,,,
+c,(any class),HPV,ALL (joint reference),bc_uniqSV_blockNull,3712,2390,,,1.0836,1.0521,1.1166,5.48,4.999750012499375e-05,16,1.0836,1.0521,1.1166,95% spatial-null reference range,100.0,100.0,3712,2390
+c,(any class),HPV,HOTSPOT (recurrence),bc_uniqSV_blockNull,228,45,,,1.6984,1.3561,2.142,5.95,4.999750012499375e-05,17,1.6984,1.3561,2.142,95% spatial-null reference range,6.142241379310345,1.8828451882845187,3712,2390
+c,(any class),HPV,NON-HOTSPOT (recurrence),bc_uniqSV_blockNull,3484,2345,,,1.0703,1.039,1.1032,4.58,4.999750012499375e-05,18,1.0703,1.039,1.1032,95% spatial-null reference range,93.85775862068965,98.11715481171548,3712,2390
+c,(any class),HPV,HOTSPOT (gene list),bc_uniqSV_blockNull,156,32,,,3.3437,2.4274,4.5009,14.36,4.999750012499375e-05,19,3.3437,2.4274,4.5009,95% spatial-null reference range,4.202586206896552,1.3389121338912133,3712,2390
+c,(any class),HPV,NON-HOTSPOT (gene list),bc_uniqSV_blockNull,3556,2360,,,1.0527,1.0224,1.0848,3.47,0.0005499725013749,20,1.0527,1.0224,1.0848,95% spatial-null reference range,95.79741379310344,98.74476987447699,3712,2390
+c,(any class),HBV,ALL (joint reference),bc_uniqSV_blockNull,3138,2421,,,1.0186,0.9893,1.0488,1.24,0.1095445227738613,21,1.0186,0.9893,1.0488,95% spatial-null reference range,100.0,100.0,3138,2421
+c,(any class),HBV,HOTSPOT (recurrence),bc_uniqSV_blockNull,226,102,,,1.1512,1.0075,1.3235,2.16,0.0195490225488725,22,1.1512,1.0075,1.3235,95% spatial-null reference range,7.202039515615041,4.2131350681536555,3138,2421
+c,(any class),HBV,NON-HOTSPOT (recurrence),bc_uniqSV_blockNull,2912,2319,,,1.0126,0.9832,1.0434,0.83,0.2048397580120994,23,1.0126,0.9832,1.0434,95% spatial-null reference range,92.79796048438496,95.78686493184634,3138,2421
+c,(any class),HBV,HOTSPOT (gene list),bc_uniqSV_blockNull,109,3,,,0.8292,0.5,1.8,-0.56,0.7312634368281586,24,0.8292,0.5,1.8,95% spatial-null reference range,3.4735500318674313,0.12391573729863693,3138,2421
+c,(any class),HBV,NON-HOTSPOT (gene list),bc_uniqSV_blockNull,3029,2419,,,1.0188,0.9889,1.0494,1.25,0.1051947402629868,25,1.0188,0.9889,1.0494,95% spatial-null reference range,96.52644996813257,99.91738950846758,3138,2421

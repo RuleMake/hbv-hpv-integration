@@ -1,0 +1,5 @@
+estimand,virus,full_coordinates,full_clusters,common_coordinates,common_clusters,dropped_clusters,min_candidates,no_fallback,SV_outcomes_accessed
+composition,HBV,3138,2421,3054,2359,62,5,True,False
+atlas,HBV,3138,2421,3045,2355,66,5,True,False
+composition,HPV,3712,2390,3626,2340,50,5,True,False
+atlas,HPV,3712,2390,3607,2333,57,5,True,False

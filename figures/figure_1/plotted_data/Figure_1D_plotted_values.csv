@@ -1,0 +1,1864 @@
+chrom,chrom_length,bin_start,bin_end,track,count,query_excluded_fraction,query_exclusion_applies,count_basis
+1,249250621,0,5000000,SV breakends,491,0.0,False,All eligible paired-call breakends
+1,249250621,5000000,10000000,SV breakends,610,0.0,False,All eligible paired-call breakends
+1,249250621,10000000,15000000,SV breakends,431,0.0,False,All eligible paired-call breakends
+1,249250621,15000000,20000000,SV breakends,655,0.0,False,All eligible paired-call breakends
+1,249250621,20000000,25000000,SV breakends,625,0.0,False,All eligible paired-call breakends
+1,249250621,25000000,30000000,SV breakends,744,0.0,False,All eligible paired-call breakends
+1,249250621,30000000,35000000,SV breakends,707,0.0,False,All eligible paired-call breakends
+1,249250621,35000000,40000000,SV breakends,581,0.09,False,All eligible paired-call breakends
+1,249250621,40000000,45000000,SV breakends,592,0.15,False,All eligible paired-call breakends
+1,249250621,45000000,50000000,SV breakends,558,0.0,False,All eligible paired-call breakends
+1,249250621,50000000,55000000,SV breakends,546,0.0,False,All eligible paired-call breakends
+1,249250621,55000000,60000000,SV breakends,505,0.0,False,All eligible paired-call breakends
+1,249250621,60000000,65000000,SV breakends,555,0.0,False,All eligible paired-call breakends
+1,249250621,65000000,70000000,SV breakends,450,0.0,False,All eligible paired-call breakends
+1,249250621,70000000,75000000,SV breakends,371,0.0,False,All eligible paired-call breakends
+1,249250621,75000000,80000000,SV breakends,345,0.0,False,All eligible paired-call breakends
+1,249250621,80000000,85000000,SV breakends,209,0.0,False,All eligible paired-call breakends
+1,249250621,85000000,90000000,SV breakends,272,0.0,False,All eligible paired-call breakends
+1,249250621,90000000,95000000,SV breakends,407,0.0,False,All eligible paired-call breakends
+1,249250621,95000000,100000000,SV breakends,339,0.0,False,All eligible paired-call breakends
+1,249250621,100000000,105000000,SV breakends,275,0.0,False,All eligible paired-call breakends
+1,249250621,105000000,110000000,SV breakends,248,0.0,False,All eligible paired-call breakends
+1,249250621,110000000,115000000,SV breakends,463,0.0,False,All eligible paired-call breakends
+1,249250621,115000000,120000000,SV breakends,463,0.0,False,All eligible paired-call breakends
+1,249250621,120000000,125000000,SV breakends,124,0.0,False,All eligible paired-call breakends
+1,249250621,125000000,130000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+1,249250621,130000000,135000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+1,249250621,135000000,140000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+1,249250621,140000000,145000000,SV breakends,34,0.0,False,All eligible paired-call breakends
+1,249250621,145000000,150000000,SV breakends,221,0.0,False,All eligible paired-call breakends
+1,249250621,150000000,155000000,SV breakends,922,0.14,False,All eligible paired-call breakends
+1,249250621,155000000,160000000,SV breakends,1125,0.08,False,All eligible paired-call breakends
+1,249250621,160000000,165000000,SV breakends,918,0.13,False,All eligible paired-call breakends
+1,249250621,165000000,170000000,SV breakends,747,0.0,False,All eligible paired-call breakends
+1,249250621,170000000,175000000,SV breakends,748,0.22,False,All eligible paired-call breakends
+1,249250621,175000000,180000000,SV breakends,529,0.0,False,All eligible paired-call breakends
+1,249250621,180000000,185000000,SV breakends,586,0.0,False,All eligible paired-call breakends
+1,249250621,185000000,190000000,SV breakends,492,0.0,False,All eligible paired-call breakends
+1,249250621,190000000,195000000,SV breakends,481,0.0,False,All eligible paired-call breakends
+1,249250621,195000000,200000000,SV breakends,383,0.0,False,All eligible paired-call breakends
+1,249250621,200000000,205000000,SV breakends,590,0.14,False,All eligible paired-call breakends
+1,249250621,205000000,210000000,SV breakends,590,0.0,False,All eligible paired-call breakends
+1,249250621,210000000,215000000,SV breakends,406,0.0,False,All eligible paired-call breakends
+1,249250621,215000000,220000000,SV breakends,500,0.0,False,All eligible paired-call breakends
+1,249250621,220000000,225000000,SV breakends,514,0.0,False,All eligible paired-call breakends
+1,249250621,225000000,230000000,SV breakends,528,0.0,False,All eligible paired-call breakends
+1,249250621,230000000,235000000,SV breakends,474,0.09,False,All eligible paired-call breakends
+1,249250621,235000000,240000000,SV breakends,598,0.08,False,All eligible paired-call breakends
+1,249250621,240000000,245000000,SV breakends,543,0.0,False,All eligible paired-call breakends
+1,249250621,245000000,249250621,SV breakends,538,0.18820779363768259,False,All eligible paired-call breakends
+1,249250621,0,5000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,5000000,10000000,HBV,8,0.0,True,Retained integration query coordinates
+1,249250621,10000000,15000000,HBV,4,0.0,True,Retained integration query coordinates
+1,249250621,15000000,20000000,HBV,9,0.0,True,Retained integration query coordinates
+1,249250621,20000000,25000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,25000000,30000000,HBV,8,0.0,True,Retained integration query coordinates
+1,249250621,30000000,35000000,HBV,2,0.0,True,Retained integration query coordinates
+1,249250621,35000000,40000000,HBV,0,0.09,True,Retained integration query coordinates
+1,249250621,40000000,45000000,HBV,3,0.15,True,Retained integration query coordinates
+1,249250621,45000000,50000000,HBV,6,0.0,True,Retained integration query coordinates
+1,249250621,50000000,55000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,55000000,60000000,HBV,9,0.0,True,Retained integration query coordinates
+1,249250621,60000000,65000000,HBV,8,0.0,True,Retained integration query coordinates
+1,249250621,65000000,70000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,70000000,75000000,HBV,3,0.0,True,Retained integration query coordinates
+1,249250621,75000000,80000000,HBV,1,0.0,True,Retained integration query coordinates
+1,249250621,80000000,85000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,85000000,90000000,HBV,5,0.0,True,Retained integration query coordinates
+1,249250621,90000000,95000000,HBV,9,0.0,True,Retained integration query coordinates
+1,249250621,95000000,100000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,100000000,105000000,HBV,5,0.0,True,Retained integration query coordinates
+1,249250621,105000000,110000000,HBV,6,0.0,True,Retained integration query coordinates
+1,249250621,110000000,115000000,HBV,3,0.0,True,Retained integration query coordinates
+1,249250621,115000000,120000000,HBV,6,0.0,True,Retained integration query coordinates
+1,249250621,120000000,125000000,HBV,5,0.0,True,Retained integration query coordinates
+1,249250621,125000000,130000000,HBV,0,0.0,True,Retained integration query coordinates
+1,249250621,130000000,135000000,HBV,0,0.0,True,Retained integration query coordinates
+1,249250621,135000000,140000000,HBV,0,0.0,True,Retained integration query coordinates
+1,249250621,140000000,145000000,HBV,2,0.0,True,Retained integration query coordinates
+1,249250621,145000000,150000000,HBV,6,0.0,True,Retained integration query coordinates
+1,249250621,150000000,155000000,HBV,9,0.14,True,Retained integration query coordinates
+1,249250621,155000000,160000000,HBV,4,0.08,True,Retained integration query coordinates
+1,249250621,160000000,165000000,HBV,2,0.13,True,Retained integration query coordinates
+1,249250621,165000000,170000000,HBV,2,0.0,True,Retained integration query coordinates
+1,249250621,170000000,175000000,HBV,7,0.22,True,Retained integration query coordinates
+1,249250621,175000000,180000000,HBV,3,0.0,True,Retained integration query coordinates
+1,249250621,180000000,185000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,185000000,190000000,HBV,6,0.0,True,Retained integration query coordinates
+1,249250621,190000000,195000000,HBV,9,0.0,True,Retained integration query coordinates
+1,249250621,195000000,200000000,HBV,4,0.0,True,Retained integration query coordinates
+1,249250621,200000000,205000000,HBV,4,0.14,True,Retained integration query coordinates
+1,249250621,205000000,210000000,HBV,4,0.0,True,Retained integration query coordinates
+1,249250621,210000000,215000000,HBV,4,0.0,True,Retained integration query coordinates
+1,249250621,215000000,220000000,HBV,8,0.0,True,Retained integration query coordinates
+1,249250621,220000000,225000000,HBV,7,0.0,True,Retained integration query coordinates
+1,249250621,225000000,230000000,HBV,4,0.0,True,Retained integration query coordinates
+1,249250621,230000000,235000000,HBV,4,0.09,True,Retained integration query coordinates
+1,249250621,235000000,240000000,HBV,4,0.08,True,Retained integration query coordinates
+1,249250621,240000000,245000000,HBV,4,0.0,True,Retained integration query coordinates
+1,249250621,245000000,249250621,HBV,6,0.18820779363768259,True,Retained integration query coordinates
+1,249250621,0,5000000,HPV,12,0.0,True,Retained integration query coordinates
+1,249250621,5000000,10000000,HPV,7,0.0,True,Retained integration query coordinates
+1,249250621,10000000,15000000,HPV,6,0.0,True,Retained integration query coordinates
+1,249250621,15000000,20000000,HPV,10,0.0,True,Retained integration query coordinates
+1,249250621,20000000,25000000,HPV,4,0.0,True,Retained integration query coordinates
+1,249250621,25000000,30000000,HPV,28,0.0,True,Retained integration query coordinates
+1,249250621,30000000,35000000,HPV,7,0.0,True,Retained integration query coordinates
+1,249250621,35000000,40000000,HPV,8,0.09,True,Retained integration query coordinates
+1,249250621,40000000,45000000,HPV,5,0.15,True,Retained integration query coordinates
+1,249250621,45000000,50000000,HPV,1,0.0,True,Retained integration query coordinates
+1,249250621,50000000,55000000,HPV,8,0.0,True,Retained integration query coordinates
+1,249250621,55000000,60000000,HPV,11,0.0,True,Retained integration query coordinates
+1,249250621,60000000,65000000,HPV,4,0.0,True,Retained integration query coordinates
+1,249250621,65000000,70000000,HPV,10,0.0,True,Retained integration query coordinates
+1,249250621,70000000,75000000,HPV,4,0.0,True,Retained integration query coordinates
+1,249250621,75000000,80000000,HPV,3,0.0,True,Retained integration query coordinates
+1,249250621,80000000,85000000,HPV,3,0.0,True,Retained integration query coordinates
+1,249250621,85000000,90000000,HPV,4,0.0,True,Retained integration query coordinates
+1,249250621,90000000,95000000,HPV,5,0.0,True,Retained integration query coordinates
+1,249250621,95000000,100000000,HPV,3,0.0,True,Retained integration query coordinates
+1,249250621,100000000,105000000,HPV,4,0.0,True,Retained integration query coordinates
+1,249250621,105000000,110000000,HPV,2,0.0,True,Retained integration query coordinates
+1,249250621,110000000,115000000,HPV,5,0.0,True,Retained integration query coordinates
+1,249250621,115000000,120000000,HPV,7,0.0,True,Retained integration query coordinates
+1,249250621,120000000,125000000,HPV,1,0.0,True,Retained integration query coordinates
+1,249250621,125000000,130000000,HPV,0,0.0,True,Retained integration query coordinates
+1,249250621,130000000,135000000,HPV,0,0.0,True,Retained integration query coordinates
+1,249250621,135000000,140000000,HPV,0,0.0,True,Retained integration query coordinates
+1,249250621,140000000,145000000,HPV,6,0.0,True,Retained integration query coordinates
+1,249250621,145000000,150000000,HPV,7,0.0,True,Retained integration query coordinates
+1,249250621,150000000,155000000,HPV,5,0.14,True,Retained integration query coordinates
+1,249250621,155000000,160000000,HPV,3,0.08,True,Retained integration query coordinates
+1,249250621,160000000,165000000,HPV,6,0.13,True,Retained integration query coordinates
+1,249250621,165000000,170000000,HPV,5,0.0,True,Retained integration query coordinates
+1,249250621,170000000,175000000,HPV,3,0.22,True,Retained integration query coordinates
+1,249250621,175000000,180000000,HPV,5,0.0,True,Retained integration query coordinates
+1,249250621,180000000,185000000,HPV,2,0.0,True,Retained integration query coordinates
+1,249250621,185000000,190000000,HPV,12,0.0,True,Retained integration query coordinates
+1,249250621,190000000,195000000,HPV,5,0.0,True,Retained integration query coordinates
+1,249250621,195000000,200000000,HPV,8,0.0,True,Retained integration query coordinates
+1,249250621,200000000,205000000,HPV,5,0.14,True,Retained integration query coordinates
+1,249250621,205000000,210000000,HPV,11,0.0,True,Retained integration query coordinates
+1,249250621,210000000,215000000,HPV,3,0.0,True,Retained integration query coordinates
+1,249250621,215000000,220000000,HPV,5,0.0,True,Retained integration query coordinates
+1,249250621,220000000,225000000,HPV,4,0.0,True,Retained integration query coordinates
+1,249250621,225000000,230000000,HPV,6,0.0,True,Retained integration query coordinates
+1,249250621,230000000,235000000,HPV,6,0.09,True,Retained integration query coordinates
+1,249250621,235000000,240000000,HPV,16,0.08,True,Retained integration query coordinates
+1,249250621,240000000,245000000,HPV,6,0.0,True,Retained integration query coordinates
+1,249250621,245000000,249250621,HPV,4,0.18820779363768259,True,Retained integration query coordinates
+2,243199373,0,5000000,SV breakends,304,0.0,False,All eligible paired-call breakends
+2,243199373,5000000,10000000,SV breakends,413,0.0,False,All eligible paired-call breakends
+2,243199373,10000000,15000000,SV breakends,541,0.0,False,All eligible paired-call breakends
+2,243199373,15000000,20000000,SV breakends,563,0.0,False,All eligible paired-call breakends
+2,243199373,20000000,25000000,SV breakends,397,0.0,False,All eligible paired-call breakends
+2,243199373,25000000,30000000,SV breakends,456,0.0,False,All eligible paired-call breakends
+2,243199373,30000000,35000000,SV breakends,337,0.0,False,All eligible paired-call breakends
+2,243199373,35000000,40000000,SV breakends,323,0.0,False,All eligible paired-call breakends
+2,243199373,40000000,45000000,SV breakends,596,0.0,False,All eligible paired-call breakends
+2,243199373,45000000,50000000,SV breakends,348,0.0,False,All eligible paired-call breakends
+2,243199373,50000000,55000000,SV breakends,327,0.0,False,All eligible paired-call breakends
+2,243199373,55000000,60000000,SV breakends,355,0.0,False,All eligible paired-call breakends
+2,243199373,60000000,65000000,SV breakends,491,0.23,False,All eligible paired-call breakends
+2,243199373,65000000,70000000,SV breakends,344,0.0,False,All eligible paired-call breakends
+2,243199373,70000000,75000000,SV breakends,324,0.0,False,All eligible paired-call breakends
+2,243199373,75000000,80000000,SV breakends,338,0.0,False,All eligible paired-call breakends
+2,243199373,80000000,85000000,SV breakends,305,0.0,False,All eligible paired-call breakends
+2,243199373,85000000,90000000,SV breakends,328,0.0,False,All eligible paired-call breakends
+2,243199373,90000000,95000000,SV breakends,37,0.0,False,All eligible paired-call breakends
+2,243199373,95000000,100000000,SV breakends,314,0.0,False,All eligible paired-call breakends
+2,243199373,100000000,105000000,SV breakends,398,0.0,False,All eligible paired-call breakends
+2,243199373,105000000,110000000,SV breakends,267,0.0,False,All eligible paired-call breakends
+2,243199373,110000000,115000000,SV breakends,249,0.0,False,All eligible paired-call breakends
+2,243199373,115000000,120000000,SV breakends,241,0.0,False,All eligible paired-call breakends
+2,243199373,120000000,125000000,SV breakends,283,0.0,False,All eligible paired-call breakends
+2,243199373,125000000,130000000,SV breakends,280,0.0,False,All eligible paired-call breakends
+2,243199373,130000000,135000000,SV breakends,406,0.0,False,All eligible paired-call breakends
+2,243199373,135000000,140000000,SV breakends,439,0.0,False,All eligible paired-call breakends
+2,243199373,140000000,145000000,SV breakends,799,0.0,False,All eligible paired-call breakends
+2,243199373,145000000,150000000,SV breakends,374,0.0,False,All eligible paired-call breakends
+2,243199373,150000000,155000000,SV breakends,290,0.0,False,All eligible paired-call breakends
+2,243199373,155000000,160000000,SV breakends,393,0.0,False,All eligible paired-call breakends
+2,243199373,160000000,165000000,SV breakends,369,0.0,False,All eligible paired-call breakends
+2,243199373,165000000,170000000,SV breakends,326,0.0,False,All eligible paired-call breakends
+2,243199373,170000000,175000000,SV breakends,406,0.0,False,All eligible paired-call breakends
+2,243199373,175000000,180000000,SV breakends,403,0.0,False,All eligible paired-call breakends
+2,243199373,180000000,185000000,SV breakends,387,0.0,False,All eligible paired-call breakends
+2,243199373,185000000,190000000,SV breakends,460,0.0,False,All eligible paired-call breakends
+2,243199373,190000000,195000000,SV breakends,509,0.0,False,All eligible paired-call breakends
+2,243199373,195000000,200000000,SV breakends,380,0.0,False,All eligible paired-call breakends
+2,243199373,200000000,205000000,SV breakends,453,0.0,False,All eligible paired-call breakends
+2,243199373,205000000,210000000,SV breakends,434,0.0,False,All eligible paired-call breakends
+2,243199373,210000000,215000000,SV breakends,613,0.0,False,All eligible paired-call breakends
+2,243199373,215000000,220000000,SV breakends,414,0.0,False,All eligible paired-call breakends
+2,243199373,220000000,225000000,SV breakends,366,0.0,False,All eligible paired-call breakends
+2,243199373,225000000,230000000,SV breakends,374,0.0,False,All eligible paired-call breakends
+2,243199373,230000000,235000000,SV breakends,464,0.0,False,All eligible paired-call breakends
+2,243199373,235000000,240000000,SV breakends,425,0.0,False,All eligible paired-call breakends
+2,243199373,240000000,243199373,SV breakends,284,0.0,False,All eligible paired-call breakends
+2,243199373,0,5000000,HBV,11,0.0,True,Retained integration query coordinates
+2,243199373,5000000,10000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,10000000,15000000,HBV,8,0.0,True,Retained integration query coordinates
+2,243199373,15000000,20000000,HBV,4,0.0,True,Retained integration query coordinates
+2,243199373,20000000,25000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,25000000,30000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,30000000,35000000,HBV,7,0.0,True,Retained integration query coordinates
+2,243199373,35000000,40000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,40000000,45000000,HBV,9,0.0,True,Retained integration query coordinates
+2,243199373,45000000,50000000,HBV,5,0.0,True,Retained integration query coordinates
+2,243199373,50000000,55000000,HBV,2,0.0,True,Retained integration query coordinates
+2,243199373,55000000,60000000,HBV,5,0.0,True,Retained integration query coordinates
+2,243199373,60000000,65000000,HBV,4,0.23,True,Retained integration query coordinates
+2,243199373,65000000,70000000,HBV,10,0.0,True,Retained integration query coordinates
+2,243199373,70000000,75000000,HBV,5,0.0,True,Retained integration query coordinates
+2,243199373,75000000,80000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,80000000,85000000,HBV,2,0.0,True,Retained integration query coordinates
+2,243199373,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+2,243199373,90000000,95000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,95000000,100000000,HBV,8,0.0,True,Retained integration query coordinates
+2,243199373,100000000,105000000,HBV,5,0.0,True,Retained integration query coordinates
+2,243199373,105000000,110000000,HBV,2,0.0,True,Retained integration query coordinates
+2,243199373,110000000,115000000,HBV,7,0.0,True,Retained integration query coordinates
+2,243199373,115000000,120000000,HBV,9,0.0,True,Retained integration query coordinates
+2,243199373,120000000,125000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,125000000,130000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,130000000,135000000,HBV,8,0.0,True,Retained integration query coordinates
+2,243199373,135000000,140000000,HBV,8,0.0,True,Retained integration query coordinates
+2,243199373,140000000,145000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,145000000,150000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,150000000,155000000,HBV,0,0.0,True,Retained integration query coordinates
+2,243199373,155000000,160000000,HBV,4,0.0,True,Retained integration query coordinates
+2,243199373,160000000,165000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,165000000,170000000,HBV,2,0.0,True,Retained integration query coordinates
+2,243199373,170000000,175000000,HBV,5,0.0,True,Retained integration query coordinates
+2,243199373,175000000,180000000,HBV,4,0.0,True,Retained integration query coordinates
+2,243199373,180000000,185000000,HBV,2,0.0,True,Retained integration query coordinates
+2,243199373,185000000,190000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,190000000,195000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,195000000,200000000,HBV,4,0.0,True,Retained integration query coordinates
+2,243199373,200000000,205000000,HBV,3,0.0,True,Retained integration query coordinates
+2,243199373,205000000,210000000,HBV,7,0.0,True,Retained integration query coordinates
+2,243199373,210000000,215000000,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,215000000,220000000,HBV,68,0.0,True,Retained integration query coordinates
+2,243199373,220000000,225000000,HBV,5,0.0,True,Retained integration query coordinates
+2,243199373,225000000,230000000,HBV,4,0.0,True,Retained integration query coordinates
+2,243199373,230000000,235000000,HBV,11,0.0,True,Retained integration query coordinates
+2,243199373,235000000,240000000,HBV,12,0.0,True,Retained integration query coordinates
+2,243199373,240000000,243199373,HBV,6,0.0,True,Retained integration query coordinates
+2,243199373,0,5000000,HPV,16,0.0,True,Retained integration query coordinates
+2,243199373,5000000,10000000,HPV,2,0.0,True,Retained integration query coordinates
+2,243199373,10000000,15000000,HPV,5,0.0,True,Retained integration query coordinates
+2,243199373,15000000,20000000,HPV,8,0.0,True,Retained integration query coordinates
+2,243199373,20000000,25000000,HPV,13,0.0,True,Retained integration query coordinates
+2,243199373,25000000,30000000,HPV,11,0.0,True,Retained integration query coordinates
+2,243199373,30000000,35000000,HPV,4,0.0,True,Retained integration query coordinates
+2,243199373,35000000,40000000,HPV,5,0.0,True,Retained integration query coordinates
+2,243199373,40000000,45000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,45000000,50000000,HPV,2,0.0,True,Retained integration query coordinates
+2,243199373,50000000,55000000,HPV,34,0.0,True,Retained integration query coordinates
+2,243199373,55000000,60000000,HPV,20,0.0,True,Retained integration query coordinates
+2,243199373,60000000,65000000,HPV,13,0.23,True,Retained integration query coordinates
+2,243199373,65000000,70000000,HPV,5,0.0,True,Retained integration query coordinates
+2,243199373,70000000,75000000,HPV,4,0.0,True,Retained integration query coordinates
+2,243199373,75000000,80000000,HPV,9,0.0,True,Retained integration query coordinates
+2,243199373,80000000,85000000,HPV,4,0.0,True,Retained integration query coordinates
+2,243199373,85000000,90000000,HPV,9,0.0,True,Retained integration query coordinates
+2,243199373,90000000,95000000,HPV,6,0.0,True,Retained integration query coordinates
+2,243199373,95000000,100000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,100000000,105000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,105000000,110000000,HPV,2,0.0,True,Retained integration query coordinates
+2,243199373,110000000,115000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,115000000,120000000,HPV,1,0.0,True,Retained integration query coordinates
+2,243199373,120000000,125000000,HPV,8,0.0,True,Retained integration query coordinates
+2,243199373,125000000,130000000,HPV,5,0.0,True,Retained integration query coordinates
+2,243199373,130000000,135000000,HPV,16,0.0,True,Retained integration query coordinates
+2,243199373,135000000,140000000,HPV,1,0.0,True,Retained integration query coordinates
+2,243199373,140000000,145000000,HPV,26,0.0,True,Retained integration query coordinates
+2,243199373,145000000,150000000,HPV,27,0.0,True,Retained integration query coordinates
+2,243199373,150000000,155000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,155000000,160000000,HPV,9,0.0,True,Retained integration query coordinates
+2,243199373,160000000,165000000,HPV,13,0.0,True,Retained integration query coordinates
+2,243199373,165000000,170000000,HPV,4,0.0,True,Retained integration query coordinates
+2,243199373,170000000,175000000,HPV,4,0.0,True,Retained integration query coordinates
+2,243199373,175000000,180000000,HPV,16,0.0,True,Retained integration query coordinates
+2,243199373,180000000,185000000,HPV,9,0.0,True,Retained integration query coordinates
+2,243199373,185000000,190000000,HPV,4,0.0,True,Retained integration query coordinates
+2,243199373,190000000,195000000,HPV,11,0.0,True,Retained integration query coordinates
+2,243199373,195000000,200000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,200000000,205000000,HPV,21,0.0,True,Retained integration query coordinates
+2,243199373,205000000,210000000,HPV,12,0.0,True,Retained integration query coordinates
+2,243199373,210000000,215000000,HPV,8,0.0,True,Retained integration query coordinates
+2,243199373,215000000,220000000,HPV,2,0.0,True,Retained integration query coordinates
+2,243199373,220000000,225000000,HPV,3,0.0,True,Retained integration query coordinates
+2,243199373,225000000,230000000,HPV,7,0.0,True,Retained integration query coordinates
+2,243199373,230000000,235000000,HPV,1,0.0,True,Retained integration query coordinates
+2,243199373,235000000,240000000,HPV,6,0.0,True,Retained integration query coordinates
+2,243199373,240000000,243199373,HPV,2,0.0,True,Retained integration query coordinates
+3,198022430,0,5000000,SV breakends,618,0.0,False,All eligible paired-call breakends
+3,198022430,5000000,10000000,SV breakends,500,0.0,False,All eligible paired-call breakends
+3,198022430,10000000,15000000,SV breakends,590,0.0,False,All eligible paired-call breakends
+3,198022430,15000000,20000000,SV breakends,445,0.0,False,All eligible paired-call breakends
+3,198022430,20000000,25000000,SV breakends,366,0.0,False,All eligible paired-call breakends
+3,198022430,25000000,30000000,SV breakends,301,0.0,False,All eligible paired-call breakends
+3,198022430,30000000,35000000,SV breakends,437,0.0,False,All eligible paired-call breakends
+3,198022430,35000000,40000000,SV breakends,353,0.0,False,All eligible paired-call breakends
+3,198022430,40000000,45000000,SV breakends,290,0.0,False,All eligible paired-call breakends
+3,198022430,45000000,50000000,SV breakends,574,0.0,False,All eligible paired-call breakends
+3,198022430,50000000,55000000,SV breakends,628,0.0,False,All eligible paired-call breakends
+3,198022430,55000000,60000000,SV breakends,448,0.0,False,All eligible paired-call breakends
+3,198022430,60000000,65000000,SV breakends,1121,0.0,False,All eligible paired-call breakends
+3,198022430,65000000,70000000,SV breakends,547,0.0,False,All eligible paired-call breakends
+3,198022430,70000000,75000000,SV breakends,566,0.0,False,All eligible paired-call breakends
+3,198022430,75000000,80000000,SV breakends,535,0.0,False,All eligible paired-call breakends
+3,198022430,80000000,85000000,SV breakends,543,0.0,False,All eligible paired-call breakends
+3,198022430,85000000,90000000,SV breakends,562,0.0,False,All eligible paired-call breakends
+3,198022430,90000000,95000000,SV breakends,183,0.0,False,All eligible paired-call breakends
+3,198022430,95000000,100000000,SV breakends,384,0.0,False,All eligible paired-call breakends
+3,198022430,100000000,105000000,SV breakends,342,0.0,False,All eligible paired-call breakends
+3,198022430,105000000,110000000,SV breakends,461,0.0,False,All eligible paired-call breakends
+3,198022430,110000000,115000000,SV breakends,463,0.0,False,All eligible paired-call breakends
+3,198022430,115000000,120000000,SV breakends,748,0.0,False,All eligible paired-call breakends
+3,198022430,120000000,125000000,SV breakends,376,0.0,False,All eligible paired-call breakends
+3,198022430,125000000,130000000,SV breakends,346,0.0,False,All eligible paired-call breakends
+3,198022430,130000000,135000000,SV breakends,442,0.0,False,All eligible paired-call breakends
+3,198022430,135000000,140000000,SV breakends,418,0.0,False,All eligible paired-call breakends
+3,198022430,140000000,145000000,SV breakends,307,0.0,False,All eligible paired-call breakends
+3,198022430,145000000,150000000,SV breakends,472,0.0,False,All eligible paired-call breakends
+3,198022430,150000000,155000000,SV breakends,409,0.0,False,All eligible paired-call breakends
+3,198022430,155000000,160000000,SV breakends,428,0.0,False,All eligible paired-call breakends
+3,198022430,160000000,165000000,SV breakends,482,0.0,False,All eligible paired-call breakends
+3,198022430,165000000,170000000,SV breakends,648,0.21,False,All eligible paired-call breakends
+3,198022430,170000000,175000000,SV breakends,866,0.11,False,All eligible paired-call breakends
+3,198022430,175000000,180000000,SV breakends,722,0.0,False,All eligible paired-call breakends
+3,198022430,180000000,185000000,SV breakends,590,0.0,False,All eligible paired-call breakends
+3,198022430,185000000,190000000,SV breakends,600,0.0,False,All eligible paired-call breakends
+3,198022430,190000000,195000000,SV breakends,472,0.0,False,All eligible paired-call breakends
+3,198022430,195000000,198022430,SV breakends,291,0.5864254920709495,False,All eligible paired-call breakends
+3,198022430,0,5000000,HBV,8,0.0,True,Retained integration query coordinates
+3,198022430,5000000,10000000,HBV,7,0.0,True,Retained integration query coordinates
+3,198022430,10000000,15000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,15000000,20000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,20000000,25000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,25000000,30000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,30000000,35000000,HBV,2,0.0,True,Retained integration query coordinates
+3,198022430,35000000,40000000,HBV,5,0.0,True,Retained integration query coordinates
+3,198022430,40000000,45000000,HBV,5,0.0,True,Retained integration query coordinates
+3,198022430,45000000,50000000,HBV,7,0.0,True,Retained integration query coordinates
+3,198022430,50000000,55000000,HBV,3,0.0,True,Retained integration query coordinates
+3,198022430,55000000,60000000,HBV,4,0.0,True,Retained integration query coordinates
+3,198022430,60000000,65000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,65000000,70000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,70000000,75000000,HBV,8,0.0,True,Retained integration query coordinates
+3,198022430,75000000,80000000,HBV,3,0.0,True,Retained integration query coordinates
+3,198022430,80000000,85000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+3,198022430,90000000,95000000,HBV,2,0.0,True,Retained integration query coordinates
+3,198022430,95000000,100000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,100000000,105000000,HBV,3,0.0,True,Retained integration query coordinates
+3,198022430,105000000,110000000,HBV,4,0.0,True,Retained integration query coordinates
+3,198022430,110000000,115000000,HBV,2,0.0,True,Retained integration query coordinates
+3,198022430,115000000,120000000,HBV,5,0.0,True,Retained integration query coordinates
+3,198022430,120000000,125000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,125000000,130000000,HBV,10,0.0,True,Retained integration query coordinates
+3,198022430,130000000,135000000,HBV,3,0.0,True,Retained integration query coordinates
+3,198022430,135000000,140000000,HBV,7,0.0,True,Retained integration query coordinates
+3,198022430,140000000,145000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,145000000,150000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,150000000,155000000,HBV,1,0.0,True,Retained integration query coordinates
+3,198022430,155000000,160000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,160000000,165000000,HBV,3,0.0,True,Retained integration query coordinates
+3,198022430,165000000,170000000,HBV,2,0.21,True,Retained integration query coordinates
+3,198022430,170000000,175000000,HBV,3,0.11,True,Retained integration query coordinates
+3,198022430,175000000,180000000,HBV,9,0.0,True,Retained integration query coordinates
+3,198022430,180000000,185000000,HBV,10,0.0,True,Retained integration query coordinates
+3,198022430,185000000,190000000,HBV,6,0.0,True,Retained integration query coordinates
+3,198022430,190000000,195000000,HBV,12,0.0,True,Retained integration query coordinates
+3,198022430,195000000,198022430,HBV,2,0.5864254920709495,True,Retained integration query coordinates
+3,198022430,0,5000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,5000000,10000000,HPV,2,0.0,True,Retained integration query coordinates
+3,198022430,10000000,15000000,HPV,2,0.0,True,Retained integration query coordinates
+3,198022430,15000000,20000000,HPV,7,0.0,True,Retained integration query coordinates
+3,198022430,20000000,25000000,HPV,4,0.0,True,Retained integration query coordinates
+3,198022430,25000000,30000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,30000000,35000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,35000000,40000000,HPV,3,0.0,True,Retained integration query coordinates
+3,198022430,40000000,45000000,HPV,3,0.0,True,Retained integration query coordinates
+3,198022430,45000000,50000000,HPV,3,0.0,True,Retained integration query coordinates
+3,198022430,50000000,55000000,HPV,1,0.0,True,Retained integration query coordinates
+3,198022430,55000000,60000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,60000000,65000000,HPV,25,0.0,True,Retained integration query coordinates
+3,198022430,65000000,70000000,HPV,9,0.0,True,Retained integration query coordinates
+3,198022430,70000000,75000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,75000000,80000000,HPV,4,0.0,True,Retained integration query coordinates
+3,198022430,80000000,85000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,85000000,90000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,90000000,95000000,HPV,4,0.0,True,Retained integration query coordinates
+3,198022430,95000000,100000000,HPV,4,0.0,True,Retained integration query coordinates
+3,198022430,100000000,105000000,HPV,7,0.0,True,Retained integration query coordinates
+3,198022430,105000000,110000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,110000000,115000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,115000000,120000000,HPV,2,0.0,True,Retained integration query coordinates
+3,198022430,120000000,125000000,HPV,4,0.0,True,Retained integration query coordinates
+3,198022430,125000000,130000000,HPV,8,0.0,True,Retained integration query coordinates
+3,198022430,130000000,135000000,HPV,1,0.0,True,Retained integration query coordinates
+3,198022430,135000000,140000000,HPV,15,0.0,True,Retained integration query coordinates
+3,198022430,140000000,145000000,HPV,6,0.0,True,Retained integration query coordinates
+3,198022430,145000000,150000000,HPV,5,0.0,True,Retained integration query coordinates
+3,198022430,150000000,155000000,HPV,5,0.0,True,Retained integration query coordinates
+3,198022430,155000000,160000000,HPV,7,0.0,True,Retained integration query coordinates
+3,198022430,160000000,165000000,HPV,5,0.0,True,Retained integration query coordinates
+3,198022430,165000000,170000000,HPV,3,0.21,True,Retained integration query coordinates
+3,198022430,170000000,175000000,HPV,2,0.11,True,Retained integration query coordinates
+3,198022430,175000000,180000000,HPV,2,0.0,True,Retained integration query coordinates
+3,198022430,180000000,185000000,HPV,18,0.0,True,Retained integration query coordinates
+3,198022430,185000000,190000000,HPV,29,0.0,True,Retained integration query coordinates
+3,198022430,190000000,195000000,HPV,9,0.0,True,Retained integration query coordinates
+3,198022430,195000000,198022430,HPV,2,0.5864254920709495,True,Retained integration query coordinates
+4,191154276,0,5000000,SV breakends,504,0.0,False,All eligible paired-call breakends
+4,191154276,5000000,10000000,SV breakends,316,0.0,False,All eligible paired-call breakends
+4,191154276,10000000,15000000,SV breakends,256,0.0,False,All eligible paired-call breakends
+4,191154276,15000000,20000000,SV breakends,399,0.0,False,All eligible paired-call breakends
+4,191154276,20000000,25000000,SV breakends,316,0.0,False,All eligible paired-call breakends
+4,191154276,25000000,30000000,SV breakends,616,0.0,False,All eligible paired-call breakends
+4,191154276,30000000,35000000,SV breakends,356,0.0,False,All eligible paired-call breakends
+4,191154276,35000000,40000000,SV breakends,379,0.0,False,All eligible paired-call breakends
+4,191154276,40000000,45000000,SV breakends,510,0.0,False,All eligible paired-call breakends
+4,191154276,45000000,50000000,SV breakends,295,0.0,False,All eligible paired-call breakends
+4,191154276,50000000,55000000,SV breakends,274,0.0,False,All eligible paired-call breakends
+4,191154276,55000000,60000000,SV breakends,651,0.0,False,All eligible paired-call breakends
+4,191154276,60000000,65000000,SV breakends,450,0.0,False,All eligible paired-call breakends
+4,191154276,65000000,70000000,SV breakends,362,0.0,False,All eligible paired-call breakends
+4,191154276,70000000,75000000,SV breakends,438,0.0,False,All eligible paired-call breakends
+4,191154276,75000000,80000000,SV breakends,355,0.0,False,All eligible paired-call breakends
+4,191154276,80000000,85000000,SV breakends,205,0.0,False,All eligible paired-call breakends
+4,191154276,85000000,90000000,SV breakends,336,0.0,False,All eligible paired-call breakends
+4,191154276,90000000,95000000,SV breakends,643,0.0,False,All eligible paired-call breakends
+4,191154276,95000000,100000000,SV breakends,235,0.0,False,All eligible paired-call breakends
+4,191154276,100000000,105000000,SV breakends,327,0.0,False,All eligible paired-call breakends
+4,191154276,105000000,110000000,SV breakends,299,0.0,False,All eligible paired-call breakends
+4,191154276,110000000,115000000,SV breakends,195,0.0,False,All eligible paired-call breakends
+4,191154276,115000000,120000000,SV breakends,258,0.0,False,All eligible paired-call breakends
+4,191154276,120000000,125000000,SV breakends,288,0.0,False,All eligible paired-call breakends
+4,191154276,125000000,130000000,SV breakends,322,0.0,False,All eligible paired-call breakends
+4,191154276,130000000,135000000,SV breakends,242,0.0,False,All eligible paired-call breakends
+4,191154276,135000000,140000000,SV breakends,321,0.0,False,All eligible paired-call breakends
+4,191154276,140000000,145000000,SV breakends,260,0.0,False,All eligible paired-call breakends
+4,191154276,145000000,150000000,SV breakends,269,0.0,False,All eligible paired-call breakends
+4,191154276,150000000,155000000,SV breakends,411,0.0,False,All eligible paired-call breakends
+4,191154276,155000000,160000000,SV breakends,249,0.0,False,All eligible paired-call breakends
+4,191154276,160000000,165000000,SV breakends,265,0.0,False,All eligible paired-call breakends
+4,191154276,165000000,170000000,SV breakends,297,0.0,False,All eligible paired-call breakends
+4,191154276,170000000,175000000,SV breakends,335,0.0,False,All eligible paired-call breakends
+4,191154276,175000000,180000000,SV breakends,322,0.0,False,All eligible paired-call breakends
+4,191154276,180000000,185000000,SV breakends,479,0.0,False,All eligible paired-call breakends
+4,191154276,185000000,190000000,SV breakends,388,0.0,False,All eligible paired-call breakends
+4,191154276,190000000,191154276,SV breakends,65,0.0,False,All eligible paired-call breakends
+4,191154276,0,5000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,5000000,10000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,10000000,15000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,15000000,20000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,20000000,25000000,HBV,1,0.0,True,Retained integration query coordinates
+4,191154276,25000000,30000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,30000000,35000000,HBV,3,0.0,True,Retained integration query coordinates
+4,191154276,35000000,40000000,HBV,1,0.0,True,Retained integration query coordinates
+4,191154276,40000000,45000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,45000000,50000000,HBV,10,0.0,True,Retained integration query coordinates
+4,191154276,50000000,55000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,55000000,60000000,HBV,12,0.0,True,Retained integration query coordinates
+4,191154276,60000000,65000000,HBV,18,0.0,True,Retained integration query coordinates
+4,191154276,65000000,70000000,HBV,9,0.0,True,Retained integration query coordinates
+4,191154276,70000000,75000000,HBV,5,0.0,True,Retained integration query coordinates
+4,191154276,75000000,80000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,80000000,85000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,90000000,95000000,HBV,1,0.0,True,Retained integration query coordinates
+4,191154276,95000000,100000000,HBV,2,0.0,True,Retained integration query coordinates
+4,191154276,100000000,105000000,HBV,6,0.0,True,Retained integration query coordinates
+4,191154276,105000000,110000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,110000000,115000000,HBV,5,0.0,True,Retained integration query coordinates
+4,191154276,115000000,120000000,HBV,5,0.0,True,Retained integration query coordinates
+4,191154276,120000000,125000000,HBV,14,0.0,True,Retained integration query coordinates
+4,191154276,125000000,130000000,HBV,6,0.0,True,Retained integration query coordinates
+4,191154276,130000000,135000000,HBV,8,0.0,True,Retained integration query coordinates
+4,191154276,135000000,140000000,HBV,3,0.0,True,Retained integration query coordinates
+4,191154276,140000000,145000000,HBV,3,0.0,True,Retained integration query coordinates
+4,191154276,145000000,150000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,150000000,155000000,HBV,2,0.0,True,Retained integration query coordinates
+4,191154276,155000000,160000000,HBV,5,0.0,True,Retained integration query coordinates
+4,191154276,160000000,165000000,HBV,2,0.0,True,Retained integration query coordinates
+4,191154276,165000000,170000000,HBV,5,0.0,True,Retained integration query coordinates
+4,191154276,170000000,175000000,HBV,6,0.0,True,Retained integration query coordinates
+4,191154276,175000000,180000000,HBV,7,0.0,True,Retained integration query coordinates
+4,191154276,180000000,185000000,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,185000000,190000000,HBV,11,0.0,True,Retained integration query coordinates
+4,191154276,190000000,191154276,HBV,4,0.0,True,Retained integration query coordinates
+4,191154276,0,5000000,HPV,13,0.0,True,Retained integration query coordinates
+4,191154276,5000000,10000000,HPV,6,0.0,True,Retained integration query coordinates
+4,191154276,10000000,15000000,HPV,2,0.0,True,Retained integration query coordinates
+4,191154276,15000000,20000000,HPV,3,0.0,True,Retained integration query coordinates
+4,191154276,20000000,25000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,25000000,30000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,30000000,35000000,HPV,2,0.0,True,Retained integration query coordinates
+4,191154276,35000000,40000000,HPV,8,0.0,True,Retained integration query coordinates
+4,191154276,40000000,45000000,HPV,5,0.0,True,Retained integration query coordinates
+4,191154276,45000000,50000000,HPV,13,0.0,True,Retained integration query coordinates
+4,191154276,50000000,55000000,HPV,9,0.0,True,Retained integration query coordinates
+4,191154276,55000000,60000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,60000000,65000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,65000000,70000000,HPV,2,0.0,True,Retained integration query coordinates
+4,191154276,70000000,75000000,HPV,8,0.0,True,Retained integration query coordinates
+4,191154276,75000000,80000000,HPV,3,0.0,True,Retained integration query coordinates
+4,191154276,80000000,85000000,HPV,8,0.0,True,Retained integration query coordinates
+4,191154276,85000000,90000000,HPV,14,0.0,True,Retained integration query coordinates
+4,191154276,90000000,95000000,HPV,3,0.0,True,Retained integration query coordinates
+4,191154276,95000000,100000000,HPV,2,0.0,True,Retained integration query coordinates
+4,191154276,100000000,105000000,HPV,2,0.0,True,Retained integration query coordinates
+4,191154276,105000000,110000000,HPV,3,0.0,True,Retained integration query coordinates
+4,191154276,110000000,115000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,115000000,120000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,120000000,125000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,125000000,130000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,130000000,135000000,HPV,4,0.0,True,Retained integration query coordinates
+4,191154276,135000000,140000000,HPV,3,0.0,True,Retained integration query coordinates
+4,191154276,140000000,145000000,HPV,8,0.0,True,Retained integration query coordinates
+4,191154276,145000000,150000000,HPV,7,0.0,True,Retained integration query coordinates
+4,191154276,150000000,155000000,HPV,6,0.0,True,Retained integration query coordinates
+4,191154276,155000000,160000000,HPV,5,0.0,True,Retained integration query coordinates
+4,191154276,160000000,165000000,HPV,7,0.0,True,Retained integration query coordinates
+4,191154276,165000000,170000000,HPV,6,0.0,True,Retained integration query coordinates
+4,191154276,170000000,175000000,HPV,6,0.0,True,Retained integration query coordinates
+4,191154276,175000000,180000000,HPV,1,0.0,True,Retained integration query coordinates
+4,191154276,180000000,185000000,HPV,5,0.0,True,Retained integration query coordinates
+4,191154276,185000000,190000000,HPV,3,0.0,True,Retained integration query coordinates
+4,191154276,190000000,191154276,HPV,3,0.0,True,Retained integration query coordinates
+5,180915260,0,5000000,SV breakends,1105,0.28,False,All eligible paired-call breakends
+5,180915260,5000000,10000000,SV breakends,631,0.0,False,All eligible paired-call breakends
+5,180915260,10000000,15000000,SV breakends,784,0.0,False,All eligible paired-call breakends
+5,180915260,15000000,20000000,SV breakends,680,0.0,False,All eligible paired-call breakends
+5,180915260,20000000,25000000,SV breakends,694,0.0,False,All eligible paired-call breakends
+5,180915260,25000000,30000000,SV breakends,675,0.0,False,All eligible paired-call breakends
+5,180915260,30000000,35000000,SV breakends,607,0.0,False,All eligible paired-call breakends
+5,180915260,35000000,40000000,SV breakends,775,0.0,False,All eligible paired-call breakends
+5,180915260,40000000,45000000,SV breakends,708,0.0,False,All eligible paired-call breakends
+5,180915260,45000000,50000000,SV breakends,168,0.0,False,All eligible paired-call breakends
+5,180915260,50000000,55000000,SV breakends,404,0.0,False,All eligible paired-call breakends
+5,180915260,55000000,60000000,SV breakends,862,0.0,False,All eligible paired-call breakends
+5,180915260,60000000,65000000,SV breakends,332,0.0,False,All eligible paired-call breakends
+5,180915260,65000000,70000000,SV breakends,231,0.0,False,All eligible paired-call breakends
+5,180915260,70000000,75000000,SV breakends,241,0.0,False,All eligible paired-call breakends
+5,180915260,75000000,80000000,SV breakends,263,0.0,False,All eligible paired-call breakends
+5,180915260,80000000,85000000,SV breakends,261,0.0,False,All eligible paired-call breakends
+5,180915260,85000000,90000000,SV breakends,260,0.0,False,All eligible paired-call breakends
+5,180915260,90000000,95000000,SV breakends,337,0.0,False,All eligible paired-call breakends
+5,180915260,95000000,100000000,SV breakends,373,0.0,False,All eligible paired-call breakends
+5,180915260,100000000,105000000,SV breakends,459,0.0,False,All eligible paired-call breakends
+5,180915260,105000000,110000000,SV breakends,424,0.0,False,All eligible paired-call breakends
+5,180915260,110000000,115000000,SV breakends,372,0.0,False,All eligible paired-call breakends
+5,180915260,115000000,120000000,SV breakends,293,0.0,False,All eligible paired-call breakends
+5,180915260,120000000,125000000,SV breakends,246,0.0,False,All eligible paired-call breakends
+5,180915260,125000000,130000000,SV breakends,303,0.0,False,All eligible paired-call breakends
+5,180915260,130000000,135000000,SV breakends,542,0.0,False,All eligible paired-call breakends
+5,180915260,135000000,140000000,SV breakends,378,0.0,False,All eligible paired-call breakends
+5,180915260,140000000,145000000,SV breakends,343,0.0,False,All eligible paired-call breakends
+5,180915260,145000000,150000000,SV breakends,341,0.0,False,All eligible paired-call breakends
+5,180915260,150000000,155000000,SV breakends,334,0.0,False,All eligible paired-call breakends
+5,180915260,155000000,160000000,SV breakends,340,0.0,False,All eligible paired-call breakends
+5,180915260,160000000,165000000,SV breakends,450,0.0,False,All eligible paired-call breakends
+5,180915260,165000000,170000000,SV breakends,469,0.0,False,All eligible paired-call breakends
+5,180915260,170000000,175000000,SV breakends,554,0.0,False,All eligible paired-call breakends
+5,180915260,175000000,180000000,SV breakends,491,0.26,False,All eligible paired-call breakends
+5,180915260,180000000,180915260,SV breakends,72,0.0,False,All eligible paired-call breakends
+5,180915260,0,5000000,HBV,11,0.28,True,Retained integration query coordinates
+5,180915260,5000000,10000000,HBV,8,0.0,True,Retained integration query coordinates
+5,180915260,10000000,15000000,HBV,7,0.0,True,Retained integration query coordinates
+5,180915260,15000000,20000000,HBV,6,0.0,True,Retained integration query coordinates
+5,180915260,20000000,25000000,HBV,8,0.0,True,Retained integration query coordinates
+5,180915260,25000000,30000000,HBV,12,0.0,True,Retained integration query coordinates
+5,180915260,30000000,35000000,HBV,12,0.0,True,Retained integration query coordinates
+5,180915260,35000000,40000000,HBV,13,0.0,True,Retained integration query coordinates
+5,180915260,40000000,45000000,HBV,7,0.0,True,Retained integration query coordinates
+5,180915260,45000000,50000000,HBV,2,0.0,True,Retained integration query coordinates
+5,180915260,50000000,55000000,HBV,4,0.0,True,Retained integration query coordinates
+5,180915260,55000000,60000000,HBV,4,0.0,True,Retained integration query coordinates
+5,180915260,60000000,65000000,HBV,3,0.0,True,Retained integration query coordinates
+5,180915260,65000000,70000000,HBV,3,0.0,True,Retained integration query coordinates
+5,180915260,70000000,75000000,HBV,1,0.0,True,Retained integration query coordinates
+5,180915260,75000000,80000000,HBV,10,0.0,True,Retained integration query coordinates
+5,180915260,80000000,85000000,HBV,5,0.0,True,Retained integration query coordinates
+5,180915260,85000000,90000000,HBV,5,0.0,True,Retained integration query coordinates
+5,180915260,90000000,95000000,HBV,3,0.0,True,Retained integration query coordinates
+5,180915260,95000000,100000000,HBV,6,0.0,True,Retained integration query coordinates
+5,180915260,100000000,105000000,HBV,7,0.0,True,Retained integration query coordinates
+5,180915260,105000000,110000000,HBV,6,0.0,True,Retained integration query coordinates
+5,180915260,110000000,115000000,HBV,2,0.0,True,Retained integration query coordinates
+5,180915260,115000000,120000000,HBV,4,0.0,True,Retained integration query coordinates
+5,180915260,120000000,125000000,HBV,10,0.0,True,Retained integration query coordinates
+5,180915260,125000000,130000000,HBV,5,0.0,True,Retained integration query coordinates
+5,180915260,130000000,135000000,HBV,15,0.0,True,Retained integration query coordinates
+5,180915260,135000000,140000000,HBV,4,0.0,True,Retained integration query coordinates
+5,180915260,140000000,145000000,HBV,9,0.0,True,Retained integration query coordinates
+5,180915260,145000000,150000000,HBV,7,0.0,True,Retained integration query coordinates
+5,180915260,150000000,155000000,HBV,6,0.0,True,Retained integration query coordinates
+5,180915260,155000000,160000000,HBV,3,0.0,True,Retained integration query coordinates
+5,180915260,160000000,165000000,HBV,5,0.0,True,Retained integration query coordinates
+5,180915260,165000000,170000000,HBV,8,0.0,True,Retained integration query coordinates
+5,180915260,170000000,175000000,HBV,6,0.0,True,Retained integration query coordinates
+5,180915260,175000000,180000000,HBV,10,0.26,True,Retained integration query coordinates
+5,180915260,180000000,180915260,HBV,0,0.0,True,Retained integration query coordinates
+5,180915260,0,5000000,HPV,5,0.28,True,Retained integration query coordinates
+5,180915260,5000000,10000000,HPV,3,0.0,True,Retained integration query coordinates
+5,180915260,10000000,15000000,HPV,0,0.0,True,Retained integration query coordinates
+5,180915260,15000000,20000000,HPV,4,0.0,True,Retained integration query coordinates
+5,180915260,20000000,25000000,HPV,1,0.0,True,Retained integration query coordinates
+5,180915260,25000000,30000000,HPV,6,0.0,True,Retained integration query coordinates
+5,180915260,30000000,35000000,HPV,2,0.0,True,Retained integration query coordinates
+5,180915260,35000000,40000000,HPV,5,0.0,True,Retained integration query coordinates
+5,180915260,40000000,45000000,HPV,3,0.0,True,Retained integration query coordinates
+5,180915260,45000000,50000000,HPV,4,0.0,True,Retained integration query coordinates
+5,180915260,50000000,55000000,HPV,8,0.0,True,Retained integration query coordinates
+5,180915260,55000000,60000000,HPV,11,0.0,True,Retained integration query coordinates
+5,180915260,60000000,65000000,HPV,5,0.0,True,Retained integration query coordinates
+5,180915260,65000000,70000000,HPV,3,0.0,True,Retained integration query coordinates
+5,180915260,70000000,75000000,HPV,1,0.0,True,Retained integration query coordinates
+5,180915260,75000000,80000000,HPV,8,0.0,True,Retained integration query coordinates
+5,180915260,80000000,85000000,HPV,8,0.0,True,Retained integration query coordinates
+5,180915260,85000000,90000000,HPV,1,0.0,True,Retained integration query coordinates
+5,180915260,90000000,95000000,HPV,7,0.0,True,Retained integration query coordinates
+5,180915260,95000000,100000000,HPV,7,0.0,True,Retained integration query coordinates
+5,180915260,100000000,105000000,HPV,3,0.0,True,Retained integration query coordinates
+5,180915260,105000000,110000000,HPV,5,0.0,True,Retained integration query coordinates
+5,180915260,110000000,115000000,HPV,4,0.0,True,Retained integration query coordinates
+5,180915260,115000000,120000000,HPV,1,0.0,True,Retained integration query coordinates
+5,180915260,120000000,125000000,HPV,8,0.0,True,Retained integration query coordinates
+5,180915260,125000000,130000000,HPV,4,0.0,True,Retained integration query coordinates
+5,180915260,130000000,135000000,HPV,13,0.0,True,Retained integration query coordinates
+5,180915260,135000000,140000000,HPV,8,0.0,True,Retained integration query coordinates
+5,180915260,140000000,145000000,HPV,2,0.0,True,Retained integration query coordinates
+5,180915260,145000000,150000000,HPV,4,0.0,True,Retained integration query coordinates
+5,180915260,150000000,155000000,HPV,9,0.0,True,Retained integration query coordinates
+5,180915260,155000000,160000000,HPV,7,0.0,True,Retained integration query coordinates
+5,180915260,160000000,165000000,HPV,6,0.0,True,Retained integration query coordinates
+5,180915260,165000000,170000000,HPV,12,0.0,True,Retained integration query coordinates
+5,180915260,170000000,175000000,HPV,6,0.0,True,Retained integration query coordinates
+5,180915260,175000000,180000000,HPV,2,0.26,True,Retained integration query coordinates
+5,180915260,180000000,180915260,HPV,0,0.0,True,Retained integration query coordinates
+6,171115067,0,5000000,SV breakends,679,1.0,False,All eligible paired-call breakends
+6,171115067,5000000,10000000,SV breakends,513,1.0,False,All eligible paired-call breakends
+6,171115067,10000000,15000000,SV breakends,611,1.0,False,All eligible paired-call breakends
+6,171115067,15000000,20000000,SV breakends,571,1.0,False,All eligible paired-call breakends
+6,171115067,20000000,25000000,SV breakends,499,0.56,False,All eligible paired-call breakends
+6,171115067,25000000,30000000,SV breakends,408,0.0,False,All eligible paired-call breakends
+6,171115067,30000000,35000000,SV breakends,745,0.0,False,All eligible paired-call breakends
+6,171115067,35000000,40000000,SV breakends,679,0.0,False,All eligible paired-call breakends
+6,171115067,40000000,45000000,SV breakends,1297,0.09,False,All eligible paired-call breakends
+6,171115067,45000000,50000000,SV breakends,768,0.0,False,All eligible paired-call breakends
+6,171115067,50000000,55000000,SV breakends,563,0.0,False,All eligible paired-call breakends
+6,171115067,55000000,60000000,SV breakends,454,0.58,False,All eligible paired-call breakends
+6,171115067,60000000,65000000,SV breakends,570,0.93,False,All eligible paired-call breakends
+6,171115067,65000000,70000000,SV breakends,638,0.0,False,All eligible paired-call breakends
+6,171115067,70000000,75000000,SV breakends,557,0.0,False,All eligible paired-call breakends
+6,171115067,75000000,80000000,SV breakends,504,0.0,False,All eligible paired-call breakends
+6,171115067,80000000,85000000,SV breakends,339,0.0,False,All eligible paired-call breakends
+6,171115067,85000000,90000000,SV breakends,427,0.0,False,All eligible paired-call breakends
+6,171115067,90000000,95000000,SV breakends,344,0.0,False,All eligible paired-call breakends
+6,171115067,95000000,100000000,SV breakends,385,0.0,False,All eligible paired-call breakends
+6,171115067,100000000,105000000,SV breakends,587,0.0,False,All eligible paired-call breakends
+6,171115067,105000000,110000000,SV breakends,605,0.11,False,All eligible paired-call breakends
+6,171115067,110000000,115000000,SV breakends,769,0.0,False,All eligible paired-call breakends
+6,171115067,115000000,120000000,SV breakends,723,0.0,False,All eligible paired-call breakends
+6,171115067,120000000,125000000,SV breakends,368,0.0,False,All eligible paired-call breakends
+6,171115067,125000000,130000000,SV breakends,440,0.0,False,All eligible paired-call breakends
+6,171115067,130000000,135000000,SV breakends,486,0.0,False,All eligible paired-call breakends
+6,171115067,135000000,140000000,SV breakends,529,0.0,False,All eligible paired-call breakends
+6,171115067,140000000,145000000,SV breakends,486,0.0,False,All eligible paired-call breakends
+6,171115067,145000000,150000000,SV breakends,424,0.0,False,All eligible paired-call breakends
+6,171115067,150000000,155000000,SV breakends,482,0.0,False,All eligible paired-call breakends
+6,171115067,155000000,160000000,SV breakends,548,0.0,False,All eligible paired-call breakends
+6,171115067,160000000,165000000,SV breakends,756,0.0,False,All eligible paired-call breakends
+6,171115067,165000000,170000000,SV breakends,445,0.0,False,All eligible paired-call breakends
+6,171115067,170000000,171115067,SV breakends,54,0.0,False,All eligible paired-call breakends
+6,171115067,0,5000000,HBV,0,1.0,True,Retained integration query coordinates
+6,171115067,5000000,10000000,HBV,0,1.0,True,Retained integration query coordinates
+6,171115067,10000000,15000000,HBV,0,1.0,True,Retained integration query coordinates
+6,171115067,15000000,20000000,HBV,0,1.0,True,Retained integration query coordinates
+6,171115067,20000000,25000000,HBV,4,0.56,True,Retained integration query coordinates
+6,171115067,25000000,30000000,HBV,4,0.0,True,Retained integration query coordinates
+6,171115067,30000000,35000000,HBV,7,0.0,True,Retained integration query coordinates
+6,171115067,35000000,40000000,HBV,4,0.0,True,Retained integration query coordinates
+6,171115067,40000000,45000000,HBV,8,0.09,True,Retained integration query coordinates
+6,171115067,45000000,50000000,HBV,3,0.0,True,Retained integration query coordinates
+6,171115067,50000000,55000000,HBV,6,0.0,True,Retained integration query coordinates
+6,171115067,55000000,60000000,HBV,3,0.58,True,Retained integration query coordinates
+6,171115067,60000000,65000000,HBV,0,0.93,True,Retained integration query coordinates
+6,171115067,65000000,70000000,HBV,7,0.0,True,Retained integration query coordinates
+6,171115067,70000000,75000000,HBV,4,0.0,True,Retained integration query coordinates
+6,171115067,75000000,80000000,HBV,6,0.0,True,Retained integration query coordinates
+6,171115067,80000000,85000000,HBV,6,0.0,True,Retained integration query coordinates
+6,171115067,85000000,90000000,HBV,2,0.0,True,Retained integration query coordinates
+6,171115067,90000000,95000000,HBV,2,0.0,True,Retained integration query coordinates
+6,171115067,95000000,100000000,HBV,4,0.0,True,Retained integration query coordinates
+6,171115067,100000000,105000000,HBV,6,0.0,True,Retained integration query coordinates
+6,171115067,105000000,110000000,HBV,2,0.11,True,Retained integration query coordinates
+6,171115067,110000000,115000000,HBV,3,0.0,True,Retained integration query coordinates
+6,171115067,115000000,120000000,HBV,4,0.0,True,Retained integration query coordinates
+6,171115067,120000000,125000000,HBV,2,0.0,True,Retained integration query coordinates
+6,171115067,125000000,130000000,HBV,1,0.0,True,Retained integration query coordinates
+6,171115067,130000000,135000000,HBV,6,0.0,True,Retained integration query coordinates
+6,171115067,135000000,140000000,HBV,2,0.0,True,Retained integration query coordinates
+6,171115067,140000000,145000000,HBV,2,0.0,True,Retained integration query coordinates
+6,171115067,145000000,150000000,HBV,5,0.0,True,Retained integration query coordinates
+6,171115067,150000000,155000000,HBV,8,0.0,True,Retained integration query coordinates
+6,171115067,155000000,160000000,HBV,3,0.0,True,Retained integration query coordinates
+6,171115067,160000000,165000000,HBV,7,0.0,True,Retained integration query coordinates
+6,171115067,165000000,170000000,HBV,1,0.0,True,Retained integration query coordinates
+6,171115067,170000000,171115067,HBV,2,0.0,True,Retained integration query coordinates
+6,171115067,0,5000000,HPV,0,1.0,True,Retained integration query coordinates
+6,171115067,5000000,10000000,HPV,0,1.0,True,Retained integration query coordinates
+6,171115067,10000000,15000000,HPV,0,1.0,True,Retained integration query coordinates
+6,171115067,15000000,20000000,HPV,0,1.0,True,Retained integration query coordinates
+6,171115067,20000000,25000000,HPV,1,0.56,True,Retained integration query coordinates
+6,171115067,25000000,30000000,HPV,6,0.0,True,Retained integration query coordinates
+6,171115067,30000000,35000000,HPV,9,0.0,True,Retained integration query coordinates
+6,171115067,35000000,40000000,HPV,9,0.0,True,Retained integration query coordinates
+6,171115067,40000000,45000000,HPV,4,0.09,True,Retained integration query coordinates
+6,171115067,45000000,50000000,HPV,2,0.0,True,Retained integration query coordinates
+6,171115067,50000000,55000000,HPV,7,0.0,True,Retained integration query coordinates
+6,171115067,55000000,60000000,HPV,4,0.58,True,Retained integration query coordinates
+6,171115067,60000000,65000000,HPV,0,0.93,True,Retained integration query coordinates
+6,171115067,65000000,70000000,HPV,5,0.0,True,Retained integration query coordinates
+6,171115067,70000000,75000000,HPV,8,0.0,True,Retained integration query coordinates
+6,171115067,75000000,80000000,HPV,5,0.0,True,Retained integration query coordinates
+6,171115067,80000000,85000000,HPV,2,0.0,True,Retained integration query coordinates
+6,171115067,85000000,90000000,HPV,4,0.0,True,Retained integration query coordinates
+6,171115067,90000000,95000000,HPV,6,0.0,True,Retained integration query coordinates
+6,171115067,95000000,100000000,HPV,5,0.0,True,Retained integration query coordinates
+6,171115067,100000000,105000000,HPV,7,0.0,True,Retained integration query coordinates
+6,171115067,105000000,110000000,HPV,5,0.11,True,Retained integration query coordinates
+6,171115067,110000000,115000000,HPV,4,0.0,True,Retained integration query coordinates
+6,171115067,115000000,120000000,HPV,3,0.0,True,Retained integration query coordinates
+6,171115067,120000000,125000000,HPV,2,0.0,True,Retained integration query coordinates
+6,171115067,125000000,130000000,HPV,9,0.0,True,Retained integration query coordinates
+6,171115067,130000000,135000000,HPV,2,0.0,True,Retained integration query coordinates
+6,171115067,135000000,140000000,HPV,18,0.0,True,Retained integration query coordinates
+6,171115067,140000000,145000000,HPV,5,0.0,True,Retained integration query coordinates
+6,171115067,145000000,150000000,HPV,4,0.0,True,Retained integration query coordinates
+6,171115067,150000000,155000000,HPV,3,0.0,True,Retained integration query coordinates
+6,171115067,155000000,160000000,HPV,4,0.0,True,Retained integration query coordinates
+6,171115067,160000000,165000000,HPV,8,0.0,True,Retained integration query coordinates
+6,171115067,165000000,170000000,HPV,7,0.0,True,Retained integration query coordinates
+6,171115067,170000000,171115067,HPV,0,0.0,True,Retained integration query coordinates
+7,159138663,0,5000000,SV breakends,461,0.0,False,All eligible paired-call breakends
+7,159138663,5000000,10000000,SV breakends,500,0.0,False,All eligible paired-call breakends
+7,159138663,10000000,15000000,SV breakends,421,0.0,False,All eligible paired-call breakends
+7,159138663,15000000,20000000,SV breakends,471,0.0,False,All eligible paired-call breakends
+7,159138663,20000000,25000000,SV breakends,406,0.0,False,All eligible paired-call breakends
+7,159138663,25000000,30000000,SV breakends,537,0.0,False,All eligible paired-call breakends
+7,159138663,30000000,35000000,SV breakends,395,0.0,False,All eligible paired-call breakends
+7,159138663,35000000,40000000,SV breakends,390,0.0,False,All eligible paired-call breakends
+7,159138663,40000000,45000000,SV breakends,474,0.0,False,All eligible paired-call breakends
+7,159138663,45000000,50000000,SV breakends,428,0.0,False,All eligible paired-call breakends
+7,159138663,50000000,55000000,SV breakends,787,0.03,False,All eligible paired-call breakends
+7,159138663,55000000,60000000,SV breakends,648,0.08,False,All eligible paired-call breakends
+7,159138663,60000000,65000000,SV breakends,178,0.0,False,All eligible paired-call breakends
+7,159138663,65000000,70000000,SV breakends,457,0.0,False,All eligible paired-call breakends
+7,159138663,70000000,75000000,SV breakends,453,0.0,False,All eligible paired-call breakends
+7,159138663,75000000,80000000,SV breakends,431,0.0,False,All eligible paired-call breakends
+7,159138663,80000000,85000000,SV breakends,390,0.0,False,All eligible paired-call breakends
+7,159138663,85000000,90000000,SV breakends,496,0.0,False,All eligible paired-call breakends
+7,159138663,90000000,95000000,SV breakends,424,0.26,False,All eligible paired-call breakends
+7,159138663,95000000,100000000,SV breakends,549,0.11,False,All eligible paired-call breakends
+7,159138663,100000000,105000000,SV breakends,484,0.0,False,All eligible paired-call breakends
+7,159138663,105000000,110000000,SV breakends,474,0.0,False,All eligible paired-call breakends
+7,159138663,110000000,115000000,SV breakends,709,0.0,False,All eligible paired-call breakends
+7,159138663,115000000,120000000,SV breakends,434,0.0,False,All eligible paired-call breakends
+7,159138663,120000000,125000000,SV breakends,385,0.0,False,All eligible paired-call breakends
+7,159138663,125000000,130000000,SV breakends,635,0.0,False,All eligible paired-call breakends
+7,159138663,130000000,135000000,SV breakends,787,0.0,False,All eligible paired-call breakends
+7,159138663,135000000,140000000,SV breakends,444,0.32,False,All eligible paired-call breakends
+7,159138663,140000000,145000000,SV breakends,398,0.12,False,All eligible paired-call breakends
+7,159138663,145000000,150000000,SV breakends,527,0.0,False,All eligible paired-call breakends
+7,159138663,150000000,155000000,SV breakends,514,0.0,False,All eligible paired-call breakends
+7,159138663,155000000,159138663,SV breakends,365,0.0,False,All eligible paired-call breakends
+7,159138663,0,5000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,5000000,10000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,10000000,15000000,HBV,3,0.0,True,Retained integration query coordinates
+7,159138663,15000000,20000000,HBV,3,0.0,True,Retained integration query coordinates
+7,159138663,20000000,25000000,HBV,2,0.0,True,Retained integration query coordinates
+7,159138663,25000000,30000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,30000000,35000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,35000000,40000000,HBV,5,0.0,True,Retained integration query coordinates
+7,159138663,40000000,45000000,HBV,2,0.0,True,Retained integration query coordinates
+7,159138663,45000000,50000000,HBV,3,0.0,True,Retained integration query coordinates
+7,159138663,50000000,55000000,HBV,7,0.03,True,Retained integration query coordinates
+7,159138663,55000000,60000000,HBV,4,0.08,True,Retained integration query coordinates
+7,159138663,60000000,65000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,65000000,70000000,HBV,4,0.0,True,Retained integration query coordinates
+7,159138663,70000000,75000000,HBV,12,0.0,True,Retained integration query coordinates
+7,159138663,75000000,80000000,HBV,1,0.0,True,Retained integration query coordinates
+7,159138663,80000000,85000000,HBV,5,0.0,True,Retained integration query coordinates
+7,159138663,85000000,90000000,HBV,2,0.0,True,Retained integration query coordinates
+7,159138663,90000000,95000000,HBV,10,0.26,True,Retained integration query coordinates
+7,159138663,95000000,100000000,HBV,6,0.11,True,Retained integration query coordinates
+7,159138663,100000000,105000000,HBV,5,0.0,True,Retained integration query coordinates
+7,159138663,105000000,110000000,HBV,5,0.0,True,Retained integration query coordinates
+7,159138663,110000000,115000000,HBV,2,0.0,True,Retained integration query coordinates
+7,159138663,115000000,120000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,120000000,125000000,HBV,6,0.0,True,Retained integration query coordinates
+7,159138663,125000000,130000000,HBV,5,0.0,True,Retained integration query coordinates
+7,159138663,130000000,135000000,HBV,5,0.0,True,Retained integration query coordinates
+7,159138663,135000000,140000000,HBV,5,0.32,True,Retained integration query coordinates
+7,159138663,140000000,145000000,HBV,6,0.12,True,Retained integration query coordinates
+7,159138663,145000000,150000000,HBV,11,0.0,True,Retained integration query coordinates
+7,159138663,150000000,155000000,HBV,7,0.0,True,Retained integration query coordinates
+7,159138663,155000000,159138663,HBV,11,0.0,True,Retained integration query coordinates
+7,159138663,0,5000000,HPV,6,0.0,True,Retained integration query coordinates
+7,159138663,5000000,10000000,HPV,12,0.0,True,Retained integration query coordinates
+7,159138663,10000000,15000000,HPV,5,0.0,True,Retained integration query coordinates
+7,159138663,15000000,20000000,HPV,6,0.0,True,Retained integration query coordinates
+7,159138663,20000000,25000000,HPV,4,0.0,True,Retained integration query coordinates
+7,159138663,25000000,30000000,HPV,14,0.0,True,Retained integration query coordinates
+7,159138663,30000000,35000000,HPV,2,0.0,True,Retained integration query coordinates
+7,159138663,35000000,40000000,HPV,3,0.0,True,Retained integration query coordinates
+7,159138663,40000000,45000000,HPV,17,0.0,True,Retained integration query coordinates
+7,159138663,45000000,50000000,HPV,12,0.0,True,Retained integration query coordinates
+7,159138663,50000000,55000000,HPV,6,0.03,True,Retained integration query coordinates
+7,159138663,55000000,60000000,HPV,5,0.08,True,Retained integration query coordinates
+7,159138663,60000000,65000000,HPV,4,0.0,True,Retained integration query coordinates
+7,159138663,65000000,70000000,HPV,3,0.0,True,Retained integration query coordinates
+7,159138663,70000000,75000000,HPV,6,0.0,True,Retained integration query coordinates
+7,159138663,75000000,80000000,HPV,6,0.0,True,Retained integration query coordinates
+7,159138663,80000000,85000000,HPV,4,0.0,True,Retained integration query coordinates
+7,159138663,85000000,90000000,HPV,8,0.0,True,Retained integration query coordinates
+7,159138663,90000000,95000000,HPV,7,0.26,True,Retained integration query coordinates
+7,159138663,95000000,100000000,HPV,7,0.11,True,Retained integration query coordinates
+7,159138663,100000000,105000000,HPV,8,0.0,True,Retained integration query coordinates
+7,159138663,105000000,110000000,HPV,6,0.0,True,Retained integration query coordinates
+7,159138663,110000000,115000000,HPV,18,0.0,True,Retained integration query coordinates
+7,159138663,115000000,120000000,HPV,42,0.0,True,Retained integration query coordinates
+7,159138663,120000000,125000000,HPV,3,0.0,True,Retained integration query coordinates
+7,159138663,125000000,130000000,HPV,3,0.0,True,Retained integration query coordinates
+7,159138663,130000000,135000000,HPV,1,0.0,True,Retained integration query coordinates
+7,159138663,135000000,140000000,HPV,5,0.32,True,Retained integration query coordinates
+7,159138663,140000000,145000000,HPV,2,0.12,True,Retained integration query coordinates
+7,159138663,145000000,150000000,HPV,4,0.0,True,Retained integration query coordinates
+7,159138663,150000000,155000000,HPV,3,0.0,True,Retained integration query coordinates
+7,159138663,155000000,159138663,HPV,5,0.0,True,Retained integration query coordinates
+8,146364022,0,5000000,SV breakends,585,0.0,False,All eligible paired-call breakends
+8,146364022,5000000,10000000,SV breakends,350,0.0,False,All eligible paired-call breakends
+8,146364022,10000000,15000000,SV breakends,510,0.0,False,All eligible paired-call breakends
+8,146364022,15000000,20000000,SV breakends,486,0.0,False,All eligible paired-call breakends
+8,146364022,20000000,25000000,SV breakends,450,0.0,False,All eligible paired-call breakends
+8,146364022,25000000,30000000,SV breakends,568,0.0,False,All eligible paired-call breakends
+8,146364022,30000000,35000000,SV breakends,658,0.0,False,All eligible paired-call breakends
+8,146364022,35000000,40000000,SV breakends,1306,0.06,False,All eligible paired-call breakends
+8,146364022,40000000,45000000,SV breakends,1156,0.68,False,All eligible paired-call breakends
+8,146364022,45000000,50000000,SV breakends,479,1.0,False,All eligible paired-call breakends
+8,146364022,50000000,55000000,SV breakends,764,1.0,False,All eligible paired-call breakends
+8,146364022,55000000,60000000,SV breakends,804,1.0,False,All eligible paired-call breakends
+8,146364022,60000000,65000000,SV breakends,462,1.0,False,All eligible paired-call breakends
+8,146364022,65000000,70000000,SV breakends,499,1.0,False,All eligible paired-call breakends
+8,146364022,70000000,75000000,SV breakends,517,1.0,False,All eligible paired-call breakends
+8,146364022,75000000,80000000,SV breakends,721,0.86,False,All eligible paired-call breakends
+8,146364022,80000000,85000000,SV breakends,480,1.0,False,All eligible paired-call breakends
+8,146364022,85000000,90000000,SV breakends,561,0.67,False,All eligible paired-call breakends
+8,146364022,90000000,95000000,SV breakends,595,0.0,False,All eligible paired-call breakends
+8,146364022,95000000,100000000,SV breakends,581,0.0,False,All eligible paired-call breakends
+8,146364022,100000000,105000000,SV breakends,787,0.12,False,All eligible paired-call breakends
+8,146364022,105000000,110000000,SV breakends,539,0.0,False,All eligible paired-call breakends
+8,146364022,110000000,115000000,SV breakends,638,0.3,False,All eligible paired-call breakends
+8,146364022,115000000,120000000,SV breakends,537,1.0,False,All eligible paired-call breakends
+8,146364022,120000000,125000000,SV breakends,652,0.58,False,All eligible paired-call breakends
+8,146364022,125000000,130000000,SV breakends,1303,0.06,False,All eligible paired-call breakends
+8,146364022,130000000,135000000,SV breakends,675,0.0,False,All eligible paired-call breakends
+8,146364022,135000000,140000000,SV breakends,578,0.0,False,All eligible paired-call breakends
+8,146364022,140000000,145000000,SV breakends,647,0.17,False,All eligible paired-call breakends
+8,146364022,145000000,146364022,SV breakends,182,1.0,False,All eligible paired-call breakends
+8,146364022,0,5000000,HBV,9,0.0,True,Retained integration query coordinates
+8,146364022,5000000,10000000,HBV,6,0.0,True,Retained integration query coordinates
+8,146364022,10000000,15000000,HBV,6,0.0,True,Retained integration query coordinates
+8,146364022,15000000,20000000,HBV,5,0.0,True,Retained integration query coordinates
+8,146364022,20000000,25000000,HBV,4,0.0,True,Retained integration query coordinates
+8,146364022,25000000,30000000,HBV,6,0.0,True,Retained integration query coordinates
+8,146364022,30000000,35000000,HBV,3,0.0,True,Retained integration query coordinates
+8,146364022,35000000,40000000,HBV,15,0.06,True,Retained integration query coordinates
+8,146364022,40000000,45000000,HBV,4,0.68,True,Retained integration query coordinates
+8,146364022,45000000,50000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,50000000,55000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,55000000,60000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,60000000,65000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,65000000,70000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,70000000,75000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,75000000,80000000,HBV,0,0.86,True,Retained integration query coordinates
+8,146364022,80000000,85000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,85000000,90000000,HBV,1,0.67,True,Retained integration query coordinates
+8,146364022,90000000,95000000,HBV,8,0.0,True,Retained integration query coordinates
+8,146364022,95000000,100000000,HBV,5,0.0,True,Retained integration query coordinates
+8,146364022,100000000,105000000,HBV,3,0.12,True,Retained integration query coordinates
+8,146364022,105000000,110000000,HBV,4,0.0,True,Retained integration query coordinates
+8,146364022,110000000,115000000,HBV,5,0.3,True,Retained integration query coordinates
+8,146364022,115000000,120000000,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,120000000,125000000,HBV,2,0.58,True,Retained integration query coordinates
+8,146364022,125000000,130000000,HBV,15,0.06,True,Retained integration query coordinates
+8,146364022,130000000,135000000,HBV,8,0.0,True,Retained integration query coordinates
+8,146364022,135000000,140000000,HBV,8,0.0,True,Retained integration query coordinates
+8,146364022,140000000,145000000,HBV,7,0.17,True,Retained integration query coordinates
+8,146364022,145000000,146364022,HBV,0,1.0,True,Retained integration query coordinates
+8,146364022,0,5000000,HPV,5,0.0,True,Retained integration query coordinates
+8,146364022,5000000,10000000,HPV,2,0.0,True,Retained integration query coordinates
+8,146364022,10000000,15000000,HPV,4,0.0,True,Retained integration query coordinates
+8,146364022,15000000,20000000,HPV,6,0.0,True,Retained integration query coordinates
+8,146364022,20000000,25000000,HPV,4,0.0,True,Retained integration query coordinates
+8,146364022,25000000,30000000,HPV,2,0.0,True,Retained integration query coordinates
+8,146364022,30000000,35000000,HPV,6,0.0,True,Retained integration query coordinates
+8,146364022,35000000,40000000,HPV,7,0.06,True,Retained integration query coordinates
+8,146364022,40000000,45000000,HPV,2,0.68,True,Retained integration query coordinates
+8,146364022,45000000,50000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,50000000,55000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,55000000,60000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,60000000,65000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,65000000,70000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,70000000,75000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,75000000,80000000,HPV,0,0.86,True,Retained integration query coordinates
+8,146364022,80000000,85000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,85000000,90000000,HPV,1,0.67,True,Retained integration query coordinates
+8,146364022,90000000,95000000,HPV,2,0.0,True,Retained integration query coordinates
+8,146364022,95000000,100000000,HPV,7,0.0,True,Retained integration query coordinates
+8,146364022,100000000,105000000,HPV,7,0.12,True,Retained integration query coordinates
+8,146364022,105000000,110000000,HPV,7,0.0,True,Retained integration query coordinates
+8,146364022,110000000,115000000,HPV,4,0.3,True,Retained integration query coordinates
+8,146364022,115000000,120000000,HPV,0,1.0,True,Retained integration query coordinates
+8,146364022,120000000,125000000,HPV,2,0.58,True,Retained integration query coordinates
+8,146364022,125000000,130000000,HPV,43,0.06,True,Retained integration query coordinates
+8,146364022,130000000,135000000,HPV,2,0.0,True,Retained integration query coordinates
+8,146364022,135000000,140000000,HPV,4,0.0,True,Retained integration query coordinates
+8,146364022,140000000,145000000,HPV,6,0.17,True,Retained integration query coordinates
+8,146364022,145000000,146364022,HPV,0,1.0,True,Retained integration query coordinates
+9,141213431,0,5000000,SV breakends,625,1.0,False,All eligible paired-call breakends
+9,141213431,5000000,10000000,SV breakends,824,0.44,False,All eligible paired-call breakends
+9,141213431,10000000,15000000,SV breakends,554,0.0,False,All eligible paired-call breakends
+9,141213431,15000000,20000000,SV breakends,631,0.0,False,All eligible paired-call breakends
+9,141213431,20000000,25000000,SV breakends,1345,0.0,False,All eligible paired-call breakends
+9,141213431,25000000,30000000,SV breakends,680,0.0,False,All eligible paired-call breakends
+9,141213431,30000000,35000000,SV breakends,816,0.0,False,All eligible paired-call breakends
+9,141213431,35000000,40000000,SV breakends,573,0.13,False,All eligible paired-call breakends
+9,141213431,40000000,45000000,SV breakends,15,0.0,False,All eligible paired-call breakends
+9,141213431,45000000,50000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+9,141213431,50000000,55000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+9,141213431,55000000,60000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+9,141213431,60000000,65000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+9,141213431,65000000,70000000,SV breakends,25,0.0,False,All eligible paired-call breakends
+9,141213431,70000000,75000000,SV breakends,354,0.0,False,All eligible paired-call breakends
+9,141213431,75000000,80000000,SV breakends,353,0.0,False,All eligible paired-call breakends
+9,141213431,80000000,85000000,SV breakends,241,0.0,False,All eligible paired-call breakends
+9,141213431,85000000,90000000,SV breakends,279,0.0,False,All eligible paired-call breakends
+9,141213431,90000000,95000000,SV breakends,267,0.0,False,All eligible paired-call breakends
+9,141213431,95000000,100000000,SV breakends,311,0.0,False,All eligible paired-call breakends
+9,141213431,100000000,105000000,SV breakends,333,0.0,False,All eligible paired-call breakends
+9,141213431,105000000,110000000,SV breakends,323,0.0,False,All eligible paired-call breakends
+9,141213431,110000000,115000000,SV breakends,358,0.0,False,All eligible paired-call breakends
+9,141213431,115000000,120000000,SV breakends,423,0.0,False,All eligible paired-call breakends
+9,141213431,120000000,125000000,SV breakends,433,0.0,False,All eligible paired-call breakends
+9,141213431,125000000,130000000,SV breakends,357,0.0,False,All eligible paired-call breakends
+9,141213431,130000000,135000000,SV breakends,626,0.0,False,All eligible paired-call breakends
+9,141213431,135000000,140000000,SV breakends,588,0.0,False,All eligible paired-call breakends
+9,141213431,140000000,141213431,SV breakends,131,0.0,False,All eligible paired-call breakends
+9,141213431,0,5000000,HBV,0,1.0,True,Retained integration query coordinates
+9,141213431,5000000,10000000,HBV,4,0.44,True,Retained integration query coordinates
+9,141213431,10000000,15000000,HBV,7,0.0,True,Retained integration query coordinates
+9,141213431,15000000,20000000,HBV,2,0.0,True,Retained integration query coordinates
+9,141213431,20000000,25000000,HBV,9,0.0,True,Retained integration query coordinates
+9,141213431,25000000,30000000,HBV,10,0.0,True,Retained integration query coordinates
+9,141213431,30000000,35000000,HBV,5,0.0,True,Retained integration query coordinates
+9,141213431,35000000,40000000,HBV,3,0.13,True,Retained integration query coordinates
+9,141213431,40000000,45000000,HBV,7,0.0,True,Retained integration query coordinates
+9,141213431,45000000,50000000,HBV,1,0.0,True,Retained integration query coordinates
+9,141213431,50000000,55000000,HBV,0,0.0,True,Retained integration query coordinates
+9,141213431,55000000,60000000,HBV,0,0.0,True,Retained integration query coordinates
+9,141213431,60000000,65000000,HBV,0,0.0,True,Retained integration query coordinates
+9,141213431,65000000,70000000,HBV,4,0.0,True,Retained integration query coordinates
+9,141213431,70000000,75000000,HBV,6,0.0,True,Retained integration query coordinates
+9,141213431,75000000,80000000,HBV,1,0.0,True,Retained integration query coordinates
+9,141213431,80000000,85000000,HBV,6,0.0,True,Retained integration query coordinates
+9,141213431,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+9,141213431,90000000,95000000,HBV,7,0.0,True,Retained integration query coordinates
+9,141213431,95000000,100000000,HBV,5,0.0,True,Retained integration query coordinates
+9,141213431,100000000,105000000,HBV,5,0.0,True,Retained integration query coordinates
+9,141213431,105000000,110000000,HBV,8,0.0,True,Retained integration query coordinates
+9,141213431,110000000,115000000,HBV,6,0.0,True,Retained integration query coordinates
+9,141213431,115000000,120000000,HBV,5,0.0,True,Retained integration query coordinates
+9,141213431,120000000,125000000,HBV,8,0.0,True,Retained integration query coordinates
+9,141213431,125000000,130000000,HBV,7,0.0,True,Retained integration query coordinates
+9,141213431,130000000,135000000,HBV,8,0.0,True,Retained integration query coordinates
+9,141213431,135000000,140000000,HBV,7,0.0,True,Retained integration query coordinates
+9,141213431,140000000,141213431,HBV,3,0.0,True,Retained integration query coordinates
+9,141213431,0,5000000,HPV,0,1.0,True,Retained integration query coordinates
+9,141213431,5000000,10000000,HPV,1,0.44,True,Retained integration query coordinates
+9,141213431,10000000,15000000,HPV,21,0.0,True,Retained integration query coordinates
+9,141213431,15000000,20000000,HPV,5,0.0,True,Retained integration query coordinates
+9,141213431,20000000,25000000,HPV,2,0.0,True,Retained integration query coordinates
+9,141213431,25000000,30000000,HPV,7,0.0,True,Retained integration query coordinates
+9,141213431,30000000,35000000,HPV,5,0.0,True,Retained integration query coordinates
+9,141213431,35000000,40000000,HPV,9,0.13,True,Retained integration query coordinates
+9,141213431,40000000,45000000,HPV,6,0.0,True,Retained integration query coordinates
+9,141213431,45000000,50000000,HPV,0,0.0,True,Retained integration query coordinates
+9,141213431,50000000,55000000,HPV,0,0.0,True,Retained integration query coordinates
+9,141213431,55000000,60000000,HPV,0,0.0,True,Retained integration query coordinates
+9,141213431,60000000,65000000,HPV,0,0.0,True,Retained integration query coordinates
+9,141213431,65000000,70000000,HPV,2,0.0,True,Retained integration query coordinates
+9,141213431,70000000,75000000,HPV,4,0.0,True,Retained integration query coordinates
+9,141213431,75000000,80000000,HPV,0,0.0,True,Retained integration query coordinates
+9,141213431,80000000,85000000,HPV,6,0.0,True,Retained integration query coordinates
+9,141213431,85000000,90000000,HPV,7,0.0,True,Retained integration query coordinates
+9,141213431,90000000,95000000,HPV,3,0.0,True,Retained integration query coordinates
+9,141213431,95000000,100000000,HPV,3,0.0,True,Retained integration query coordinates
+9,141213431,100000000,105000000,HPV,18,0.0,True,Retained integration query coordinates
+9,141213431,105000000,110000000,HPV,3,0.0,True,Retained integration query coordinates
+9,141213431,110000000,115000000,HPV,35,0.0,True,Retained integration query coordinates
+9,141213431,115000000,120000000,HPV,7,0.0,True,Retained integration query coordinates
+9,141213431,120000000,125000000,HPV,5,0.0,True,Retained integration query coordinates
+9,141213431,125000000,130000000,HPV,10,0.0,True,Retained integration query coordinates
+9,141213431,130000000,135000000,HPV,7,0.0,True,Retained integration query coordinates
+9,141213431,135000000,140000000,HPV,6,0.0,True,Retained integration query coordinates
+9,141213431,140000000,141213431,HPV,1,0.0,True,Retained integration query coordinates
+10,135534747,0,5000000,SV breakends,380,0.0,False,All eligible paired-call breakends
+10,135534747,5000000,10000000,SV breakends,453,0.0,False,All eligible paired-call breakends
+10,135534747,10000000,15000000,SV breakends,427,0.0,False,All eligible paired-call breakends
+10,135534747,15000000,20000000,SV breakends,277,0.0,False,All eligible paired-call breakends
+10,135534747,20000000,25000000,SV breakends,367,0.0,False,All eligible paired-call breakends
+10,135534747,25000000,30000000,SV breakends,508,0.0,False,All eligible paired-call breakends
+10,135534747,30000000,35000000,SV breakends,439,0.0,False,All eligible paired-call breakends
+10,135534747,35000000,40000000,SV breakends,283,0.0,False,All eligible paired-call breakends
+10,135534747,40000000,45000000,SV breakends,232,0.0,False,All eligible paired-call breakends
+10,135534747,45000000,50000000,SV breakends,255,0.0,False,All eligible paired-call breakends
+10,135534747,50000000,55000000,SV breakends,404,0.0,False,All eligible paired-call breakends
+10,135534747,55000000,60000000,SV breakends,550,0.0,False,All eligible paired-call breakends
+10,135534747,60000000,65000000,SV breakends,545,0.0,False,All eligible paired-call breakends
+10,135534747,65000000,70000000,SV breakends,420,0.0,False,All eligible paired-call breakends
+10,135534747,70000000,75000000,SV breakends,501,0.0,False,All eligible paired-call breakends
+10,135534747,75000000,80000000,SV breakends,703,0.0,False,All eligible paired-call breakends
+10,135534747,80000000,85000000,SV breakends,481,0.0,False,All eligible paired-call breakends
+10,135534747,85000000,90000000,SV breakends,683,0.0,False,All eligible paired-call breakends
+10,135534747,90000000,95000000,SV breakends,550,0.0,False,All eligible paired-call breakends
+10,135534747,95000000,100000000,SV breakends,416,0.0,False,All eligible paired-call breakends
+10,135534747,100000000,105000000,SV breakends,504,0.0,False,All eligible paired-call breakends
+10,135534747,105000000,110000000,SV breakends,389,0.0,False,All eligible paired-call breakends
+10,135534747,110000000,115000000,SV breakends,504,0.0,False,All eligible paired-call breakends
+10,135534747,115000000,120000000,SV breakends,445,0.0,False,All eligible paired-call breakends
+10,135534747,120000000,125000000,SV breakends,366,0.0,False,All eligible paired-call breakends
+10,135534747,125000000,130000000,SV breakends,385,0.0,False,All eligible paired-call breakends
+10,135534747,130000000,135000000,SV breakends,218,0.0,False,All eligible paired-call breakends
+10,135534747,135000000,135534747,SV breakends,25,0.0,False,All eligible paired-call breakends
+10,135534747,0,5000000,HBV,11,0.0,True,Retained integration query coordinates
+10,135534747,5000000,10000000,HBV,7,0.0,True,Retained integration query coordinates
+10,135534747,10000000,15000000,HBV,7,0.0,True,Retained integration query coordinates
+10,135534747,15000000,20000000,HBV,0,0.0,True,Retained integration query coordinates
+10,135534747,20000000,25000000,HBV,8,0.0,True,Retained integration query coordinates
+10,135534747,25000000,30000000,HBV,4,0.0,True,Retained integration query coordinates
+10,135534747,30000000,35000000,HBV,4,0.0,True,Retained integration query coordinates
+10,135534747,35000000,40000000,HBV,3,0.0,True,Retained integration query coordinates
+10,135534747,40000000,45000000,HBV,6,0.0,True,Retained integration query coordinates
+10,135534747,45000000,50000000,HBV,4,0.0,True,Retained integration query coordinates
+10,135534747,50000000,55000000,HBV,6,0.0,True,Retained integration query coordinates
+10,135534747,55000000,60000000,HBV,6,0.0,True,Retained integration query coordinates
+10,135534747,60000000,65000000,HBV,2,0.0,True,Retained integration query coordinates
+10,135534747,65000000,70000000,HBV,2,0.0,True,Retained integration query coordinates
+10,135534747,70000000,75000000,HBV,5,0.0,True,Retained integration query coordinates
+10,135534747,75000000,80000000,HBV,8,0.0,True,Retained integration query coordinates
+10,135534747,80000000,85000000,HBV,8,0.0,True,Retained integration query coordinates
+10,135534747,85000000,90000000,HBV,6,0.0,True,Retained integration query coordinates
+10,135534747,90000000,95000000,HBV,6,0.0,True,Retained integration query coordinates
+10,135534747,95000000,100000000,HBV,7,0.0,True,Retained integration query coordinates
+10,135534747,100000000,105000000,HBV,9,0.0,True,Retained integration query coordinates
+10,135534747,105000000,110000000,HBV,3,0.0,True,Retained integration query coordinates
+10,135534747,110000000,115000000,HBV,4,0.0,True,Retained integration query coordinates
+10,135534747,115000000,120000000,HBV,6,0.0,True,Retained integration query coordinates
+10,135534747,120000000,125000000,HBV,5,0.0,True,Retained integration query coordinates
+10,135534747,125000000,130000000,HBV,3,0.0,True,Retained integration query coordinates
+10,135534747,130000000,135000000,HBV,5,0.0,True,Retained integration query coordinates
+10,135534747,135000000,135534747,HBV,1,0.0,True,Retained integration query coordinates
+10,135534747,0,5000000,HPV,8,0.0,True,Retained integration query coordinates
+10,135534747,5000000,10000000,HPV,5,0.0,True,Retained integration query coordinates
+10,135534747,10000000,15000000,HPV,11,0.0,True,Retained integration query coordinates
+10,135534747,15000000,20000000,HPV,13,0.0,True,Retained integration query coordinates
+10,135534747,20000000,25000000,HPV,12,0.0,True,Retained integration query coordinates
+10,135534747,25000000,30000000,HPV,3,0.0,True,Retained integration query coordinates
+10,135534747,30000000,35000000,HPV,4,0.0,True,Retained integration query coordinates
+10,135534747,35000000,40000000,HPV,5,0.0,True,Retained integration query coordinates
+10,135534747,40000000,45000000,HPV,4,0.0,True,Retained integration query coordinates
+10,135534747,45000000,50000000,HPV,2,0.0,True,Retained integration query coordinates
+10,135534747,50000000,55000000,HPV,2,0.0,True,Retained integration query coordinates
+10,135534747,55000000,60000000,HPV,4,0.0,True,Retained integration query coordinates
+10,135534747,60000000,65000000,HPV,1,0.0,True,Retained integration query coordinates
+10,135534747,65000000,70000000,HPV,2,0.0,True,Retained integration query coordinates
+10,135534747,70000000,75000000,HPV,1,0.0,True,Retained integration query coordinates
+10,135534747,75000000,80000000,HPV,24,0.0,True,Retained integration query coordinates
+10,135534747,80000000,85000000,HPV,3,0.0,True,Retained integration query coordinates
+10,135534747,85000000,90000000,HPV,3,0.0,True,Retained integration query coordinates
+10,135534747,90000000,95000000,HPV,4,0.0,True,Retained integration query coordinates
+10,135534747,95000000,100000000,HPV,3,0.0,True,Retained integration query coordinates
+10,135534747,100000000,105000000,HPV,1,0.0,True,Retained integration query coordinates
+10,135534747,105000000,110000000,HPV,0,0.0,True,Retained integration query coordinates
+10,135534747,110000000,115000000,HPV,2,0.0,True,Retained integration query coordinates
+10,135534747,115000000,120000000,HPV,4,0.0,True,Retained integration query coordinates
+10,135534747,120000000,125000000,HPV,25,0.0,True,Retained integration query coordinates
+10,135534747,125000000,130000000,HPV,4,0.0,True,Retained integration query coordinates
+10,135534747,130000000,135000000,HPV,12,0.0,True,Retained integration query coordinates
+10,135534747,135000000,135534747,HPV,1,0.0,True,Retained integration query coordinates
+11,135006516,0,5000000,SV breakends,503,0.0,False,All eligible paired-call breakends
+11,135006516,5000000,10000000,SV breakends,337,0.0,False,All eligible paired-call breakends
+11,135006516,10000000,15000000,SV breakends,481,0.0,False,All eligible paired-call breakends
+11,135006516,15000000,20000000,SV breakends,491,0.0,False,All eligible paired-call breakends
+11,135006516,20000000,25000000,SV breakends,434,0.0,False,All eligible paired-call breakends
+11,135006516,25000000,30000000,SV breakends,422,0.0,False,All eligible paired-call breakends
+11,135006516,30000000,35000000,SV breakends,678,0.17,False,All eligible paired-call breakends
+11,135006516,35000000,40000000,SV breakends,412,0.0,False,All eligible paired-call breakends
+11,135006516,40000000,45000000,SV breakends,468,0.0,False,All eligible paired-call breakends
+11,135006516,45000000,50000000,SV breakends,541,0.0,False,All eligible paired-call breakends
+11,135006516,50000000,55000000,SV breakends,122,0.0,False,All eligible paired-call breakends
+11,135006516,55000000,60000000,SV breakends,712,0.0,False,All eligible paired-call breakends
+11,135006516,60000000,65000000,SV breakends,784,0.0,False,All eligible paired-call breakends
+11,135006516,65000000,70000000,SV breakends,1840,0.07,False,All eligible paired-call breakends
+11,135006516,70000000,75000000,SV breakends,1699,0.0,False,All eligible paired-call breakends
+11,135006516,75000000,80000000,SV breakends,1591,0.42,False,All eligible paired-call breakends
+11,135006516,80000000,85000000,SV breakends,943,0.0,False,All eligible paired-call breakends
+11,135006516,85000000,90000000,SV breakends,654,0.0,False,All eligible paired-call breakends
+11,135006516,90000000,95000000,SV breakends,406,0.0,False,All eligible paired-call breakends
+11,135006516,95000000,100000000,SV breakends,616,0.0,False,All eligible paired-call breakends
+11,135006516,100000000,105000000,SV breakends,991,0.13,False,All eligible paired-call breakends
+11,135006516,105000000,110000000,SV breakends,577,0.0,False,All eligible paired-call breakends
+11,135006516,110000000,115000000,SV breakends,429,0.0,False,All eligible paired-call breakends
+11,135006516,115000000,120000000,SV breakends,532,0.0,False,All eligible paired-call breakends
+11,135006516,120000000,125000000,SV breakends,448,0.0,False,All eligible paired-call breakends
+11,135006516,125000000,130000000,SV breakends,375,0.0,False,All eligible paired-call breakends
+11,135006516,130000000,135000000,SV breakends,359,0.0,False,All eligible paired-call breakends
+11,135006516,135000000,135006516,SV breakends,0,0.0,False,All eligible paired-call breakends
+11,135006516,0,5000000,HBV,8,0.0,True,Retained integration query coordinates
+11,135006516,5000000,10000000,HBV,4,0.0,True,Retained integration query coordinates
+11,135006516,10000000,15000000,HBV,1,0.0,True,Retained integration query coordinates
+11,135006516,15000000,20000000,HBV,1,0.0,True,Retained integration query coordinates
+11,135006516,20000000,25000000,HBV,6,0.0,True,Retained integration query coordinates
+11,135006516,25000000,30000000,HBV,7,0.0,True,Retained integration query coordinates
+11,135006516,30000000,35000000,HBV,4,0.17,True,Retained integration query coordinates
+11,135006516,35000000,40000000,HBV,4,0.0,True,Retained integration query coordinates
+11,135006516,40000000,45000000,HBV,4,0.0,True,Retained integration query coordinates
+11,135006516,45000000,50000000,HBV,3,0.0,True,Retained integration query coordinates
+11,135006516,50000000,55000000,HBV,0,0.0,True,Retained integration query coordinates
+11,135006516,55000000,60000000,HBV,7,0.0,True,Retained integration query coordinates
+11,135006516,60000000,65000000,HBV,5,0.0,True,Retained integration query coordinates
+11,135006516,65000000,70000000,HBV,27,0.07,True,Retained integration query coordinates
+11,135006516,70000000,75000000,HBV,18,0.0,True,Retained integration query coordinates
+11,135006516,75000000,80000000,HBV,3,0.42,True,Retained integration query coordinates
+11,135006516,80000000,85000000,HBV,6,0.0,True,Retained integration query coordinates
+11,135006516,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+11,135006516,90000000,95000000,HBV,5,0.0,True,Retained integration query coordinates
+11,135006516,95000000,100000000,HBV,4,0.0,True,Retained integration query coordinates
+11,135006516,100000000,105000000,HBV,6,0.13,True,Retained integration query coordinates
+11,135006516,105000000,110000000,HBV,3,0.0,True,Retained integration query coordinates
+11,135006516,110000000,115000000,HBV,3,0.0,True,Retained integration query coordinates
+11,135006516,115000000,120000000,HBV,5,0.0,True,Retained integration query coordinates
+11,135006516,120000000,125000000,HBV,11,0.0,True,Retained integration query coordinates
+11,135006516,125000000,130000000,HBV,6,0.0,True,Retained integration query coordinates
+11,135006516,130000000,135000000,HBV,6,0.0,True,Retained integration query coordinates
+11,135006516,135000000,135006516,HBV,0,0.0,True,Retained integration query coordinates
+11,135006516,0,5000000,HPV,6,0.0,True,Retained integration query coordinates
+11,135006516,5000000,10000000,HPV,11,0.0,True,Retained integration query coordinates
+11,135006516,10000000,15000000,HPV,8,0.0,True,Retained integration query coordinates
+11,135006516,15000000,20000000,HPV,2,0.0,True,Retained integration query coordinates
+11,135006516,20000000,25000000,HPV,1,0.0,True,Retained integration query coordinates
+11,135006516,25000000,30000000,HPV,5,0.0,True,Retained integration query coordinates
+11,135006516,30000000,35000000,HPV,2,0.17,True,Retained integration query coordinates
+11,135006516,35000000,40000000,HPV,1,0.0,True,Retained integration query coordinates
+11,135006516,40000000,45000000,HPV,5,0.0,True,Retained integration query coordinates
+11,135006516,45000000,50000000,HPV,4,0.0,True,Retained integration query coordinates
+11,135006516,50000000,55000000,HPV,0,0.0,True,Retained integration query coordinates
+11,135006516,55000000,60000000,HPV,12,0.0,True,Retained integration query coordinates
+11,135006516,60000000,65000000,HPV,2,0.0,True,Retained integration query coordinates
+11,135006516,65000000,70000000,HPV,10,0.07,True,Retained integration query coordinates
+11,135006516,70000000,75000000,HPV,4,0.0,True,Retained integration query coordinates
+11,135006516,75000000,80000000,HPV,3,0.42,True,Retained integration query coordinates
+11,135006516,80000000,85000000,HPV,6,0.0,True,Retained integration query coordinates
+11,135006516,85000000,90000000,HPV,2,0.0,True,Retained integration query coordinates
+11,135006516,90000000,95000000,HPV,8,0.0,True,Retained integration query coordinates
+11,135006516,95000000,100000000,HPV,6,0.0,True,Retained integration query coordinates
+11,135006516,100000000,105000000,HPV,16,0.13,True,Retained integration query coordinates
+11,135006516,105000000,110000000,HPV,4,0.0,True,Retained integration query coordinates
+11,135006516,110000000,115000000,HPV,7,0.0,True,Retained integration query coordinates
+11,135006516,115000000,120000000,HPV,3,0.0,True,Retained integration query coordinates
+11,135006516,120000000,125000000,HPV,1,0.0,True,Retained integration query coordinates
+11,135006516,125000000,130000000,HPV,19,0.0,True,Retained integration query coordinates
+11,135006516,130000000,135000000,HPV,2,0.0,True,Retained integration query coordinates
+11,135006516,135000000,135006516,HPV,0,0.0,True,Retained integration query coordinates
+12,133851895,0,5000000,SV breakends,612,1.0,False,All eligible paired-call breakends
+12,133851895,5000000,10000000,SV breakends,544,0.0,False,All eligible paired-call breakends
+12,133851895,10000000,15000000,SV breakends,727,0.0,False,All eligible paired-call breakends
+12,133851895,15000000,20000000,SV breakends,557,0.0,False,All eligible paired-call breakends
+12,133851895,20000000,25000000,SV breakends,564,0.05,False,All eligible paired-call breakends
+12,133851895,25000000,30000000,SV breakends,741,0.14,False,All eligible paired-call breakends
+12,133851895,30000000,35000000,SV breakends,796,0.0,False,All eligible paired-call breakends
+12,133851895,35000000,40000000,SV breakends,190,0.0,False,All eligible paired-call breakends
+12,133851895,40000000,45000000,SV breakends,494,0.0,False,All eligible paired-call breakends
+12,133851895,45000000,50000000,SV breakends,705,0.0,False,All eligible paired-call breakends
+12,133851895,50000000,55000000,SV breakends,860,0.0,False,All eligible paired-call breakends
+12,133851895,55000000,60000000,SV breakends,2276,0.09,False,All eligible paired-call breakends
+12,133851895,60000000,65000000,SV breakends,1500,0.0,False,All eligible paired-call breakends
+12,133851895,65000000,70000000,SV breakends,3111,0.14,False,All eligible paired-call breakends
+12,133851895,70000000,75000000,SV breakends,2209,0.0,False,All eligible paired-call breakends
+12,133851895,75000000,80000000,SV breakends,1190,0.0,False,All eligible paired-call breakends
+12,133851895,80000000,85000000,SV breakends,874,0.0,False,All eligible paired-call breakends
+12,133851895,85000000,90000000,SV breakends,1069,0.0,False,All eligible paired-call breakends
+12,133851895,90000000,95000000,SV breakends,531,0.0,False,All eligible paired-call breakends
+12,133851895,95000000,100000000,SV breakends,675,0.0,False,All eligible paired-call breakends
+12,133851895,100000000,105000000,SV breakends,645,0.0,False,All eligible paired-call breakends
+12,133851895,105000000,110000000,SV breakends,454,0.0,False,All eligible paired-call breakends
+12,133851895,110000000,115000000,SV breakends,495,0.0,False,All eligible paired-call breakends
+12,133851895,115000000,120000000,SV breakends,326,0.0,False,All eligible paired-call breakends
+12,133851895,120000000,125000000,SV breakends,693,0.0,False,All eligible paired-call breakends
+12,133851895,125000000,130000000,SV breakends,613,0.0,False,All eligible paired-call breakends
+12,133851895,130000000,133851895,SV breakends,355,0.0,False,All eligible paired-call breakends
+12,133851895,0,5000000,HBV,0,1.0,True,Retained integration query coordinates
+12,133851895,5000000,10000000,HBV,7,0.0,True,Retained integration query coordinates
+12,133851895,10000000,15000000,HBV,1,0.0,True,Retained integration query coordinates
+12,133851895,15000000,20000000,HBV,5,0.0,True,Retained integration query coordinates
+12,133851895,20000000,25000000,HBV,6,0.05,True,Retained integration query coordinates
+12,133851895,25000000,30000000,HBV,6,0.14,True,Retained integration query coordinates
+12,133851895,30000000,35000000,HBV,9,0.0,True,Retained integration query coordinates
+12,133851895,35000000,40000000,HBV,0,0.0,True,Retained integration query coordinates
+12,133851895,40000000,45000000,HBV,1,0.0,True,Retained integration query coordinates
+12,133851895,45000000,50000000,HBV,4,0.0,True,Retained integration query coordinates
+12,133851895,50000000,55000000,HBV,6,0.0,True,Retained integration query coordinates
+12,133851895,55000000,60000000,HBV,1,0.09,True,Retained integration query coordinates
+12,133851895,60000000,65000000,HBV,6,0.0,True,Retained integration query coordinates
+12,133851895,65000000,70000000,HBV,7,0.14,True,Retained integration query coordinates
+12,133851895,70000000,75000000,HBV,2,0.0,True,Retained integration query coordinates
+12,133851895,75000000,80000000,HBV,6,0.0,True,Retained integration query coordinates
+12,133851895,80000000,85000000,HBV,4,0.0,True,Retained integration query coordinates
+12,133851895,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+12,133851895,90000000,95000000,HBV,6,0.0,True,Retained integration query coordinates
+12,133851895,95000000,100000000,HBV,6,0.0,True,Retained integration query coordinates
+12,133851895,100000000,105000000,HBV,3,0.0,True,Retained integration query coordinates
+12,133851895,105000000,110000000,HBV,7,0.0,True,Retained integration query coordinates
+12,133851895,110000000,115000000,HBV,4,0.0,True,Retained integration query coordinates
+12,133851895,115000000,120000000,HBV,9,0.0,True,Retained integration query coordinates
+12,133851895,120000000,125000000,HBV,2,0.0,True,Retained integration query coordinates
+12,133851895,125000000,130000000,HBV,5,0.0,True,Retained integration query coordinates
+12,133851895,130000000,133851895,HBV,6,0.0,True,Retained integration query coordinates
+12,133851895,0,5000000,HPV,0,1.0,True,Retained integration query coordinates
+12,133851895,5000000,10000000,HPV,9,0.0,True,Retained integration query coordinates
+12,133851895,10000000,15000000,HPV,20,0.0,True,Retained integration query coordinates
+12,133851895,15000000,20000000,HPV,3,0.0,True,Retained integration query coordinates
+12,133851895,20000000,25000000,HPV,1,0.05,True,Retained integration query coordinates
+12,133851895,25000000,30000000,HPV,2,0.14,True,Retained integration query coordinates
+12,133851895,30000000,35000000,HPV,3,0.0,True,Retained integration query coordinates
+12,133851895,35000000,40000000,HPV,4,0.0,True,Retained integration query coordinates
+12,133851895,40000000,45000000,HPV,1,0.0,True,Retained integration query coordinates
+12,133851895,45000000,50000000,HPV,4,0.0,True,Retained integration query coordinates
+12,133851895,50000000,55000000,HPV,5,0.0,True,Retained integration query coordinates
+12,133851895,55000000,60000000,HPV,6,0.09,True,Retained integration query coordinates
+12,133851895,60000000,65000000,HPV,6,0.0,True,Retained integration query coordinates
+12,133851895,65000000,70000000,HPV,5,0.14,True,Retained integration query coordinates
+12,133851895,70000000,75000000,HPV,4,0.0,True,Retained integration query coordinates
+12,133851895,75000000,80000000,HPV,5,0.0,True,Retained integration query coordinates
+12,133851895,80000000,85000000,HPV,4,0.0,True,Retained integration query coordinates
+12,133851895,85000000,90000000,HPV,6,0.0,True,Retained integration query coordinates
+12,133851895,90000000,95000000,HPV,6,0.0,True,Retained integration query coordinates
+12,133851895,95000000,100000000,HPV,3,0.0,True,Retained integration query coordinates
+12,133851895,100000000,105000000,HPV,5,0.0,True,Retained integration query coordinates
+12,133851895,105000000,110000000,HPV,4,0.0,True,Retained integration query coordinates
+12,133851895,110000000,115000000,HPV,10,0.0,True,Retained integration query coordinates
+12,133851895,115000000,120000000,HPV,5,0.0,True,Retained integration query coordinates
+12,133851895,120000000,125000000,HPV,9,0.0,True,Retained integration query coordinates
+12,133851895,125000000,130000000,HPV,6,0.0,True,Retained integration query coordinates
+12,133851895,130000000,133851895,HPV,8,0.0,True,Retained integration query coordinates
+13,115169878,0,5000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+13,115169878,5000000,10000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+13,115169878,10000000,15000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+13,115169878,15000000,20000000,SV breakends,69,0.0,False,All eligible paired-call breakends
+13,115169878,20000000,25000000,SV breakends,653,0.0,False,All eligible paired-call breakends
+13,115169878,25000000,30000000,SV breakends,468,0.0,False,All eligible paired-call breakends
+13,115169878,30000000,35000000,SV breakends,533,0.0,False,All eligible paired-call breakends
+13,115169878,35000000,40000000,SV breakends,376,0.0,False,All eligible paired-call breakends
+13,115169878,40000000,45000000,SV breakends,490,0.0,False,All eligible paired-call breakends
+13,115169878,45000000,50000000,SV breakends,520,0.0,False,All eligible paired-call breakends
+13,115169878,50000000,55000000,SV breakends,352,0.0,False,All eligible paired-call breakends
+13,115169878,55000000,60000000,SV breakends,296,0.0,False,All eligible paired-call breakends
+13,115169878,60000000,65000000,SV breakends,292,0.0,False,All eligible paired-call breakends
+13,115169878,65000000,70000000,SV breakends,402,0.0,False,All eligible paired-call breakends
+13,115169878,70000000,75000000,SV breakends,493,0.0,False,All eligible paired-call breakends
+13,115169878,75000000,80000000,SV breakends,339,0.0,False,All eligible paired-call breakends
+13,115169878,80000000,85000000,SV breakends,298,0.0,False,All eligible paired-call breakends
+13,115169878,85000000,90000000,SV breakends,256,0.0,False,All eligible paired-call breakends
+13,115169878,90000000,95000000,SV breakends,304,0.0,False,All eligible paired-call breakends
+13,115169878,95000000,100000000,SV breakends,453,0.0,False,All eligible paired-call breakends
+13,115169878,100000000,105000000,SV breakends,397,0.0,False,All eligible paired-call breakends
+13,115169878,105000000,110000000,SV breakends,401,0.0,False,All eligible paired-call breakends
+13,115169878,110000000,115000000,SV breakends,415,0.19,False,All eligible paired-call breakends
+13,115169878,115000000,115169878,SV breakends,17,1.0,False,All eligible paired-call breakends
+13,115169878,0,5000000,HBV,0,0.0,True,Retained integration query coordinates
+13,115169878,5000000,10000000,HBV,0,0.0,True,Retained integration query coordinates
+13,115169878,10000000,15000000,HBV,0,0.0,True,Retained integration query coordinates
+13,115169878,15000000,20000000,HBV,3,0.0,True,Retained integration query coordinates
+13,115169878,20000000,25000000,HBV,7,0.0,True,Retained integration query coordinates
+13,115169878,25000000,30000000,HBV,7,0.0,True,Retained integration query coordinates
+13,115169878,30000000,35000000,HBV,6,0.0,True,Retained integration query coordinates
+13,115169878,35000000,40000000,HBV,9,0.0,True,Retained integration query coordinates
+13,115169878,40000000,45000000,HBV,3,0.0,True,Retained integration query coordinates
+13,115169878,45000000,50000000,HBV,2,0.0,True,Retained integration query coordinates
+13,115169878,50000000,55000000,HBV,1,0.0,True,Retained integration query coordinates
+13,115169878,55000000,60000000,HBV,5,0.0,True,Retained integration query coordinates
+13,115169878,60000000,65000000,HBV,9,0.0,True,Retained integration query coordinates
+13,115169878,65000000,70000000,HBV,9,0.0,True,Retained integration query coordinates
+13,115169878,70000000,75000000,HBV,4,0.0,True,Retained integration query coordinates
+13,115169878,75000000,80000000,HBV,8,0.0,True,Retained integration query coordinates
+13,115169878,80000000,85000000,HBV,5,0.0,True,Retained integration query coordinates
+13,115169878,85000000,90000000,HBV,6,0.0,True,Retained integration query coordinates
+13,115169878,90000000,95000000,HBV,6,0.0,True,Retained integration query coordinates
+13,115169878,95000000,100000000,HBV,8,0.0,True,Retained integration query coordinates
+13,115169878,100000000,105000000,HBV,5,0.0,True,Retained integration query coordinates
+13,115169878,105000000,110000000,HBV,12,0.0,True,Retained integration query coordinates
+13,115169878,110000000,115000000,HBV,3,0.19,True,Retained integration query coordinates
+13,115169878,115000000,115169878,HBV,0,1.0,True,Retained integration query coordinates
+13,115169878,0,5000000,HPV,0,0.0,True,Retained integration query coordinates
+13,115169878,5000000,10000000,HPV,0,0.0,True,Retained integration query coordinates
+13,115169878,10000000,15000000,HPV,0,0.0,True,Retained integration query coordinates
+13,115169878,15000000,20000000,HPV,1,0.0,True,Retained integration query coordinates
+13,115169878,20000000,25000000,HPV,4,0.0,True,Retained integration query coordinates
+13,115169878,25000000,30000000,HPV,6,0.0,True,Retained integration query coordinates
+13,115169878,30000000,35000000,HPV,3,0.0,True,Retained integration query coordinates
+13,115169878,35000000,40000000,HPV,2,0.0,True,Retained integration query coordinates
+13,115169878,40000000,45000000,HPV,4,0.0,True,Retained integration query coordinates
+13,115169878,45000000,50000000,HPV,7,0.0,True,Retained integration query coordinates
+13,115169878,50000000,55000000,HPV,4,0.0,True,Retained integration query coordinates
+13,115169878,55000000,60000000,HPV,8,0.0,True,Retained integration query coordinates
+13,115169878,60000000,65000000,HPV,2,0.0,True,Retained integration query coordinates
+13,115169878,65000000,70000000,HPV,7,0.0,True,Retained integration query coordinates
+13,115169878,70000000,75000000,HPV,52,0.0,True,Retained integration query coordinates
+13,115169878,75000000,80000000,HPV,4,0.0,True,Retained integration query coordinates
+13,115169878,80000000,85000000,HPV,4,0.0,True,Retained integration query coordinates
+13,115169878,85000000,90000000,HPV,5,0.0,True,Retained integration query coordinates
+13,115169878,90000000,95000000,HPV,4,0.0,True,Retained integration query coordinates
+13,115169878,95000000,100000000,HPV,5,0.0,True,Retained integration query coordinates
+13,115169878,100000000,105000000,HPV,2,0.0,True,Retained integration query coordinates
+13,115169878,105000000,110000000,HPV,5,0.0,True,Retained integration query coordinates
+13,115169878,110000000,115000000,HPV,10,0.19,True,Retained integration query coordinates
+13,115169878,115000000,115169878,HPV,0,1.0,True,Retained integration query coordinates
+14,107349540,0,5000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+14,107349540,5000000,10000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+14,107349540,10000000,15000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+14,107349540,15000000,20000000,SV breakends,24,0.0,False,All eligible paired-call breakends
+14,107349540,20000000,25000000,SV breakends,602,0.0,False,All eligible paired-call breakends
+14,107349540,25000000,30000000,SV breakends,462,0.0,False,All eligible paired-call breakends
+14,107349540,30000000,35000000,SV breakends,508,0.37,False,All eligible paired-call breakends
+14,107349540,35000000,40000000,SV breakends,553,0.71,False,All eligible paired-call breakends
+14,107349540,40000000,45000000,SV breakends,332,0.0,False,All eligible paired-call breakends
+14,107349540,45000000,50000000,SV breakends,376,0.0,False,All eligible paired-call breakends
+14,107349540,50000000,55000000,SV breakends,486,0.0,False,All eligible paired-call breakends
+14,107349540,55000000,60000000,SV breakends,370,0.0,False,All eligible paired-call breakends
+14,107349540,60000000,65000000,SV breakends,342,0.0,False,All eligible paired-call breakends
+14,107349540,65000000,70000000,SV breakends,621,0.0,False,All eligible paired-call breakends
+14,107349540,70000000,75000000,SV breakends,435,0.0,False,All eligible paired-call breakends
+14,107349540,75000000,80000000,SV breakends,397,0.0,False,All eligible paired-call breakends
+14,107349540,80000000,85000000,SV breakends,272,0.0,False,All eligible paired-call breakends
+14,107349540,85000000,90000000,SV breakends,297,0.0,False,All eligible paired-call breakends
+14,107349540,90000000,95000000,SV breakends,319,0.0,False,All eligible paired-call breakends
+14,107349540,95000000,100000000,SV breakends,403,0.0,False,All eligible paired-call breakends
+14,107349540,100000000,105000000,SV breakends,632,0.0,False,All eligible paired-call breakends
+14,107349540,105000000,107349540,SV breakends,441,0.0,False,All eligible paired-call breakends
+14,107349540,0,5000000,HBV,0,0.0,True,Retained integration query coordinates
+14,107349540,5000000,10000000,HBV,0,0.0,True,Retained integration query coordinates
+14,107349540,10000000,15000000,HBV,0,0.0,True,Retained integration query coordinates
+14,107349540,15000000,20000000,HBV,3,0.0,True,Retained integration query coordinates
+14,107349540,20000000,25000000,HBV,8,0.0,True,Retained integration query coordinates
+14,107349540,25000000,30000000,HBV,0,0.0,True,Retained integration query coordinates
+14,107349540,30000000,35000000,HBV,3,0.37,True,Retained integration query coordinates
+14,107349540,35000000,40000000,HBV,3,0.71,True,Retained integration query coordinates
+14,107349540,40000000,45000000,HBV,6,0.0,True,Retained integration query coordinates
+14,107349540,45000000,50000000,HBV,7,0.0,True,Retained integration query coordinates
+14,107349540,50000000,55000000,HBV,2,0.0,True,Retained integration query coordinates
+14,107349540,55000000,60000000,HBV,4,0.0,True,Retained integration query coordinates
+14,107349540,60000000,65000000,HBV,7,0.0,True,Retained integration query coordinates
+14,107349540,65000000,70000000,HBV,2,0.0,True,Retained integration query coordinates
+14,107349540,70000000,75000000,HBV,3,0.0,True,Retained integration query coordinates
+14,107349540,75000000,80000000,HBV,11,0.0,True,Retained integration query coordinates
+14,107349540,80000000,85000000,HBV,6,0.0,True,Retained integration query coordinates
+14,107349540,85000000,90000000,HBV,4,0.0,True,Retained integration query coordinates
+14,107349540,90000000,95000000,HBV,3,0.0,True,Retained integration query coordinates
+14,107349540,95000000,100000000,HBV,5,0.0,True,Retained integration query coordinates
+14,107349540,100000000,105000000,HBV,6,0.0,True,Retained integration query coordinates
+14,107349540,105000000,107349540,HBV,2,0.0,True,Retained integration query coordinates
+14,107349540,0,5000000,HPV,0,0.0,True,Retained integration query coordinates
+14,107349540,5000000,10000000,HPV,0,0.0,True,Retained integration query coordinates
+14,107349540,10000000,15000000,HPV,0,0.0,True,Retained integration query coordinates
+14,107349540,15000000,20000000,HPV,3,0.0,True,Retained integration query coordinates
+14,107349540,20000000,25000000,HPV,7,0.0,True,Retained integration query coordinates
+14,107349540,25000000,30000000,HPV,8,0.0,True,Retained integration query coordinates
+14,107349540,30000000,35000000,HPV,1,0.37,True,Retained integration query coordinates
+14,107349540,35000000,40000000,HPV,1,0.71,True,Retained integration query coordinates
+14,107349540,40000000,45000000,HPV,3,0.0,True,Retained integration query coordinates
+14,107349540,45000000,50000000,HPV,5,0.0,True,Retained integration query coordinates
+14,107349540,50000000,55000000,HPV,2,0.0,True,Retained integration query coordinates
+14,107349540,55000000,60000000,HPV,5,0.0,True,Retained integration query coordinates
+14,107349540,60000000,65000000,HPV,6,0.0,True,Retained integration query coordinates
+14,107349540,65000000,70000000,HPV,9,0.0,True,Retained integration query coordinates
+14,107349540,70000000,75000000,HPV,7,0.0,True,Retained integration query coordinates
+14,107349540,75000000,80000000,HPV,9,0.0,True,Retained integration query coordinates
+14,107349540,80000000,85000000,HPV,2,0.0,True,Retained integration query coordinates
+14,107349540,85000000,90000000,HPV,0,0.0,True,Retained integration query coordinates
+14,107349540,90000000,95000000,HPV,4,0.0,True,Retained integration query coordinates
+14,107349540,95000000,100000000,HPV,61,0.0,True,Retained integration query coordinates
+14,107349540,100000000,105000000,HPV,6,0.0,True,Retained integration query coordinates
+14,107349540,105000000,107349540,HPV,10,0.0,True,Retained integration query coordinates
+15,102531392,0,5000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+15,102531392,5000000,10000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+15,102531392,10000000,15000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+15,102531392,15000000,20000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+15,102531392,20000000,25000000,SV breakends,247,0.0,False,All eligible paired-call breakends
+15,102531392,25000000,30000000,SV breakends,276,0.0,False,All eligible paired-call breakends
+15,102531392,30000000,35000000,SV breakends,328,0.0,False,All eligible paired-call breakends
+15,102531392,35000000,40000000,SV breakends,244,0.0,False,All eligible paired-call breakends
+15,102531392,40000000,45000000,SV breakends,438,0.0,False,All eligible paired-call breakends
+15,102531392,45000000,50000000,SV breakends,403,0.0,False,All eligible paired-call breakends
+15,102531392,50000000,55000000,SV breakends,429,0.0,False,All eligible paired-call breakends
+15,102531392,55000000,60000000,SV breakends,486,0.0,False,All eligible paired-call breakends
+15,102531392,60000000,65000000,SV breakends,488,0.0,False,All eligible paired-call breakends
+15,102531392,65000000,70000000,SV breakends,413,0.0,False,All eligible paired-call breakends
+15,102531392,70000000,75000000,SV breakends,416,0.0,False,All eligible paired-call breakends
+15,102531392,75000000,80000000,SV breakends,427,0.0,False,All eligible paired-call breakends
+15,102531392,80000000,85000000,SV breakends,291,0.0,False,All eligible paired-call breakends
+15,102531392,85000000,90000000,SV breakends,351,0.0,False,All eligible paired-call breakends
+15,102531392,90000000,95000000,SV breakends,541,0.0,False,All eligible paired-call breakends
+15,102531392,95000000,100000000,SV breakends,653,0.35,False,All eligible paired-call breakends
+15,102531392,100000000,102531392,SV breakends,251,1.0,False,All eligible paired-call breakends
+15,102531392,0,5000000,HBV,0,0.0,True,Retained integration query coordinates
+15,102531392,5000000,10000000,HBV,0,0.0,True,Retained integration query coordinates
+15,102531392,10000000,15000000,HBV,0,0.0,True,Retained integration query coordinates
+15,102531392,15000000,20000000,HBV,0,0.0,True,Retained integration query coordinates
+15,102531392,20000000,25000000,HBV,6,0.0,True,Retained integration query coordinates
+15,102531392,25000000,30000000,HBV,4,0.0,True,Retained integration query coordinates
+15,102531392,30000000,35000000,HBV,4,0.0,True,Retained integration query coordinates
+15,102531392,35000000,40000000,HBV,8,0.0,True,Retained integration query coordinates
+15,102531392,40000000,45000000,HBV,9,0.0,True,Retained integration query coordinates
+15,102531392,45000000,50000000,HBV,5,0.0,True,Retained integration query coordinates
+15,102531392,50000000,55000000,HBV,4,0.0,True,Retained integration query coordinates
+15,102531392,55000000,60000000,HBV,3,0.0,True,Retained integration query coordinates
+15,102531392,60000000,65000000,HBV,5,0.0,True,Retained integration query coordinates
+15,102531392,65000000,70000000,HBV,4,0.0,True,Retained integration query coordinates
+15,102531392,70000000,75000000,HBV,1,0.0,True,Retained integration query coordinates
+15,102531392,75000000,80000000,HBV,3,0.0,True,Retained integration query coordinates
+15,102531392,80000000,85000000,HBV,5,0.0,True,Retained integration query coordinates
+15,102531392,85000000,90000000,HBV,8,0.0,True,Retained integration query coordinates
+15,102531392,90000000,95000000,HBV,3,0.0,True,Retained integration query coordinates
+15,102531392,95000000,100000000,HBV,3,0.35,True,Retained integration query coordinates
+15,102531392,100000000,102531392,HBV,0,1.0,True,Retained integration query coordinates
+15,102531392,0,5000000,HPV,0,0.0,True,Retained integration query coordinates
+15,102531392,5000000,10000000,HPV,0,0.0,True,Retained integration query coordinates
+15,102531392,10000000,15000000,HPV,0,0.0,True,Retained integration query coordinates
+15,102531392,15000000,20000000,HPV,0,0.0,True,Retained integration query coordinates
+15,102531392,20000000,25000000,HPV,8,0.0,True,Retained integration query coordinates
+15,102531392,25000000,30000000,HPV,5,0.0,True,Retained integration query coordinates
+15,102531392,30000000,35000000,HPV,8,0.0,True,Retained integration query coordinates
+15,102531392,35000000,40000000,HPV,9,0.0,True,Retained integration query coordinates
+15,102531392,40000000,45000000,HPV,5,0.0,True,Retained integration query coordinates
+15,102531392,45000000,50000000,HPV,5,0.0,True,Retained integration query coordinates
+15,102531392,50000000,55000000,HPV,4,0.0,True,Retained integration query coordinates
+15,102531392,55000000,60000000,HPV,7,0.0,True,Retained integration query coordinates
+15,102531392,60000000,65000000,HPV,6,0.0,True,Retained integration query coordinates
+15,102531392,65000000,70000000,HPV,4,0.0,True,Retained integration query coordinates
+15,102531392,70000000,75000000,HPV,9,0.0,True,Retained integration query coordinates
+15,102531392,75000000,80000000,HPV,5,0.0,True,Retained integration query coordinates
+15,102531392,80000000,85000000,HPV,9,0.0,True,Retained integration query coordinates
+15,102531392,85000000,90000000,HPV,4,0.0,True,Retained integration query coordinates
+15,102531392,90000000,95000000,HPV,16,0.0,True,Retained integration query coordinates
+15,102531392,95000000,100000000,HPV,2,0.35,True,Retained integration query coordinates
+15,102531392,100000000,102531392,HPV,0,1.0,True,Retained integration query coordinates
+16,90354753,0,5000000,SV breakends,747,0.0,False,All eligible paired-call breakends
+16,90354753,5000000,10000000,SV breakends,605,0.0,False,All eligible paired-call breakends
+16,90354753,10000000,15000000,SV breakends,516,0.0,False,All eligible paired-call breakends
+16,90354753,15000000,20000000,SV breakends,332,0.0,False,All eligible paired-call breakends
+16,90354753,20000000,25000000,SV breakends,298,0.0,False,All eligible paired-call breakends
+16,90354753,25000000,30000000,SV breakends,352,0.0,False,All eligible paired-call breakends
+16,90354753,30000000,35000000,SV breakends,343,0.0,False,All eligible paired-call breakends
+16,90354753,35000000,40000000,SV breakends,22,0.0,False,All eligible paired-call breakends
+16,90354753,40000000,45000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+16,90354753,45000000,50000000,SV breakends,376,0.0,False,All eligible paired-call breakends
+16,90354753,50000000,55000000,SV breakends,303,0.0,False,All eligible paired-call breakends
+16,90354753,55000000,60000000,SV breakends,401,0.0,False,All eligible paired-call breakends
+16,90354753,60000000,65000000,SV breakends,335,0.0,False,All eligible paired-call breakends
+16,90354753,65000000,70000000,SV breakends,577,0.0,False,All eligible paired-call breakends
+16,90354753,70000000,75000000,SV breakends,490,0.0,False,All eligible paired-call breakends
+16,90354753,75000000,80000000,SV breakends,926,0.0,False,All eligible paired-call breakends
+16,90354753,80000000,85000000,SV breakends,387,0.0,False,All eligible paired-call breakends
+16,90354753,85000000,90000000,SV breakends,636,0.0,False,All eligible paired-call breakends
+16,90354753,90000000,90354753,SV breakends,21,0.0,False,All eligible paired-call breakends
+16,90354753,0,5000000,HBV,11,0.0,True,Retained integration query coordinates
+16,90354753,5000000,10000000,HBV,2,0.0,True,Retained integration query coordinates
+16,90354753,10000000,15000000,HBV,11,0.0,True,Retained integration query coordinates
+16,90354753,15000000,20000000,HBV,3,0.0,True,Retained integration query coordinates
+16,90354753,20000000,25000000,HBV,6,0.0,True,Retained integration query coordinates
+16,90354753,25000000,30000000,HBV,6,0.0,True,Retained integration query coordinates
+16,90354753,30000000,35000000,HBV,7,0.0,True,Retained integration query coordinates
+16,90354753,35000000,40000000,HBV,0,0.0,True,Retained integration query coordinates
+16,90354753,40000000,45000000,HBV,0,0.0,True,Retained integration query coordinates
+16,90354753,45000000,50000000,HBV,31,0.0,True,Retained integration query coordinates
+16,90354753,50000000,55000000,HBV,5,0.0,True,Retained integration query coordinates
+16,90354753,55000000,60000000,HBV,11,0.0,True,Retained integration query coordinates
+16,90354753,60000000,65000000,HBV,3,0.0,True,Retained integration query coordinates
+16,90354753,65000000,70000000,HBV,6,0.0,True,Retained integration query coordinates
+16,90354753,70000000,75000000,HBV,5,0.0,True,Retained integration query coordinates
+16,90354753,75000000,80000000,HBV,6,0.0,True,Retained integration query coordinates
+16,90354753,80000000,85000000,HBV,2,0.0,True,Retained integration query coordinates
+16,90354753,85000000,90000000,HBV,12,0.0,True,Retained integration query coordinates
+16,90354753,90000000,90354753,HBV,0,0.0,True,Retained integration query coordinates
+16,90354753,0,5000000,HPV,10,0.0,True,Retained integration query coordinates
+16,90354753,5000000,10000000,HPV,4,0.0,True,Retained integration query coordinates
+16,90354753,10000000,15000000,HPV,8,0.0,True,Retained integration query coordinates
+16,90354753,15000000,20000000,HPV,4,0.0,True,Retained integration query coordinates
+16,90354753,20000000,25000000,HPV,1,0.0,True,Retained integration query coordinates
+16,90354753,25000000,30000000,HPV,1,0.0,True,Retained integration query coordinates
+16,90354753,30000000,35000000,HPV,10,0.0,True,Retained integration query coordinates
+16,90354753,35000000,40000000,HPV,0,0.0,True,Retained integration query coordinates
+16,90354753,40000000,45000000,HPV,0,0.0,True,Retained integration query coordinates
+16,90354753,45000000,50000000,HPV,16,0.0,True,Retained integration query coordinates
+16,90354753,50000000,55000000,HPV,4,0.0,True,Retained integration query coordinates
+16,90354753,55000000,60000000,HPV,9,0.0,True,Retained integration query coordinates
+16,90354753,60000000,65000000,HPV,3,0.0,True,Retained integration query coordinates
+16,90354753,65000000,70000000,HPV,7,0.0,True,Retained integration query coordinates
+16,90354753,70000000,75000000,HPV,6,0.0,True,Retained integration query coordinates
+16,90354753,75000000,80000000,HPV,5,0.0,True,Retained integration query coordinates
+16,90354753,80000000,85000000,HPV,6,0.0,True,Retained integration query coordinates
+16,90354753,85000000,90000000,HPV,12,0.0,True,Retained integration query coordinates
+16,90354753,90000000,90354753,HPV,0,0.0,True,Retained integration query coordinates
+17,81195210,0,5000000,SV breakends,589,0.0,False,All eligible paired-call breakends
+17,81195210,5000000,10000000,SV breakends,819,0.0,False,All eligible paired-call breakends
+17,81195210,10000000,15000000,SV breakends,697,0.0,False,All eligible paired-call breakends
+17,81195210,15000000,20000000,SV breakends,978,0.25,False,All eligible paired-call breakends
+17,81195210,20000000,25000000,SV breakends,401,1.0,False,All eligible paired-call breakends
+17,81195210,25000000,30000000,SV breakends,890,0.51,False,All eligible paired-call breakends
+17,81195210,30000000,35000000,SV breakends,773,0.0,False,All eligible paired-call breakends
+17,81195210,35000000,40000000,SV breakends,2201,0.17,False,All eligible paired-call breakends
+17,81195210,40000000,45000000,SV breakends,720,0.0,False,All eligible paired-call breakends
+17,81195210,45000000,50000000,SV breakends,1013,0.18,False,All eligible paired-call breakends
+17,81195210,50000000,55000000,SV breakends,776,0.0,False,All eligible paired-call breakends
+17,81195210,55000000,60000000,SV breakends,1319,0.06,False,All eligible paired-call breakends
+17,81195210,60000000,65000000,SV breakends,854,0.15,False,All eligible paired-call breakends
+17,81195210,65000000,70000000,SV breakends,791,0.3,False,All eligible paired-call breakends
+17,81195210,70000000,75000000,SV breakends,979,0.25,False,All eligible paired-call breakends
+17,81195210,75000000,80000000,SV breakends,686,0.27,False,All eligible paired-call breakends
+17,81195210,80000000,81195210,SV breakends,195,1.0,False,All eligible paired-call breakends
+17,81195210,0,5000000,HBV,10,0.0,True,Retained integration query coordinates
+17,81195210,5000000,10000000,HBV,8,0.0,True,Retained integration query coordinates
+17,81195210,10000000,15000000,HBV,14,0.0,True,Retained integration query coordinates
+17,81195210,15000000,20000000,HBV,19,0.25,True,Retained integration query coordinates
+17,81195210,20000000,25000000,HBV,0,1.0,True,Retained integration query coordinates
+17,81195210,25000000,30000000,HBV,2,0.51,True,Retained integration query coordinates
+17,81195210,30000000,35000000,HBV,3,0.0,True,Retained integration query coordinates
+17,81195210,35000000,40000000,HBV,8,0.17,True,Retained integration query coordinates
+17,81195210,40000000,45000000,HBV,4,0.0,True,Retained integration query coordinates
+17,81195210,45000000,50000000,HBV,5,0.18,True,Retained integration query coordinates
+17,81195210,50000000,55000000,HBV,6,0.0,True,Retained integration query coordinates
+17,81195210,55000000,60000000,HBV,3,0.06,True,Retained integration query coordinates
+17,81195210,60000000,65000000,HBV,4,0.15,True,Retained integration query coordinates
+17,81195210,65000000,70000000,HBV,2,0.3,True,Retained integration query coordinates
+17,81195210,70000000,75000000,HBV,6,0.25,True,Retained integration query coordinates
+17,81195210,75000000,80000000,HBV,3,0.27,True,Retained integration query coordinates
+17,81195210,80000000,81195210,HBV,0,1.0,True,Retained integration query coordinates
+17,81195210,0,5000000,HPV,9,0.0,True,Retained integration query coordinates
+17,81195210,5000000,10000000,HPV,2,0.0,True,Retained integration query coordinates
+17,81195210,10000000,15000000,HPV,1,0.0,True,Retained integration query coordinates
+17,81195210,15000000,20000000,HPV,6,0.25,True,Retained integration query coordinates
+17,81195210,20000000,25000000,HPV,0,1.0,True,Retained integration query coordinates
+17,81195210,25000000,30000000,HPV,4,0.51,True,Retained integration query coordinates
+17,81195210,30000000,35000000,HPV,2,0.0,True,Retained integration query coordinates
+17,81195210,35000000,40000000,HPV,14,0.17,True,Retained integration query coordinates
+17,81195210,40000000,45000000,HPV,6,0.0,True,Retained integration query coordinates
+17,81195210,45000000,50000000,HPV,12,0.18,True,Retained integration query coordinates
+17,81195210,50000000,55000000,HPV,5,0.0,True,Retained integration query coordinates
+17,81195210,55000000,60000000,HPV,12,0.06,True,Retained integration query coordinates
+17,81195210,60000000,65000000,HPV,7,0.15,True,Retained integration query coordinates
+17,81195210,65000000,70000000,HPV,2,0.3,True,Retained integration query coordinates
+17,81195210,70000000,75000000,HPV,7,0.25,True,Retained integration query coordinates
+17,81195210,75000000,80000000,HPV,2,0.27,True,Retained integration query coordinates
+17,81195210,80000000,81195210,HPV,0,1.0,True,Retained integration query coordinates
+18,78077248,0,5000000,SV breakends,599,0.0,False,All eligible paired-call breakends
+18,78077248,5000000,10000000,SV breakends,646,0.0,False,All eligible paired-call breakends
+18,78077248,10000000,15000000,SV breakends,562,0.21,False,All eligible paired-call breakends
+18,78077248,15000000,20000000,SV breakends,393,1.0,False,All eligible paired-call breakends
+18,78077248,20000000,25000000,SV breakends,1044,0.36,False,All eligible paired-call breakends
+18,78077248,25000000,30000000,SV breakends,669,0.0,False,All eligible paired-call breakends
+18,78077248,30000000,35000000,SV breakends,515,0.0,False,All eligible paired-call breakends
+18,78077248,35000000,40000000,SV breakends,471,0.0,False,All eligible paired-call breakends
+18,78077248,40000000,45000000,SV breakends,425,0.0,False,All eligible paired-call breakends
+18,78077248,45000000,50000000,SV breakends,519,0.0,False,All eligible paired-call breakends
+18,78077248,50000000,55000000,SV breakends,385,0.0,False,All eligible paired-call breakends
+18,78077248,55000000,60000000,SV breakends,355,0.0,False,All eligible paired-call breakends
+18,78077248,60000000,65000000,SV breakends,503,0.0,False,All eligible paired-call breakends
+18,78077248,65000000,70000000,SV breakends,343,0.0,False,All eligible paired-call breakends
+18,78077248,70000000,75000000,SV breakends,466,0.0,False,All eligible paired-call breakends
+18,78077248,75000000,78077248,SV breakends,254,0.0,False,All eligible paired-call breakends
+18,78077248,0,5000000,HBV,11,0.0,True,Retained integration query coordinates
+18,78077248,5000000,10000000,HBV,5,0.0,True,Retained integration query coordinates
+18,78077248,10000000,15000000,HBV,4,0.21,True,Retained integration query coordinates
+18,78077248,15000000,20000000,HBV,0,1.0,True,Retained integration query coordinates
+18,78077248,20000000,25000000,HBV,0,0.36,True,Retained integration query coordinates
+18,78077248,25000000,30000000,HBV,3,0.0,True,Retained integration query coordinates
+18,78077248,30000000,35000000,HBV,8,0.0,True,Retained integration query coordinates
+18,78077248,35000000,40000000,HBV,3,0.0,True,Retained integration query coordinates
+18,78077248,40000000,45000000,HBV,2,0.0,True,Retained integration query coordinates
+18,78077248,45000000,50000000,HBV,4,0.0,True,Retained integration query coordinates
+18,78077248,50000000,55000000,HBV,6,0.0,True,Retained integration query coordinates
+18,78077248,55000000,60000000,HBV,4,0.0,True,Retained integration query coordinates
+18,78077248,60000000,65000000,HBV,8,0.0,True,Retained integration query coordinates
+18,78077248,65000000,70000000,HBV,7,0.0,True,Retained integration query coordinates
+18,78077248,70000000,75000000,HBV,6,0.0,True,Retained integration query coordinates
+18,78077248,75000000,78077248,HBV,5,0.0,True,Retained integration query coordinates
+18,78077248,0,5000000,HPV,10,0.0,True,Retained integration query coordinates
+18,78077248,5000000,10000000,HPV,4,0.0,True,Retained integration query coordinates
+18,78077248,10000000,15000000,HPV,1,0.21,True,Retained integration query coordinates
+18,78077248,15000000,20000000,HPV,0,1.0,True,Retained integration query coordinates
+18,78077248,20000000,25000000,HPV,3,0.36,True,Retained integration query coordinates
+18,78077248,25000000,30000000,HPV,4,0.0,True,Retained integration query coordinates
+18,78077248,30000000,35000000,HPV,2,0.0,True,Retained integration query coordinates
+18,78077248,35000000,40000000,HPV,6,0.0,True,Retained integration query coordinates
+18,78077248,40000000,45000000,HPV,1,0.0,True,Retained integration query coordinates
+18,78077248,45000000,50000000,HPV,6,0.0,True,Retained integration query coordinates
+18,78077248,50000000,55000000,HPV,4,0.0,True,Retained integration query coordinates
+18,78077248,55000000,60000000,HPV,6,0.0,True,Retained integration query coordinates
+18,78077248,60000000,65000000,HPV,8,0.0,True,Retained integration query coordinates
+18,78077248,65000000,70000000,HPV,6,0.0,True,Retained integration query coordinates
+18,78077248,70000000,75000000,HPV,9,0.0,True,Retained integration query coordinates
+18,78077248,75000000,78077248,HPV,2,0.0,True,Retained integration query coordinates
+19,59128983,0,5000000,SV breakends,802,0.0,False,All eligible paired-call breakends
+19,59128983,5000000,10000000,SV breakends,874,0.0,False,All eligible paired-call breakends
+19,59128983,10000000,15000000,SV breakends,1256,0.23,False,All eligible paired-call breakends
+19,59128983,15000000,20000000,SV breakends,1065,0.0,False,All eligible paired-call breakends
+19,59128983,20000000,25000000,SV breakends,735,0.0,False,All eligible paired-call breakends
+19,59128983,25000000,30000000,SV breakends,602,0.0,False,All eligible paired-call breakends
+19,59128983,30000000,35000000,SV breakends,1241,0.06,False,All eligible paired-call breakends
+19,59128983,35000000,40000000,SV breakends,1023,0.19,False,All eligible paired-call breakends
+19,59128983,40000000,45000000,SV breakends,826,0.06,False,All eligible paired-call breakends
+19,59128983,45000000,50000000,SV breakends,818,0.0,False,All eligible paired-call breakends
+19,59128983,50000000,55000000,SV breakends,527,0.0,False,All eligible paired-call breakends
+19,59128983,55000000,59128983,SV breakends,463,0.0,False,All eligible paired-call breakends
+19,59128983,0,5000000,HBV,11,0.0,True,Retained integration query coordinates
+19,59128983,5000000,10000000,HBV,6,0.0,True,Retained integration query coordinates
+19,59128983,10000000,15000000,HBV,9,0.23,True,Retained integration query coordinates
+19,59128983,15000000,20000000,HBV,10,0.0,True,Retained integration query coordinates
+19,59128983,20000000,25000000,HBV,9,0.0,True,Retained integration query coordinates
+19,59128983,25000000,30000000,HBV,2,0.0,True,Retained integration query coordinates
+19,59128983,30000000,35000000,HBV,3,0.06,True,Retained integration query coordinates
+19,59128983,35000000,40000000,HBV,56,0.19,True,Retained integration query coordinates
+19,59128983,40000000,45000000,HBV,11,0.06,True,Retained integration query coordinates
+19,59128983,45000000,50000000,HBV,7,0.0,True,Retained integration query coordinates
+19,59128983,50000000,55000000,HBV,10,0.0,True,Retained integration query coordinates
+19,59128983,55000000,59128983,HBV,9,0.0,True,Retained integration query coordinates
+19,59128983,0,5000000,HPV,18,0.0,True,Retained integration query coordinates
+19,59128983,5000000,10000000,HPV,8,0.0,True,Retained integration query coordinates
+19,59128983,10000000,15000000,HPV,5,0.23,True,Retained integration query coordinates
+19,59128983,15000000,20000000,HPV,6,0.0,True,Retained integration query coordinates
+19,59128983,20000000,25000000,HPV,7,0.0,True,Retained integration query coordinates
+19,59128983,25000000,30000000,HPV,0,0.0,True,Retained integration query coordinates
+19,59128983,30000000,35000000,HPV,2,0.06,True,Retained integration query coordinates
+19,59128983,35000000,40000000,HPV,7,0.19,True,Retained integration query coordinates
+19,59128983,40000000,45000000,HPV,10,0.06,True,Retained integration query coordinates
+19,59128983,45000000,50000000,HPV,53,0.0,True,Retained integration query coordinates
+19,59128983,50000000,55000000,HPV,10,0.0,True,Retained integration query coordinates
+19,59128983,55000000,59128983,HPV,8,0.0,True,Retained integration query coordinates
+20,63025520,0,5000000,SV breakends,501,0.0,False,All eligible paired-call breakends
+20,63025520,5000000,10000000,SV breakends,584,0.0,False,All eligible paired-call breakends
+20,63025520,10000000,15000000,SV breakends,927,0.0,False,All eligible paired-call breakends
+20,63025520,15000000,20000000,SV breakends,978,0.0,False,All eligible paired-call breakends
+20,63025520,20000000,25000000,SV breakends,579,0.0,False,All eligible paired-call breakends
+20,63025520,25000000,30000000,SV breakends,152,0.0,False,All eligible paired-call breakends
+20,63025520,30000000,35000000,SV breakends,895,0.0,False,All eligible paired-call breakends
+20,63025520,35000000,40000000,SV breakends,597,0.0,False,All eligible paired-call breakends
+20,63025520,40000000,45000000,SV breakends,565,0.0,False,All eligible paired-call breakends
+20,63025520,45000000,50000000,SV breakends,883,0.0,False,All eligible paired-call breakends
+20,63025520,50000000,55000000,SV breakends,925,0.22,False,All eligible paired-call breakends
+20,63025520,55000000,60000000,SV breakends,693,0.0,False,All eligible paired-call breakends
+20,63025520,60000000,63025520,SV breakends,441,0.35548269388402653,False,All eligible paired-call breakends
+20,63025520,0,5000000,HBV,5,0.0,True,Retained integration query coordinates
+20,63025520,5000000,10000000,HBV,6,0.0,True,Retained integration query coordinates
+20,63025520,10000000,15000000,HBV,3,0.0,True,Retained integration query coordinates
+20,63025520,15000000,20000000,HBV,5,0.0,True,Retained integration query coordinates
+20,63025520,20000000,25000000,HBV,5,0.0,True,Retained integration query coordinates
+20,63025520,25000000,30000000,HBV,2,0.0,True,Retained integration query coordinates
+20,63025520,30000000,35000000,HBV,5,0.0,True,Retained integration query coordinates
+20,63025520,35000000,40000000,HBV,4,0.0,True,Retained integration query coordinates
+20,63025520,40000000,45000000,HBV,7,0.0,True,Retained integration query coordinates
+20,63025520,45000000,50000000,HBV,10,0.0,True,Retained integration query coordinates
+20,63025520,50000000,55000000,HBV,5,0.22,True,Retained integration query coordinates
+20,63025520,55000000,60000000,HBV,8,0.0,True,Retained integration query coordinates
+20,63025520,60000000,63025520,HBV,4,0.35548269388402653,True,Retained integration query coordinates
+20,63025520,0,5000000,HPV,3,0.0,True,Retained integration query coordinates
+20,63025520,5000000,10000000,HPV,8,0.0,True,Retained integration query coordinates
+20,63025520,10000000,15000000,HPV,21,0.0,True,Retained integration query coordinates
+20,63025520,15000000,20000000,HPV,10,0.0,True,Retained integration query coordinates
+20,63025520,20000000,25000000,HPV,5,0.0,True,Retained integration query coordinates
+20,63025520,25000000,30000000,HPV,2,0.0,True,Retained integration query coordinates
+20,63025520,30000000,35000000,HPV,3,0.0,True,Retained integration query coordinates
+20,63025520,35000000,40000000,HPV,11,0.0,True,Retained integration query coordinates
+20,63025520,40000000,45000000,HPV,3,0.0,True,Retained integration query coordinates
+20,63025520,45000000,50000000,HPV,12,0.0,True,Retained integration query coordinates
+20,63025520,50000000,55000000,HPV,6,0.22,True,Retained integration query coordinates
+20,63025520,55000000,60000000,HPV,4,0.0,True,Retained integration query coordinates
+20,63025520,60000000,63025520,HPV,5,0.35548269388402653,True,Retained integration query coordinates
+21,48129895,0,5000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+21,48129895,5000000,10000000,SV breakends,12,0.0,False,All eligible paired-call breakends
+21,48129895,10000000,15000000,SV breakends,129,0.0,False,All eligible paired-call breakends
+21,48129895,15000000,20000000,SV breakends,572,0.0,False,All eligible paired-call breakends
+21,48129895,20000000,25000000,SV breakends,700,0.0,False,All eligible paired-call breakends
+21,48129895,25000000,30000000,SV breakends,581,0.0,False,All eligible paired-call breakends
+21,48129895,30000000,35000000,SV breakends,657,0.0,False,All eligible paired-call breakends
+21,48129895,35000000,40000000,SV breakends,1119,0.0,False,All eligible paired-call breakends
+21,48129895,40000000,45000000,SV breakends,1213,0.0,False,All eligible paired-call breakends
+21,48129895,45000000,48129895,SV breakends,498,0.0,False,All eligible paired-call breakends
+21,48129895,0,5000000,HBV,0,0.0,True,Retained integration query coordinates
+21,48129895,5000000,10000000,HBV,4,0.0,True,Retained integration query coordinates
+21,48129895,10000000,15000000,HBV,8,0.0,True,Retained integration query coordinates
+21,48129895,15000000,20000000,HBV,3,0.0,True,Retained integration query coordinates
+21,48129895,20000000,25000000,HBV,9,0.0,True,Retained integration query coordinates
+21,48129895,25000000,30000000,HBV,4,0.0,True,Retained integration query coordinates
+21,48129895,30000000,35000000,HBV,3,0.0,True,Retained integration query coordinates
+21,48129895,35000000,40000000,HBV,0,0.0,True,Retained integration query coordinates
+21,48129895,40000000,45000000,HBV,1,0.0,True,Retained integration query coordinates
+21,48129895,45000000,48129895,HBV,4,0.0,True,Retained integration query coordinates
+21,48129895,0,5000000,HPV,0,0.0,True,Retained integration query coordinates
+21,48129895,5000000,10000000,HPV,6,0.0,True,Retained integration query coordinates
+21,48129895,10000000,15000000,HPV,9,0.0,True,Retained integration query coordinates
+21,48129895,15000000,20000000,HPV,5,0.0,True,Retained integration query coordinates
+21,48129895,20000000,25000000,HPV,6,0.0,True,Retained integration query coordinates
+21,48129895,25000000,30000000,HPV,4,0.0,True,Retained integration query coordinates
+21,48129895,30000000,35000000,HPV,3,0.0,True,Retained integration query coordinates
+21,48129895,35000000,40000000,HPV,3,0.0,True,Retained integration query coordinates
+21,48129895,40000000,45000000,HPV,10,0.0,True,Retained integration query coordinates
+21,48129895,45000000,48129895,HPV,4,0.0,True,Retained integration query coordinates
+22,51304566,0,5000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+22,51304566,5000000,10000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+22,51304566,10000000,15000000,SV breakends,0,0.0,False,All eligible paired-call breakends
+22,51304566,15000000,20000000,SV breakends,372,0.0,False,All eligible paired-call breakends
+22,51304566,20000000,25000000,SV breakends,622,0.0,False,All eligible paired-call breakends
+22,51304566,25000000,30000000,SV breakends,716,0.0,False,All eligible paired-call breakends
+22,51304566,30000000,35000000,SV breakends,707,0.0,False,All eligible paired-call breakends
+22,51304566,35000000,40000000,SV breakends,832,0.0,False,All eligible paired-call breakends
+22,51304566,40000000,45000000,SV breakends,927,0.0,False,All eligible paired-call breakends
+22,51304566,45000000,50000000,SV breakends,740,0.0,False,All eligible paired-call breakends
+22,51304566,50000000,51304566,SV breakends,196,0.0,False,All eligible paired-call breakends
+22,51304566,0,5000000,HBV,0,0.0,True,Retained integration query coordinates
+22,51304566,5000000,10000000,HBV,0,0.0,True,Retained integration query coordinates
+22,51304566,10000000,15000000,HBV,0,0.0,True,Retained integration query coordinates
+22,51304566,15000000,20000000,HBV,4,0.0,True,Retained integration query coordinates
+22,51304566,20000000,25000000,HBV,5,0.0,True,Retained integration query coordinates
+22,51304566,25000000,30000000,HBV,3,0.0,True,Retained integration query coordinates
+22,51304566,30000000,35000000,HBV,5,0.0,True,Retained integration query coordinates
+22,51304566,35000000,40000000,HBV,9,0.0,True,Retained integration query coordinates
+22,51304566,40000000,45000000,HBV,1,0.0,True,Retained integration query coordinates
+22,51304566,45000000,50000000,HBV,3,0.0,True,Retained integration query coordinates
+22,51304566,50000000,51304566,HBV,1,0.0,True,Retained integration query coordinates
+22,51304566,0,5000000,HPV,0,0.0,True,Retained integration query coordinates
+22,51304566,5000000,10000000,HPV,0,0.0,True,Retained integration query coordinates
+22,51304566,10000000,15000000,HPV,0,0.0,True,Retained integration query coordinates
+22,51304566,15000000,20000000,HPV,8,0.0,True,Retained integration query coordinates
+22,51304566,20000000,25000000,HPV,7,0.0,True,Retained integration query coordinates
+22,51304566,25000000,30000000,HPV,13,0.0,True,Retained integration query coordinates
+22,51304566,30000000,35000000,HPV,12,0.0,True,Retained integration query coordinates
+22,51304566,35000000,40000000,HPV,8,0.0,True,Retained integration query coordinates
+22,51304566,40000000,45000000,HPV,6,0.0,True,Retained integration query coordinates
+22,51304566,45000000,50000000,HPV,3,0.0,True,Retained integration query coordinates
+22,51304566,50000000,51304566,HPV,1,0.0,True,Retained integration query coordinates
+X,155270560,0,5000000,SV breakends,295,0.0,False,All eligible paired-call breakends
+X,155270560,5000000,10000000,SV breakends,492,0.0,False,All eligible paired-call breakends
+X,155270560,10000000,15000000,SV breakends,371,0.0,False,All eligible paired-call breakends
+X,155270560,15000000,20000000,SV breakends,383,0.0,False,All eligible paired-call breakends
+X,155270560,20000000,25000000,SV breakends,374,0.0,False,All eligible paired-call breakends
+X,155270560,25000000,30000000,SV breakends,342,0.0,False,All eligible paired-call breakends
+X,155270560,30000000,35000000,SV breakends,574,0.0,False,All eligible paired-call breakends
+X,155270560,35000000,40000000,SV breakends,175,0.0,False,All eligible paired-call breakends
+X,155270560,40000000,45000000,SV breakends,280,0.0,False,All eligible paired-call breakends
+X,155270560,45000000,50000000,SV breakends,326,0.0,False,All eligible paired-call breakends
+X,155270560,50000000,55000000,SV breakends,219,0.0,False,All eligible paired-call breakends
+X,155270560,55000000,60000000,SV breakends,210,0.0,False,All eligible paired-call breakends
+X,155270560,60000000,65000000,SV breakends,318,0.0,False,All eligible paired-call breakends
+X,155270560,65000000,70000000,SV breakends,538,0.0,False,All eligible paired-call breakends
+X,155270560,70000000,75000000,SV breakends,414,0.0,False,All eligible paired-call breakends
+X,155270560,75000000,80000000,SV breakends,331,0.0,False,All eligible paired-call breakends
+X,155270560,80000000,85000000,SV breakends,308,0.0,False,All eligible paired-call breakends
+X,155270560,85000000,90000000,SV breakends,222,0.0,False,All eligible paired-call breakends
+X,155270560,90000000,95000000,SV breakends,325,0.0,False,All eligible paired-call breakends
+X,155270560,95000000,100000000,SV breakends,364,0.0,False,All eligible paired-call breakends
+X,155270560,100000000,105000000,SV breakends,313,0.0,False,All eligible paired-call breakends
+X,155270560,105000000,110000000,SV breakends,278,0.0,False,All eligible paired-call breakends
+X,155270560,110000000,115000000,SV breakends,230,0.0,False,All eligible paired-call breakends
+X,155270560,115000000,120000000,SV breakends,263,0.0,False,All eligible paired-call breakends
+X,155270560,120000000,125000000,SV breakends,382,0.0,False,All eligible paired-call breakends
+X,155270560,125000000,130000000,SV breakends,282,0.0,False,All eligible paired-call breakends
+X,155270560,130000000,135000000,SV breakends,231,0.0,False,All eligible paired-call breakends
+X,155270560,135000000,140000000,SV breakends,305,0.0,False,All eligible paired-call breakends
+X,155270560,140000000,145000000,SV breakends,388,0.0,False,All eligible paired-call breakends
+X,155270560,145000000,150000000,SV breakends,388,0.0,False,All eligible paired-call breakends
+X,155270560,150000000,155000000,SV breakends,373,0.0,False,All eligible paired-call breakends
+X,155270560,155000000,155270560,SV breakends,31,0.0,False,All eligible paired-call breakends
+X,155270560,0,5000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,5000000,10000000,HBV,6,0.0,True,Retained integration query coordinates
+X,155270560,10000000,15000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,15000000,20000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,20000000,25000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,25000000,30000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,30000000,35000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,35000000,40000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,40000000,45000000,HBV,0,0.0,True,Retained integration query coordinates
+X,155270560,45000000,50000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,50000000,55000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,55000000,60000000,HBV,3,0.0,True,Retained integration query coordinates
+X,155270560,60000000,65000000,HBV,0,0.0,True,Retained integration query coordinates
+X,155270560,65000000,70000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,70000000,75000000,HBV,3,0.0,True,Retained integration query coordinates
+X,155270560,75000000,80000000,HBV,3,0.0,True,Retained integration query coordinates
+X,155270560,80000000,85000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,85000000,90000000,HBV,5,0.0,True,Retained integration query coordinates
+X,155270560,90000000,95000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,95000000,100000000,HBV,4,0.0,True,Retained integration query coordinates
+X,155270560,100000000,105000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,105000000,110000000,HBV,4,0.0,True,Retained integration query coordinates
+X,155270560,110000000,115000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,115000000,120000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,120000000,125000000,HBV,6,0.0,True,Retained integration query coordinates
+X,155270560,125000000,130000000,HBV,4,0.0,True,Retained integration query coordinates
+X,155270560,130000000,135000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,135000000,140000000,HBV,3,0.0,True,Retained integration query coordinates
+X,155270560,140000000,145000000,HBV,2,0.0,True,Retained integration query coordinates
+X,155270560,145000000,150000000,HBV,5,0.0,True,Retained integration query coordinates
+X,155270560,150000000,155000000,HBV,1,0.0,True,Retained integration query coordinates
+X,155270560,155000000,155270560,HBV,0,0.0,True,Retained integration query coordinates
+X,155270560,0,5000000,HPV,4,0.0,True,Retained integration query coordinates
+X,155270560,5000000,10000000,HPV,2,0.0,True,Retained integration query coordinates
+X,155270560,10000000,15000000,HPV,4,0.0,True,Retained integration query coordinates
+X,155270560,15000000,20000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,20000000,25000000,HPV,7,0.0,True,Retained integration query coordinates
+X,155270560,25000000,30000000,HPV,5,0.0,True,Retained integration query coordinates
+X,155270560,30000000,35000000,HPV,9,0.0,True,Retained integration query coordinates
+X,155270560,35000000,40000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,40000000,45000000,HPV,9,0.0,True,Retained integration query coordinates
+X,155270560,45000000,50000000,HPV,20,0.0,True,Retained integration query coordinates
+X,155270560,50000000,55000000,HPV,3,0.0,True,Retained integration query coordinates
+X,155270560,55000000,60000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,60000000,65000000,HPV,14,0.0,True,Retained integration query coordinates
+X,155270560,65000000,70000000,HPV,3,0.0,True,Retained integration query coordinates
+X,155270560,70000000,75000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,75000000,80000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,80000000,85000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,85000000,90000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,90000000,95000000,HPV,7,0.0,True,Retained integration query coordinates
+X,155270560,95000000,100000000,HPV,17,0.0,True,Retained integration query coordinates
+X,155270560,100000000,105000000,HPV,7,0.0,True,Retained integration query coordinates
+X,155270560,105000000,110000000,HPV,4,0.0,True,Retained integration query coordinates
+X,155270560,110000000,115000000,HPV,10,0.0,True,Retained integration query coordinates
+X,155270560,115000000,120000000,HPV,4,0.0,True,Retained integration query coordinates
+X,155270560,120000000,125000000,HPV,5,0.0,True,Retained integration query coordinates
+X,155270560,125000000,130000000,HPV,7,0.0,True,Retained integration query coordinates
+X,155270560,130000000,135000000,HPV,2,0.0,True,Retained integration query coordinates
+X,155270560,135000000,140000000,HPV,6,0.0,True,Retained integration query coordinates
+X,155270560,140000000,145000000,HPV,13,0.0,True,Retained integration query coordinates
+X,155270560,145000000,150000000,HPV,3,0.0,True,Retained integration query coordinates
+X,155270560,150000000,155000000,HPV,15,0.0,True,Retained integration query coordinates
+X,155270560,155000000,155270560,HPV,0,0.0,True,Retained integration query coordinates
