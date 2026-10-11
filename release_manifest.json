@@ -470,8 +470,8 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 730,
-      "sha256": "bca9354d73b6e20d3554ea57221456c37edfaa360d2d6e0b401d40270cd560a6"
+      "bytes": 763,
+      "sha256": "0788a5d107c66ed936d8302618be312253765878400a9db5d8834e08fb3cbf50"
     },
     {
       "path": "data/numeric_results/background_unit_counts.csv",
@@ -1835,8 +1835,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5037,
-      "sha256": "5934bdd83d59fe8323532714159595e99b2068b8a343cf8b15a5a18ed6ed05c4"
+      "bytes": 5086,
+      "sha256": "d08195f2ae55733d4d536ae8fb6cd7cf3b0d275fa8ce680edfcf954d30a768e6"
     },
     {
       "path": "reproduce_porter/expected/composition_redistribution.csv",

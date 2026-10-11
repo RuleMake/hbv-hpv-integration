@@ -98,4 +98,4 @@ The authors' software is distributed under the MIT license; see `LICENSE`.
 Data from other studies remain subject to their original terms. Please cite
 the accompanying manuscript and the relevant source studies when using these
 materials. `CITATION.cff` contains the software citation metadata. The source repository is
-[https://github.com/RuleMake/hbv-hpv-integration](https://github.com/RuleMake/hbv-hpv-integration). The Zenodo archive DOI will be added after archival publication.
+[https://github.com/RuleMake/hbv-hpv-integration](https://github.com/RuleMake/hbv-hpv-integration). The permanent archive is available on Zenodo: [10.5281/zenodo.23291379](https://doi.org/10.5281/zenodo.23291379).
